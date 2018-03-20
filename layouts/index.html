@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+  {{ partial "head" . }}
+</head>
+
+<body>
+  <header class="sidebar">
+    {{ partial "header" . }}
+  </header>
+
+  <main role="main" class="content">
+    {{ .Content }}
+  </main>
+
+  <footer class="footer">
+    {{ partial "footer" . }}
+  </footer>
+</body>
+
+</html>

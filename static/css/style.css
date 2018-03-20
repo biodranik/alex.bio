@@ -1,0 +1,26 @@
+body {
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, sans-serif;
+  background-color: #eeeeee;
+  color: #111111; }
+
+img {
+  width: 100%; }
+
+.sidebar {
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 20em;
+  text-align: left; }
+
+.content {
+  width: 100%;
+  margin-left: 20em;
+  position: relative;
+  left: 0; }
+
+.footer {
+  text-align: center;
+  font-size: 0.5em; }
