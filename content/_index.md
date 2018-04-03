@@ -24,7 +24,7 @@ Founding Investor @ [VibroBox](https://www.vibrobox.com/): Scalable,
 automated vibration diagnostics service for prescriptive maintenance,
 smart contracts, IIoT and Industry 4.0. The team of scientists and
 engineers with a digital signal processing expertise is led by [Igor
-Davydov, Ph.D.](https://www.vibrobox.com/team#igor_davydov) and is
+Davydov, Ph.D.](https://www.vibrobox.com/team/igor_davydov/) and is
 focused on wavelets, machine learning, fuzzy logic and other algorithms
 to create a "digital twin" of the analyzed equipment, extract all
 details about internal defects and provide proactive maintenance
