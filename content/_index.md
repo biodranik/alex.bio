@@ -16,9 +16,9 @@
 - Facebook:
   [facebook.com/biodranik](https://www.facebook.com/biodranik)
 
-# Experience
+## Experience
 
-## June 2016 — till now
+### June 2016 — till now
 
 Founding Investor @ [VibroBox](https://www.vibrobox.com/): Scalable,
 automated vibration diagnostics service for prescriptive maintenance,
@@ -38,13 +38,13 @@ recommendations.
 - Web site landing pages
 - Translations of scientific Russian into Common English
 
-## July 2010 — June 2016
+### July 2010 — June 2016
 
 [MAPS.ME](http://maps.me/) – open-source, detailed offline maps of the
 World for iOS and Android, based on crowd-sourced OpenStreetMap
 data
 
-### System Architect @ Mail.Ru Group/Co-Founder, January 2015 - June 2016
+#### System Architect @ Mail.Ru Group/Co-Founder, January 2015 - June 2016
 
 - Developed offline [map editor](https://venturebeat.com/2016/04/06/mapsme-openstreetmap-editing/)
   for MAPS.ME with direct upload to crowd-sourced OpenStreetMap database
@@ -54,7 +54,7 @@ data
   [https://github.com/biodranik/Alohalytics](https://github.com/biodranik/Alohalytics/),
   including cross-platform client code and scalable backend data collection module.
 
-### CTO/Co-Founder, November 2013 - January 2015
+#### CTO/Co-Founder, November 2013 - January 2015
 
 - Scaling of maps data distribution and HTTP delivery services to
   match growing user base
@@ -65,7 +65,7 @@ data
 - New features development and bug fixing
 - Web sites deployment
 
-### CEO/Co-Founder, February 2012 — November 2013
+#### CEO/Co-Founder, February 2012 — November 2013
 
 - Product management and releases delivery
 - Increased userbase from 120K to 2.5M
@@ -78,7 +78,7 @@ data
 - New features development and bug fixing
 - Perfected users support
 
-### Co-Founder, July 2010 — February 2012
+#### Co-Founder, July 2010 — February 2012
 
 - OpenStreetMap data processing pipeline
 - High load client/server maps distribution via HTTP
@@ -88,7 +88,7 @@ data
 - Compiled/ported core code to iOS, Android, Bada, Mac OS X, minGW,
   Linux, Windows XP/Vista/7
 
-## September 2010 — February 2011
+### September 2010 — February 2011
 
 First Mode Limited, Product Manager/Technical Director
 
@@ -100,7 +100,7 @@ Case Management System for cross-platform web clients
 - Planned timeline and estimated tasks with developers
 - Organized developers team and maintained project infrastructure.
 
-## February 2008 — July 2010
+### February 2008 — July 2010
 
 BLRSoft (now HTC Blr), mobile platforms development, Senior Software
 Engineer/Team and Technical Leader/Human Resource Manager/Linux
@@ -145,7 +145,7 @@ Search project for Symbian and Windows Mobile
 - Managed projects documentation on TRAC and internal wiki.
 - Implemented cross-platform python autobuild system.
 
-## October 2007 — February 2008
+### October 2007 — February 2008
 
 InfoTechnology Inc., belarussian division of XIM company, Senior
 Software Engineer
@@ -163,7 +163,7 @@ Midomi, music and hum/sing recognition client for Symbian devices
 - Automated QA processes with supporting perl scripts, including URL
   grabber, Purify log analyzer, html reports generator.
 
-## July 2007 — August 2007
+### July 2007 — August 2007
 
 DVD Ripper/Player Station
 
@@ -171,7 +171,7 @@ DVD Ripper/Player Station
   library, video files and DVD Playback with DirectShow, second
   monitor/projector support and multiDVD drives support.
 
-## September 2006 — October 2007
+### September 2006 — October 2007
 
 Belsoft Borlas Group, IT outsourcing solutions, Software Engineer/Team
 Leader
@@ -191,7 +191,7 @@ Smart IP, tcp/udp network optimizer and switcher
 - Created dozen of Functional Specifications and Design documents for
   different software components.
 
-## July 2004 – September 2006
+### July 2004 – September 2006
 
 Credo Dialogue, scientific & industrial company, CAD-systems
 development, Software Engineer
@@ -208,7 +208,7 @@ editing
   web site, automatic code documentation system with DoxyGen.
 - Got strong C++ and STL experience with algorithms and big data sets.
 
-## July 2003 – May 2004
+### July 2003 – May 2004
 
 Spark IT, internet services development, Software Design Engineer and
 Team Leader
@@ -221,16 +221,16 @@ support, chat encryption, file sharing, video and audio conferences
 - Implemented multiprotocol core layer, ICQ and AIM protocols support
   libraries, UI and configuration dialogs.
 
-## September 2000 – May 2003
+### September 2000 – May 2003
 
 EliteAuto, Official Volvo dealer in Belarus, Network and System
 administrator
 
 - Routing and maintenance of Windows networks in offices
 
-# Non-commercial projects
+## Non-commercial projects
 
-## June 2007 — May 2008
+### June 2007 — May 2008
 
 Crossplatform IRC News Feeds Publisher Bot
 
@@ -239,7 +239,7 @@ Crossplatform IRC News Feeds Publisher Bot
   parsing with full range character encodings support. It still lives
   in ByNets.org IRC network and publishes news ;)
 
-## October 2004 — 2014
+### October 2004 — 2014
 
 ByNets — Belarussian IRC network, IRC network coordinator co-founder
 
@@ -249,7 +249,7 @@ ByNets — Belarussian IRC network, IRC network coordinator co-founder
 - Configured and maintained several UnrealIRCd hub servers based on
   Linux and Windows.
 
-## September 2003 — June 2008
+### September 2003 — June 2008
 
 U6/X6 local network in Minsk, Home network administrator
 
@@ -264,7 +264,7 @@ U6/X6 local network in Minsk, Home network administrator
 - Implemented a lot of network administering Perl scripts for servers
   maintenance and network traffic analyzing.
 
-## October 2002 — May 2003
+### October 2002 — May 2003
 
 Belarussian State University of Informatics and Radioelectronics,
 Student
@@ -273,9 +273,9 @@ Student
 - Designed and implemented fast core algorithm for binary sequences
   generator and GUI for statistics visualization.
 
-# Education
+## Education
 
-## September 2016 – January 2018
+### September 2016 – January 2018
 
 Belarusian State University of Informatics and Radioelectronics in
 Minsk, Belarus
@@ -283,7 +283,7 @@ Minsk, Belarus
 **Master of Applied Science** (Informational Radiotechnologies on
 Faculty of Radioengineering and Electronics)
 
-## September 1999 – June 2004
+### September 1999 – June 2004
 
 Belarusian State University of Informatics and Radioelectronics in
 Minsk, Belarus
@@ -291,16 +291,16 @@ Minsk, Belarus
 **Bachelor degree** in Computer Science (graduated as Systems Software
 Engineer, Faculty of Computer Systems and Networks)
 
-## September 1988 – June 1999
+### September 1988 – June 1999
 
 Secondary and high school in Minsk
 
-# Speaking languages
+## Speaking languages
 
 English: fluent Russian: mother language Belarussian: mother language
 Spanish: basic level
 
-# Programming skills
+## Programming skills
 
 - Extensive experience in C, C++, ObjectiveC, Java, Qt, STL, WTL, WinAPI,
   WinSock, MFC, ATL, Bash, Perl, Python, Assembler, HTML/XHTML, CSS,
@@ -318,13 +318,13 @@ Spanish: basic level
   Jira, eXplanner, FIT BugTrack, Borland Starteam
 - Good knowledge of computer hardware and networks, HTTP, TCP, UDP, IP
 
-# Other skills
+## Other skills
 
 - Good team building abilities and experience
 - Project planning/estimating/documenting/management experience
 - Market research experience
 
-# Likes
+## Likes
 
 - Yoga & Health
 - Traveling and discovering the World
