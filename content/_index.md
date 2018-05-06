@@ -8,13 +8,13 @@
 
 ## Contacts
 
-{{<svg icon="gmail.svg" href="mailto:me@alex.bio?subject=Re:%20alex.bio" caption="me@alex.bio">}}
-{{<svg icon="linkedin.svg" href="https://www.linkedin.com/in/alexanderborsuk/" caption="linkedin.com/in/alexanderborsuk">}}
-{{<svg icon="github.svg" href="https://github.com/biodranik/" caption="github.com/biodranik">}}
-{{<svg icon="fb.svg" href="https://www.facebook.com/biodranik" caption="fb.me/biodranik">}}
-{{<svg icon="skype.svg" href="https://join.skype.com/invite/F0idNdpCTCIk" caption="live:biodranik">}}
-{{<svg icon="telegram.svg" href="https://t.me/BioDranik" caption="@BioDranik">}}
-{{<svg icon="tw.svg" href="https://twitter.com/biodranik" caption="@biodranik">}}
+{{<svg icon="cv/svg/gmail.svg" href="mailto:me@alex.bio?subject=Re:%20alex.bio" caption="me@alex.bio">}}
+{{<svg icon="cv/svg/linkedin.svg" href="https://www.linkedin.com/in/alexanderborsuk/" caption="linkedin.com/in/alexanderborsuk">}}
+{{<svg icon="cv/svg/github.svg" href="https://github.com/biodranik/" caption="github.com/biodranik">}}
+{{<svg icon="cv/svg/fb.svg" href="https://www.facebook.com/biodranik" caption="fb.me/biodranik">}}
+{{<svg icon="cv/svg/skype.svg" href="https://join.skype.com/invite/F0idNdpCTCIk" caption="live:biodranik">}}
+{{<svg icon="cv/svg/telegram.svg" href="https://t.me/BioDranik" caption="@BioDranik">}}
+{{<svg icon="cv/svg/tw.svg" href="https://twitter.com/biodranik" caption="@biodranik">}}
 
 ## Personal values and interests
 
