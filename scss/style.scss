@@ -43,7 +43,9 @@ border-bottom: 1px dotted $textColor;
 }
 
 .daterange {
-float: right;
+  float: right;
+  margin-left: 0.5em;
+  font-style: italic;
 }
 
 img {
