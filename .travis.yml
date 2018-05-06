@@ -1,6 +1,6 @@
 if: branch = master
 env:
-  - HUGO_VERSION=0.37.1  # Hugo version from https://github.com/gohugoio/hugo/releases
+  - HUGO_VERSION=0.40.2  # Hugo version from https://github.com/gohugoio/hugo/releases
 language: minimal
 git:
   depth: 1
