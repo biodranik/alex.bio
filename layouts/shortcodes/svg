@@ -1,0 +1,7 @@
+{{- $noExt := strings.TrimSuffix ".svg" (.Get "icon") -}}
+<figure class="{{$noExt}} svg">
+  {{with .Get "href"}}<a href="{{.}}" target="_blank">{{end}}
+  {{readFile (print "cv/svg/" (.Get "icon")) | safeHTML}}
+  {{with .Get "caption"}}<figcaption>{{.}}</figcaption>{{end}}
+  {{with .Get "href"}}</a>{{end}}
+</figure>
