@@ -7,4 +7,4 @@ else echo "`hugo` binary is not installed" && exit 1
 fi
 
 "$MYDIR/compile_scss.sh"
-"$HUGO"
+"$HUGO" -v
