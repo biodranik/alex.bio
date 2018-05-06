@@ -2,335 +2,422 @@
 ---
 # Alexander Borsuk
 
-## About Me
+> *Hi! I'm an IT engineer from Belarus, cofounder of [VibroBox][] and [MAPS.ME][]. I like [open source][My Github], love to travel, want to be healthy and to know everything.*
 
 ![Alexander Borsuk](images/alexander_borsuk_nyc.jpg "Alexander Borsuk")
 
 ## Contacts
 
-- E-mail: me@alex.bio
-- Skype/Telegram: BioDranik
-- GitHub: [github.com/biodranik](https://github.com/biodranik/)
-- LinkedIn:
-  [linkedin.com/in/alexanderborsuk](https://www.linkedin.com/in/alexanderborsuk/)
-- Facebook:
-  [facebook.com/biodranik](https://www.facebook.com/biodranik)
+{{<svg icon="gmail.svg" href="mailto:me@alex.bio?subject=Re:%20alex.bio" caption="me@alex.bio">}}
+{{<svg icon="linkedin.svg" href="https://www.linkedin.com/in/alexanderborsuk/" caption="linkedin.com/in/alexanderborsuk">}}
+{{<svg icon="github.svg" href="https://github.com/biodranik/" caption="github.com/biodranik">}}
+{{<svg icon="fb.svg" href="https://www.facebook.com/biodranik" caption="fb.me/biodranik">}}
+{{<svg icon="skype.svg" href="https://join.skype.com/invite/F0idNdpCTCIk" caption="live:biodranik">}}
+{{<svg icon="telegram.svg" href="https://t.me/BioDranik" caption="@BioDranik">}}
+{{<svg icon="tw.svg" href="https://twitter.com/biodranik" caption="@biodranik">}}
 
-## Experience
+## Education
 
-### June 2016 — till now
+### Belarusian State University of Informatics and Radioelectronics, Minsk, Belarus
 
-Founding Investor @ [VibroBox](https://www.vibrobox.com/): Scalable,
-automated vibration diagnostics service for prescriptive maintenance,
-smart contracts, IIoT and Industry 4.0. The team of scientists and
-engineers with a digital signal processing expertise is led by [Igor
-Davydov, Ph.D.](https://www.vibrobox.com/team/igor_davydov/) and is
-focused on wavelets, machine learning, fuzzy logic and other algorithms
-to create a "digital twin" of the analyzed equipment, extract all
-details about internal defects and provide proactive maintenance
-recommendations.
+- _2016–2018_ **Master of Science in Technology**, faculty of Radioengineering and Electronics
+- _1999–2004_ **Software and Hardware Systems Engineer**, faculty of Computer Systems and Networks
 
-- Business operations, strategy & development
-- Financing
-- Hosting and load scaling
-- Developed iOS and Android apps to record audio and other sensors data
-- Web service UI and concepts
-- Web site landing pages
-- Translations of scientific Russian into Common English
+### Functional Programming in Scala Specialization, Coursera
 
-### July 2010 — June 2016
+- 2018 Big Data Analysis with Scala and Spark
+- 2016 Parallel programming
+- 2016 Functional Program Design in Scala
+- 2016 Functional Programming Principles in Scala
 
-[MAPS.ME](http://maps.me/) – open-source, detailed offline maps of the
-World for iOS and Android, based on crowd-sourced OpenStreetMap
-data
+## Work Experience
 
-#### System Architect @ Mail.Ru Group/Co-Founder, January 2015 - June 2016
+### {{<daterange "2016" "now">}} Founding Investor of [VibroBox][]
 
-- Developed offline [map editor](https://venturebeat.com/2016/04/06/mapsme-openstreetmap-editing/)
-  for MAPS.ME with direct upload to crowd-sourced OpenStreetMap database
-- [Open-sourced](https://corp.mail.ru/en/press/releases/9422/) MAPS.ME code
-  [https://github.com/mapsme/omim](https://github.com/mapsme/omim/)
-- Developed and integrated open-source cross-platform statistics
-  [https://github.com/biodranik/Alohalytics](https://github.com/biodranik/Alohalytics/),
-  including cross-platform client code and scalable backend data collection module.
+VibroBox is a vibration-based diagnostics service for a scalable [prescriptive
+                                                                  maintenance](Smart Energy Summit news),
+*IIoT* and *Industry 4.0*. Our team of scientists, engineers
+and industry experts is focused on [digital signal processing][VibroBox Technology],
+wavelets, machine learning and other algorithms to prevent failures of industrial equipment
+by providing timely and automated maintenance instructions.
 
-#### CTO/Co-Founder, November 2013 - January 2015
+I have founded [VibroBox][] in 2016 together with [Igor Davydov, PhD][Igor],
+who had been working on vibration diagnostics for 15 years.
 
-- Scaling of maps data distribution and HTTP delivery services to
-  match growing user base
+My responsibilities:
+
+- Strategy and technology advisor
+- Business development, negotiations, presentations
+- Financing and accounting
+- Translations of Scientific Russian into Common English
+
+Some engineering tasks I've done:
+
+- Planning a scalable service architecture
+- Hostings administration
+- iOS and Android apps to collect audio and accelerometer data
+- [Web site][VibroBox] development and support
+- Code reviews
+
+Techs:
+: Docker
+: Hugo
+: PHP7
+: HTML5
+: CSS3
+: bash
+: Linux
+
+### {{<daterange "2010" "2016">}}  Cofounder, CEO, CTO of [MAPS.ME][]
+
+[MAPS.ME][] is an [open-source][omim] offline maps app for [iOS][MAPS.ME iOS]
+and [Android][MAPS.ME Android].
+A crowd-sourced OpenStreetMap data is used for walking and cycling directions, car navigation,
+discovering new places and local sightseeings. As of April 2018, MAPS.ME was installed by
+100M users all over the world.
+
+I was in different roles and got an extensive experience in engineering, team and technical leading,
+product and project management, business development, user support, marketing,
+public presentations, hiring and interviewing, teaching, etc.
+
+Techs:
+: C++11
+: Boost
+: Qt
+: ObjectiveC
+: Java
+: C
+: iOS
+: Android
+: Linux
+: Windows
+: MacOS
+: Bada
+: [OpenStreetMap][]
+: clang/gcc
+: python
+: bash
+: Golang
+: AppEngine
+
+#### {{<daterange "2015" "2016">}} System Architect at Mail.Ru Group
+
+After the [acquisition][] of MAPS.ME we have hired a new engineering team of 25 in Moscow and
+passed all our knowledge to them. I was in a "CTO" role at Maps department of
+[Mail.Ru Group](https://corp.mail.ru/en/):
+
+- Interviewed and trained new dev and QA team
+- Developed offline [map editor][] for MAPS.ME to upload map edits directly into the crowd-sourced [OpenStreetMap][] database
+- [Open-sourced][OpenSource Press Release] MAPS.ME code to [GitHub][omim]
+- Developed and integrated open-source, scalable, cross-platform statistics engine [Alohalytics][]
+for iOS, Android and C++ including cross-platform client code and backend data collection module.
+
+#### {{<daterange "2013" "2015">}} Co-Founder, CTO
+
 - Product management and releases delivery
-- Ported Open Source Routing Machine for offline navigation to iOS and
-  Android
+- Moved the code base from C++99 to C++11
+- Scaled maps data distribution cluster and HTTP delivery services to
+match growing user base
+- Ported Open Source Routing Machine ([OSRM](http://project-osrm.org/)) to iOS and Android
+to add offline navigation support
 - Gradle build system integration
 - New features development and bug fixing
 - Web sites deployment
 
-#### CEO/Co-Founder, February 2012 — November 2013
+#### {{<daterange "2012" "2013">}} Co-Founder, CEO
+
+The toughest period for MAPS.ME, when we started to earn some money and grew up our team
+and user base.
 
 - Product management and releases delivery
-- Increased userbase from 120K to 2.5M
-- Break-even revenue generation
+- Increased worldwide userbase from 120K to 2.5M
+- Break-even revenue generation by selling a paid version of MAPS.ME (MapsWithMe)
 - Built dev and marketing teams (13 people)
-- Developed and released 26 offline travel guides apps
-  [http://guidewithme.com](http://guidewithme.com/)
+- Developed and released 26 offline travel guides apps for iOS and
+Android ([GuideWithMe](http://guidewithme.com/ "Offline Travel Guides"))
 - Established development office in Minsk, Belarus
 - Business development, PR and marketing
 - New features development and bug fixing
-- Perfected users support
+- Perfected user support
 
-#### Co-Founder, July 2010 — February 2012
+#### {{<daterange "2010" "2012">}} Co-Founder
 
-- OpenStreetMap data processing pipeline
+At that time I was leading our small team in Minsk, responsible for a cross-platform
+build environment, code reviews, iOS and Android. The most notable tasks included:
+
+- Server-side [OpenStreetMap][] data processing pipeline
 - High load client/server maps distribution via HTTP
-- Unicode normalization for multilanguage offline search
-- Native user interface for iOS and Android, QT user interface for
-  Mac, Windows and Linux
+- Fast Unicode normalization algorithm for multilanguage offline search
+- Native UI for iOS and Android, Qt UI for easier development on MacOS, Windows and Linux
 - Compiled/ported core code to iOS, Android, Bada, Mac OS X, minGW,
-  Linux, Windows XP/Vista/7
+Linux, Windows XP/Vista/7
 
-### September 2010 — February 2011
+### {{<daterange "2008" "2010">}} CTO at BLRSoft
 
-First Mode Limited, Product Manager/Technical Director
+BLRSoft (as an R&D center of [Abaxia](https://www.crunchbase.com/organization/abaxia)) developed
+"home screens" software and firmware for Vodafone, Orange and other network operators.
+BLRSoft was acquhired by HTC in 2010 and renamed to HTC BLR. I was in many roles, including
+Senior Software Engineer, Team and Technical Leader, Project Manager, Technical Director, working
+on mobile software for Symbian and Windows Mobile.
 
-Case Management System for cross-platform web clients
-
-- Public Relations
-- Generated concepts and ideas for system design and UI and created
-  functional specifications
-- Planned timeline and estimated tasks with developers
-- Organized developers team and maintained project infrastructure.
-
-### February 2008 — July 2010
-
-BLRSoft (now HTC Blr), mobile platforms development, Senior Software
-Engineer/Team and Technical Leader/Human Resource Manager/Linux
-Administrator
-
-Search project for Symbian and Windows Mobile
-
-- Implemented Symbian devices data text indexing and search
-  functionality.
-- Universal Content Provider project for Symbian and Windows Mobile
+- Implemented Symbian devices data text indexing and search functionality.
+- Universal Content Provider project for Symbian and Windows Mobile.
 - Implemented and maintained Symbian data providers with access to
-  device's contacts, messages, calendar, bookmarks, network
-  connections.
+device's contacts, messages, calendar, bookmarks, network
+connections.
 - Ported library for different Symbian platforms (3.1, 3.2, 5.0, N97)
-  and maintained Windows Mobile compatibility.
-- Symbian Idle homescreens for European cellular operators
-- Managed projects tasks and organized local developer and QA teams,
-  including testing with different prototype devices.
-- Designed projects architecture for different Symbian platforms
+and maintained Windows Mobile compatibility.
+- Developed Symbian homescreens for European network operators.
+- Managed projects tasks, built and organized local developer/QA teams,
+including testing with different prototype devices.
+- Designed projects architecture for different Symbian platforms.
 - Developed a number of core components, including UI, networking,
-  calendar events, contacts database, missed calls, messages, e-mails,
-  status pane.
+calendar events, contacts database, missed calls, messages, e-mails,
+status pane.
 - Ported projects to Symbian 3.1, 3.2 and 5.0 (touch) devices.
 - Wrote technical and architectural specifications.
-- Integrated and used best practices from Agile/Extreme/Scrum
-  programming methodologies for the projects.
-- CardBrowser for Symbian, microSD card autolaunch menu
+- Integrated best practices from Agile/Scrum/Extreme programming.
+- CardBrowser library for Symbian (microSD card autolaunch menu).
 - Planned timeline and designed architecture and components.
 - Implemented different UI and core library parts, including
-  interactive controls, animation engine, ini-parser, images loading
-  and caching mechanism.
-- Mobile crossplatform GUI library for Windows Mobile and Symbian
-- Investigated and reviewed existing code and architecture with all
-  it's pros and cons.
-- Migrated code base from C to C++, from SVN to Mercurial.
+interactive controls, animation engine, ini-parser, images loading
+and caching mechanism.
+- Supported mobile crossplatform GUI library for Windows Mobile and Symbian.
+- Investigated and reviewed existing code and architecture.
+- Migrated code base from C to C++, and from SVN to Mercurial.
 - Developed and maintained different system components, including
-  messaging, networking and UI.
-- Internal company infrastructure support
-- Looked for new developers and iterviewed them.
-- Maintained Ubuntu/Debian linux administrative tasks: virtual
-  servers, backup, mail, network, wiki, LDAP, Mercurial etc.
+messaging, networking and UI.
+- Supported and administered internal company infrastructure.
+- Hired and interviewed new developers and QA.
+- Ubuntu/Debian administration: virtual servers, backup, mail, network, wiki, LDAP, Mercurial etc.
 - Managed projects documentation on TRAC and internal wiki.
 - Implemented cross-platform python autobuild system.
 
-### October 2007 — February 2008
+Techs:
+: C++
+: C
+: Symbian
+: Windows Mobile
 
-InfoTechnology Inc., belarussian division of XIM company, Senior
-Software Engineer
+### {{<daterange "2007" "2008">}} Senior Software Engineer at InfoTechnology
 
-Midomi, music and hum/sing recognition client for Symbian devices
+InfoTechnology is a belarussian division of a San-Francisco [XIM](https://ximxim.com/)
+company. I have developed a music and hum/sing recognition app for Symbian devices
+called "Midomi". The customer was [SoundHound Inc.](https://www.soundhound.com/) from California.
+Some tasks I've done that time:
 
-- Got rich development experience with Symbian OS system environment
-  and development tools.
-- Designed and implemented GUI for mobile client software, among with
-  http-based advertisement and http player.
-- OpenWave C++ firmware for cheap mobile phones
+- Got an extensive dev experience with Symbian OS system environment
+and development tools.
+- Designed and implemented GUI for Midomi, among with
+http-based advertisement and http player.
+- OpenWave C++ firmware for low-end mobile phones.
 - Developed a number of XSL transformations to convert internal XML
-  documentation, which is also the source for C++ headers, into XML
-  DITA format.
+documentation (which is also the source for C++ headers) into XML
+DITA format.
 - Automated QA processes with supporting perl scripts, including URL
-  grabber, Purify log analyzer, html reports generator.
+grabber, Purify log analyzer, HTML reports generator.
 
-### July 2007 — August 2007
+Techs:
+: C++
+: Symbian
+: Solaris
+: XSLT
+: Pair Programming
 
-DVD Ripper/Player Station
+### {{<daterange "Jul 2007" "Aug 2007">}} Freelanced DVD Ripper/Player Station project
 
-- Designed and implemented software for Windows, including GUI, movies
-  library, video files and DVD Playback with DirectShow, second
-  monitor/projector support and multiDVD drives support.
+Together with a friend, developed a Windows application for a touch-screen devices to easily play/grab DVD contents.
+In particular, developed these components:
 
-### September 2006 — October 2007
+- GUI
+- Movies library
+- Video files and DVD Playback with DirectShow
+- Second monitor/projector support
+- MultiDVD drives support
 
-Belsoft Borlas Group, IT outsourcing solutions, Software Engineer/Team
-Leader
+Techs:
+: Visual C++
+: WinAPI
+: ffmpeg
+: DirectShow
 
-Smart IP, tcp/udp network optimizer and switcher
+### {{<daterange "2006" "2007">}} Software Engineer and Team Leader at Belsoft-Borlas Group
+
+The main responsibility was to support a "Smart IP" system, a transparent tcp/udp
+network optimizer and switcher for desktop and mobile platforms. What I've done:
 
 - Redesigned Windows Mobile client GUI and ported it to WM5.0.
 - Integrated automatic Code Signing pipeline for Windows Mobile 5.0
-  client, including developer certificates at development stage and
-  VeriSign certificates for production based on Microsoft
-  Mobile2Market program.
+client, including developer certificates at development stage and
+VeriSign certificates for production based on Microsoft
+Mobile2Market program.
 - Developed and maintained software installation packages for
-  different Windows platforms.
+different Windows platforms.
 - Ported existing client/server code for Windows Vista and Windows
-  Server 2008, including LSP and NDIS network drivers.
+Server 2008, including LSP and NDIS network drivers.
 - Implemented log files analyzer and statistics generator.
-- Created dozen of Functional Specifications and Design documents for
-  different software components.
+- Created a dozen of Functional Specifications and Design documents for
+different software components.
 
-### July 2004 – September 2006
+Techs:
+: Visual C++
+: Windows Mobile
+: WinNT drivers
+: IP Networking
 
-Credo Dialogue, scientific & industrial company, CAD-systems
-development, Software Engineer
+### {{<daterange "2004" "2006">}} Software Engineer at [Credo Dialogue](http://www.credo-dialogue.com/)
 
-Topoplan and Genplan CAD software, 3D terrain/buildings modeling and
-editing
+Credo Dialogue is a scientific & industrial company which is developing CAD-systems combined into a single technological chain of information processing (topographical and geotechnical surveys, engineering design, terrain modelling, etc.). Here I met my friends and future MAPS.ME cofounders
+[Yury Melnichek](https://www.linkedin.com/in/melnichek/) and [Viktar Havaka](https://www.linkedin.com/in/viktar-havaka-308a2352/)
 
-- Designed and implemented many geometry primitives manipulation
-  modules, for example, points creation/editing, circle aligning with
-  splines etc.
-- Designed and implemented math parabola library.
-- Implemented several complex user interface dialogs.
+I worked on Topoplan and Genplan CAD software, 3D terrain/buildings modeling and editing, in particular:
+
+- Designed and implemented several software modules to manipulate geometrical primitives
+(to create/edit 3D points on the terrain, to align circles with splines,
+to create/edit parabolas, etc.)
+- Implemented several complex UI dialogs.
 - Organized and maintained internal project documentation, including
-  web site, automatic code documentation system with DoxyGen.
-- Got strong C++ and STL experience with algorithms and big data sets.
+web site, automatic code documentation system with DoxyGen.
+- Got a strong C++99 and STL experience with algorithms and big data sets.
 
-### July 2003 – May 2004
+Techs:
+: Visual C++
+: MFC
+: IncrediBuild
+: Doxygen
+: Borland StarTeam
 
-Spark IT, internet services development, Software Design Engineer and
-Team Leader
+### {{<daterange "2003" "2004">}} Software Engineer and Team Leader at Spark IT
 
-Messenger2 or M2 – Internet messenger with ICQ, AIM, MSN, Yahoo and IRC
-support, chat encryption, file sharing, video and audio conferences
+We developed an Internet messaging app "Messenger2" ("M2") with ICQ, AIM, MSN, Yahoo and IRC
+support, chat encryption, file sharing, video and audio conferences for a customer from UK.
+Trillian messenger was our closest competitor.
 
-- Found 4 developers and organized project team.
+- Built a team of 5 developers.
 - Designed general product's architecture and components.
+- Reverse-engineered ICQ and AIM protocols.
 - Implemented multiprotocol core layer, ICQ and AIM protocols support
-  libraries, UI and configuration dialogs.
+libraries, UI and configuration dialogs.
 
-### September 2000 – May 2003
+Techs:
+: C++
+: STL
+: WTL
+: WinAPI
 
-EliteAuto, Official Volvo dealer in Belarus, Network and System
-administrator
+## Non-commercial experience
 
-- Routing and maintenance of Windows networks in offices
+### {{<daterange "2007" "2008">}} Crossplatform IRC news feeds publisher bot
 
-## Non-commercial projects
+I have designed and implemented a configurable IRC bot for Windows and
+Linux, using curl, libmrss and libnxml libraries for RSS/Atom/XML
+parsing with full range character encodings support. It was alive until 2016.
 
-### June 2007 — May 2008
+Techs:
+: C++
+: Linux
 
-Crossplatform IRC News Feeds Publisher Bot
+### {{<daterange "2004" "2014">}} Co-founder and coordinator of ByNets IRC network
 
-- Designed and implemented highly configurable IRC bot for Windows and
-  Linux, using curl, libmrss and libnxml libraries for RSS/Atom/XML
-  parsing with full range character encodings support. It still lives
-  in ByNets.org IRC network and publishes news ;)
+ByNets was the largest IRC network in Belarus which united many people from universities,
+hostels, companies and city districts.
 
-### October 2004 — 2014
+- I've founded and supported IRC network and grew it's user base.
+- Created and supported main web site using RunCMS and Drupal.
+- Configured and maintained several UnrealIRCd hub servers on Linux and Windows.
 
-ByNets — Belarussian IRC network, IRC network coordinator co-founder
+Techs:
+: IRC
+: Linux
+: Drupal
 
-- Created and supported public belarussian IRC network.
-- Created and supported main web site based on RunCMS and later on
-  Drupal.
-- Configured and maintained several UnrealIRCd hub servers based on
-  Linux and Windows.
+### {{<daterange "2003" "2008">}} U6/X6 local network administrator in Minsk
 
-### September 2003 — June 2008
+That time we have built one of the largest Ethernet networks in Minsk with more
+than 1500 users from different districts. We used long-range cables, 100Mbit switches
+and targeted radiolinks to connect users from many apartment houses.
 
-U6/X6 local network in Minsk, Home network administrator
-
-- Residential (non-commercial) local network organisation (more than
-  350 machines).
+- Designed and developed a residential local network for hundreds of home users.
 - Provided IP, media and news services for local network users.
 - Maintained Debian Linux and Windows 2003 servers with different LAN
-  services, including local web sites and free hosting.
+services, including local web sites and free hosting.
 - Designed and implemented routing, DNS and DHCP between subnetworks,
-  including long-range (several kilometers), point-to-point Wi-Fi
-  connections to other residential networks.
-- Implemented a lot of network administering Perl scripts for servers
-  maintenance and network traffic analyzing.
+including long-range (several kilometers), point-to-point Wi-Fi
+connections to other residential networks.
+- Developed a number of network administering Perl scripts for servers
+maintenance and network traffic analyzing.
 
-### October 2002 — May 2003
+Techs:
+: Linux
+: bash
+: perl
 
-Belarussian State University of Informatics and Radioelectronics,
-Student
+### {{<daterange "2002" "2003">}} Belarusian State University of Informatics and Radioelectronics
 
-- Feedback Shift Registers Sequences generator and analysis
-- Designed and implemented fast core algorithm for binary sequences
-  generator and GUI for statistics visualization.
+I was studying generators based on linear-feedback shift registers:
 
-## Education
+- designed and implemented a fast core algorithm to generate binary sequences
+- wrote GUI for statistics visualization
 
-### September 2016 – January 2018
-
-Belarusian State University of Informatics and Radioelectronics in
-Minsk, Belarus
-
-**Master of Applied Science** (Informational Radiotechnologies on
-Faculty of Radioengineering and Electronics)
-
-### September 1999 – June 2004
-
-Belarusian State University of Informatics and Radioelectronics in
-Minsk, Belarus
-
-**Bachelor degree** in Computer Science (graduated as Systems Software
-Engineer, Faculty of Computer Systems and Networks)
-
-### September 1988 – June 1999
-
-Secondary and high school in Minsk
+Techs:
+: Visual C++
+: Assembler
 
 ## Speaking languages
 
-English: fluent Russian: mother language Belarussian: mother language
-Spanish: basic level
+- Fluent English
+- Native Belarusian
+- Native Russian
+- Very basic Spanish
+- Learning German
 
-## Programming skills
+## Software skills
 
-- Extensive experience in C, C++, ObjectiveC, Java, Qt, STL, WTL, WinAPI,
-  WinSock, MFC, ATL, Bash, Perl, Python, Assembler, HTML/XHTML, CSS,
-  XML, XSLT
-- General knowledge and some experience with Kotlin, Scala, C\#, COM,
-  Visual Basic, PHP, SQL, Pascal
+- Extensive experience in C++11, C, ObjectiveC, Java, Qt, STL, WTL, WinAPI,
+WinSock, MFC, ATL, Bash, Assembler, HTML/XHTML, CSS, XML, XSLT, PHP
+- General knowledge and some experience with Kotlin, Scala, C#, COM,
+Perl, Python, Visual Basic, SQL, Pascal
+- Experience with Google AppEngine, AWS, Docker, Travis
 - Administrator and system developer experience with Windows
-  98/2000/XP/2003/Vista/2008/7, Debian/Ubuntu Linux, Solaris, Mac OS X
+98/2000/XP/2003/Vista/2008/7, Debian/Ubuntu/CentOS Linux, Solaris, MacOS
 - System and application developer experience with iOS, Android,
-  Samsung Bada, PocketPC 2003, Windows Mobile 5/6, Symbian OS S60 3rd
-  and 5th Edition platforms
-- Source Control Systems: Git, Mercurial, CVS, SVN, Borland StarTeam,
-  Visual SourceSafe
+Samsung Bada, PocketPC 2003, Windows Mobile 5 and 6, Symbian OS S60 3rd
+and 5th Edition platforms
+- Source Control Systems: Git[hub], Mercurial, CVS, SVN, Borland StarTeam,
+Visual SourceSafe
 - Project management and issue tracking systems: Trello, Redmine, Trac,
-  Jira, eXplanner, FIT BugTrack, Borland Starteam
-- Good knowledge of computer hardware and networks, HTTP, TCP, UDP, IP
+Jira, eXplanner, FIT BugTrack, Borland Starteam
+- Good knowledge of computer hardware and networks, including HTTP and IP stack
 
-## Other skills
+## Other skills and experience
 
-- Good team building abilities and experience
-- Project planning/estimating/documenting/management experience
-- Market research experience
+- Building and ruling teams
+- Improving team work efficiency
+- Strict code review
+- Product management and marketing
+- Project management, task estimating, documenting, delivering
+- Market research and tracking competitors
+- Customer support
 
-## Likes
+## Personal Values and Interests
 
-- Yoga & Health
+- Healthy lifestyle and green environment
+- Medical research and biohacking
+- Life-long learner
 - Traveling and discovering the World
-- Self-development
-- Straightforwardness
-- Working in the team
-- Dance
-- Theatre
-- Volleyball, football and swimming
+
+-----
+[My Github]: https://github.com/biodranik?tab=repositories "My Github Projects"
+[MAPS.ME]: https://maps.me/download "Offline Maps of the World"
+[VibroBox]: https://www.vibrobox.com/ "Prescriptive Diagnostics for Industrial Equipment"
+[Igor]: https://www.vibrobox.com/team/igor-davydov/ "Igor Davydov, PhD in digital dignal processing and data science"
+[VibroBox Technology]: https://www.vibrobox.com/technology/ "Prescriptive Maintenance Technology"
+[Smart Energy Summit news]: https://www.vibrobox.com/news/2018/03/the-main-award-of-smart-energy-summit-2018-goes-to-vibrobox/#summary-of-vibrobox-ceo-igor-davydov-s-presentation "Prescriptive Diagnostics"
+[MAPS.ME iOS]: https://itunes.apple.com/app/id510623322 "MAPS.ME in the AppStore"
+[MAPS.ME Android]: https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro "MAPS.ME in the Google Play"
+[map editor]: https://venturebeat.com/2016/04/06/mapsme-openstreetmap-editing/ "Venturebeat: Edit OpenStreetMap with MAPS.ME"
+[OpenSource Press Release]: https://corp.mail.ru/en/press/releases/9422/ "Mail.Ru Press-Release: MAPS.ME Goes Open Source"
+[omim]: https://github.com/mapsme/omim "MAPS.ME Source Sode on GitHub"
+[Alohalytics]: https://github.com/biodranik/Alohalytics/ "C++, iOS and Android statistics engine"
+[OpenStreetMap]: https://www.openstreetmap.org/ "Crowd-sourced map database of the World"
+[acquisition]: https://techcrunch.com/2014/11/13/mail-ru-buys-maps-me-to-integrate-crowdsourced-maps-into-its-my-com-app-portal/ "MAPS.ME acquisition by Mail.Ru Group"
