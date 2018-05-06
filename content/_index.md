@@ -2,7 +2,7 @@
 ---
 # Alexander Borsuk
 
-> *Hi! I'm an IT engineer from Belarus, cofounder of [VibroBox][] and [MAPS.ME][]. I like [open source][My Github], love to travel, want to be healthy and to know everything.*
+> *Hi! I'm an IT engineer from Belarus, cofounder of [VibroBox][] and [MAPS.ME][]. I like [open source][My Github], love to travel, want to be healthy and understand how everything works.*
 
 ![Alexander Borsuk](images/alexander_borsuk_nyc.jpg "Alexander Borsuk")
 
@@ -15,6 +15,50 @@
 {{<svg icon="skype.svg" href="https://join.skype.com/invite/F0idNdpCTCIk" caption="live:biodranik">}}
 {{<svg icon="telegram.svg" href="https://t.me/BioDranik" caption="@BioDranik">}}
 {{<svg icon="tw.svg" href="https://twitter.com/biodranik" caption="@biodranik">}}
+
+## Personal values and interests
+
+- Life-long learner
+- Healthy lifestyle, green environment, eco food
+- Medical research and biohacking
+
+## I'm strong at:
+
+- C++11
+- Building and managing teams
+- Improving team efficiency
+- Project management, task estimating, documenting, delivering
+- Product management, marketing and support
+- Market research and tracking competitors
+- Software and hardware optimizations
+- Cross-platform and embedded solutions
+- Code reviews
+
+## Software skills
+
+- Extensive experience in C++11, C, ObjectiveC, Java, Qt, STL, WTL, WinAPI,
+  WinSock, MFC, ATL, Bash, Assembler, HTML/XHTML, CSS, XML, XSLT, PHP
+- General knowledge and some experience with Kotlin, Scala, C#, COM,
+  Perl, Python, Visual Basic, SQL, Pascal
+- Experience with Google AppEngine, AWS, Docker, Travis
+- Administrator and system developer experience with Windows
+  98/2000/XP/2003/Vista/2008/7, Debian/Ubuntu/CentOS Linux, Solaris, MacOS
+- System and application developer experience with iOS, Android,
+  Samsung Bada, PocketPC 2003, Windows Mobile 5 and 6, Symbian OS S60 3rd
+  and 5th Edition platforms
+- Source Control Systems: Git[hub], Mercurial, CVS, SVN, Borland StarTeam,
+  Visual SourceSafe
+- Project management and issue tracking systems: Trello, Redmine, Trac,
+  Jira, eXplanner, FIT BugTrack, Borland Starteam
+- Good knowledge of computer hardware and networks, including HTTP and IP stack
+
+## Speaking languages
+
+- Fluent English
+- Native Belarusian
+- Native Russian
+- Learning German
+- Basic Spanish
 
 ## Education
 
@@ -362,49 +406,6 @@ I was studying generators based on linear-feedback shift registers:
 Techs:
 : Visual C++
 : Assembler
-
-## Speaking languages
-
-- Fluent English
-- Native Belarusian
-- Native Russian
-- Very basic Spanish
-- Learning German
-
-## Software skills
-
-- Extensive experience in C++11, C, ObjectiveC, Java, Qt, STL, WTL, WinAPI,
-WinSock, MFC, ATL, Bash, Assembler, HTML/XHTML, CSS, XML, XSLT, PHP
-- General knowledge and some experience with Kotlin, Scala, C#, COM,
-Perl, Python, Visual Basic, SQL, Pascal
-- Experience with Google AppEngine, AWS, Docker, Travis
-- Administrator and system developer experience with Windows
-98/2000/XP/2003/Vista/2008/7, Debian/Ubuntu/CentOS Linux, Solaris, MacOS
-- System and application developer experience with iOS, Android,
-Samsung Bada, PocketPC 2003, Windows Mobile 5 and 6, Symbian OS S60 3rd
-and 5th Edition platforms
-- Source Control Systems: Git[hub], Mercurial, CVS, SVN, Borland StarTeam,
-Visual SourceSafe
-- Project management and issue tracking systems: Trello, Redmine, Trac,
-Jira, eXplanner, FIT BugTrack, Borland Starteam
-- Good knowledge of computer hardware and networks, including HTTP and IP stack
-
-## Other skills and experience
-
-- Building and ruling teams
-- Improving team work efficiency
-- Strict code review
-- Product management and marketing
-- Project management, task estimating, documenting, delivering
-- Market research and tracking competitors
-- Customer support
-
-## Personal Values and Interests
-
-- Healthy lifestyle and green environment
-- Medical research and biohacking
-- Life-long learner
-- Traveling and discovering the World
 
 -----
 [My Github]: https://github.com/biodranik?tab=repositories "My Github Projects"
