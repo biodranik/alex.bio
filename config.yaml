@@ -1,0 +1,9 @@
+baseURL: https://alex.bio/
+languageCode: en-US
+title: "Alexander Borsuk: Founding Investor @ VibroBox, cofounder @ MAPS.ME, Master of Applied Science"
+disableKinds: ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
+googleAnalytics: UA-71329020-1
+copyright: © 2018 Alexander Borsuk, <https://alex.bio/>
+
+blackfriday:
+  hrefTargetBlank: true

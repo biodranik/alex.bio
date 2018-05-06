@@ -1,0 +1,5 @@
+{{- $start := .Get 0 -}}
+{{- $end := .Get 1 -}}
+<span class="daterange">
+  <time datetime="{{$start}}">{{$start}}</time>–<time datetime="{{$end}}">{{$end}}</time>
+</span>
