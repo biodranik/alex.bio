@@ -147,11 +147,11 @@ a:any-link {
   cursor: pointer; }
   @media not print {
     a:any-link {
-      text-decoration: underline dashed;
-      -moz-text-decoration: underline dashed;
-      -webkit-text-decoration: underline dashed;
-      -o-text-decoration: underline dashed;
-      -ms-text-decoration: underline dashed; } }
+      text-decoration: underline dotted;
+      -moz-text-decoration: underline dotted;
+      -webkit-text-decoration: underline dotted;
+      -o-text-decoration: underline dotted;
+      -ms-text-decoration: underline dotted; } }
   @media print {
     a:any-link {
       text-decoration: none;
@@ -181,3 +181,20 @@ blockquote {
     vertical-align: -0.5em; }
   blockquote p {
     display: inline; }
+
+.printer {
+  float: right;
+  font-size: 50%;
+  font-family: 'Segoe UI Emoji'; }
+  @media print {
+    .printer {
+      display: none; } }
+  @media not print {
+    .printer {
+      display: inline; } }
+  .printer a:any-link {
+    text-decoration: none;
+    -moz-text-decoration: none;
+    -webkit-text-decoration: none;
+    -o-text-decoration: none;
+    -ms-text-decoration: none; }

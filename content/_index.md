@@ -1,6 +1,7 @@
 ---
 ---
-# Alexander Borsuk
+# Alexander Borsuk {{<printer>}}
+
 
 > *Hi! I'm an IT engineer from Belarus, co-founder of [VibroBox][] and [MAPS.ME][]. I like [open source][My Github], love to travel, want to be healthy and understand how everything works.*
 

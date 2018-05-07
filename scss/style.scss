@@ -185,3 +185,14 @@ vertical-align: -0.5em;
 }
 p { display: inline; }
 }
+
+// Unicode printer symbol 🖨 styling.
+.printer {
+  @media print { display: none; }
+  @media not print { display: inline; }
+  float: right;
+  font-size: 50%;
+  font-family: 'Segoe UI Emoji';
+  // Remove underline for <a>.
+  a:any-link { @include prefix(text-decoration, none); }
+}
