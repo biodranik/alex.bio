@@ -157,7 +157,7 @@ display: inline-block;
 // Links styling.
 a:any-link {
 color: inherit;
-@media not print { @include prefix(text-decoration, underline dashed); }
+@media not print { @include prefix(text-decoration, underline dotted); }
 @media print { @include prefix(text-decoration, none); }
 cursor: pointer;
 }
