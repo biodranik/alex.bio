@@ -2,8 +2,7 @@
 ---
 # Alexander Borsuk {{<printer>}}
 
-
-> *Hi! I'm an IT engineer from Belarus, co-founder of [VibroBox][] and [MAPS.ME][]. I like [open source][My Github], love to travel, want to be healthy and understand how everything works.*
+> *Hi! I'm an IT engineer and researcher from Belarus, co-founder of [VibroBox][] and [MAPS.ME][]. I like [open source][My Github], love to travel, want to be healthy and understand how everything works.*
 
 ![Alexander Borsuk](images/alexander_borsuk_nyc_compressed.jpeg "Alexander Borsuk")
 
