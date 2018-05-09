@@ -222,7 +222,7 @@ Techs:
 
 ### {{<daterange "Jul 2007" "Aug 2007">}} Freelanced DVD Ripper/Player Station project
 
-Together with a friend, I have developed a Windows application for touch-screen devices to easily play and grab DVD contents.
+In a small team of two, I have developed a Windows application for touch-screen devices to easily play and grab DVD contents.
 In particular, I've created:
 
 - GUI
