@@ -239,7 +239,7 @@ Techs:
 
 ### {{<daterange "2006" "2007">}} Software Engineer and Team Leader at Belsoft-Borlas Group
 
-I supported a "Smart IP" product for a US customer, a transparent TCP/UDP
+I have supported a "Smart IP" product for a US customer, a transparent TCP/UDP
 network optimizer and switcher for desktop and mobile platforms. What I've done:
 
 - Redesigned Windows Mobile client GUI and ported it to WM5.0.
