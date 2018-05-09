@@ -2,16 +2,26 @@
   <link rel="stylesheet" href="css/style.css" type="text/css" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
 
+  <meta name="copyright" content="{{.Site.Copyright}}">
+  <meta name="description" content="{{$.Param "description"}}">
+  <meta name="keywords" content="{{delimit (.Param "keywords") " "}}" />
   <!-- Outputs meta tag with hugo version used for site generation. -->
   {{.Hugo.Generator}}
-  <meta name="referrer" content="unsafe-url" />
+
+  <!-- Do not index dev version and private pages -->
+  {{if or .Params.private $.Site.Params.dev_mode -}}
+  <meta name="robots" content="noindex, nofollow, noarchive, nosnippet">
+  <meta name="referrer" content="same-origin">
+  {{else -}}
+  <meta name="referrer" content="unsafe-url">
+  {{- end}}
 
   <!-- TODO: Remove hardcode and put images into content pages. -->
   <meta property="og:image:height" content="1360" />
   <meta property="og:image:width" content="907" />
   <meta property="og:locale" content="en_US" />
-  <meta property="og:title" content="Alexander Borsuk, MSc, Founding Investor of VibroBox" />
-  <meta property="og:description" content="Hi! I'm an IT Engineer, co-founder of VibroBox (Prescriptive Diagnostics for industrial equipment) and MAPS.ME (offline iOS/Android maps for travelers)." />
+  <meta property="og:title" content="{{.Title}}" />
+  <meta property="og:description" content="{{$.Param "description"}}" />
   <meta property="og:url" content="https://alex.bio/" />
   <meta property="og:image" content="https://alex.bio/images/og-image.jpg" />
   <meta property="og:type" content="profile" />

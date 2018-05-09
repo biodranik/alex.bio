@@ -1,6 +1,9 @@
 ---
+title: Alexander Borsuk, MSc, co-founder of VibroBox
+description: "Hi! I'm an IT Engineer and researcher, co-founder of VibroBox: vibration-based diagnostics of industrial equipment for Prescriptive Maintenance, co-founder of MAPS.ME: offline iOS and Android maps for travelers."
+keywords: Alexander, Borsuk, VibroBox, MAPS.ME, MapsWithMe, Software, Engineer, C++, CTO, Minsk, Belarus
 ---
-# Alexander Borsuk {{<printer>}}
+# Alexander Borsuk, MSc, cofounder of VibroBox {{<printer>}}
 
 > *Hi! I'm an IT engineer and researcher from Belarus, co-founder of [VibroBox][] and [MAPS.ME][]. I like [open source][My Github], love to travel, want to be healthy and understand how everything works.*
 
