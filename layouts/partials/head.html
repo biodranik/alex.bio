@@ -1,5 +1,5 @@
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# profile: http://ogp.me/ns/profile#">
-  {{ $styles := resources.Get "css/style.scss" | toCSS | postCSS | minify | fingerprint -}}
+  {{ $styles := resources.Get "css/style.scss" | toCSS | postCSS (dict "use" "autoprefixer")  | minify | fingerprint -}}
   <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" type="text/css" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
 
