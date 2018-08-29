@@ -22,21 +22,25 @@ keywords: Alexander, Borsuk, VibroBox, MAPS.ME, MapsWithMe, Software, Engineer, 
 
 ## Personal values and interests
 
-- Life-long Learner
 - Healthy lifestyle, green environment, eco food
 - Medical research and biohacking
+- Everything should be perfect and automated
+- Life-long Learner (to become perfect in every aspect)
 
 ## I'm strong at:
 
 - C++11
-- Building and managing teams
-- Improving team efficiency
-- Project management, task estimating, documenting, delivering
-- Product management, marketing and support
-- Market research and tracking competitors
+- Learning and using any new language
+- Code performance and scalability
 - Software and hardware optimizations
 - Cross-platform and embedded solutions
+- Networking and cloud services
 - Code reviews
+- Building and managing dev teams
+- Improving team efficiency
+- Product management, marketing, customer relations and support
+- Project management, task estimating, documenting, delivering
+- Market research and tracking competitors
 
 ## Software skills
 
