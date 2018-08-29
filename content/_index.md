@@ -77,7 +77,7 @@ keywords: Alexander, Borsuk, VibroBox, MAPS.ME, MapsWithMe, Software, Engineer, 
 
 ## Work Experience
 
-### {{<daterange "2016" "now">}} Cofounder of [VibroBox][]
+### {{<daterange "2016" "now">}} Founding Investor of [VibroBox][]
 
 VibroBox is a vibration-based diagnostics service for a scalable [prescriptive maintenance](Smart Energy Summit news), *IIoT* and *Industry 4.0*. Our team of scientists, engineers and industry experts are focused on [digital signal processing][VibroBox Technology], wavelets, machine learning, and other algorithms to prevent failures of industrial equipment by providing timely and automated maintenance instructions.
 
