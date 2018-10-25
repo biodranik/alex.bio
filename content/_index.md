@@ -63,6 +63,8 @@ keywords: Alexander, Borsuk, VibroBox, MAPS.ME, MapsWithMe, Software, Engineer, 
 
 ## Education
 
+[List of publications](#publications)
+
 ### Belarusian State University of Informatics and Radioelectronics, Minsk, Belarus
 
 - _2016–2018_ **Master of Science in Technology**, faculty of Radioengineering and Electronics
@@ -361,6 +363,13 @@ I was studying generators based on linear-feedback shift registers:
 Techs:
 : Visual C++
 : Assembler
+
+## Publications
+
+1. Algorithms for refinement of the shaft rotational speed for solving the problems of vibration diagnostics of rotary equipment / Y. Aslamov, I. Davydov, A. Borsuk, A. Aslamov // *First World Congress on Condition Monitoring*, London, 13-16 June 2017, Session 6E: Vibration condition monitoring methods and technologies / The British Institute of Non-Destructive Testing.
+2. Sparse wavelet decomposition of signals for solving vibration diagnostics problems / Y. Aslamov, I. Davydov, A. Borsuk, A. Aslamov // *First World Congress on Condition Monitoring*, London, 13-16 June 2017, Session 7E: Vibration condition monitoring methods and technologies / The British Institute of Non-Destructive Testing.
+3. Sparse wavelet decomposition in problems of vibration-based diagnostics of rotary equipment / Y.P. Aslamov, A.P. Aslamov, I.G. Davydov, A.V. Borsuk // *Doklady BGUIR*[BSUIR reports], 2017, no. 8 (110), pp. 91-98. (in Russian)
+4. Formation of informative features of shock processes using wavelet analysis of non-stationary vibration signals: the author's abstract. Diss. MSc in Engineering: 1-39 81 03 / A.V. Borsuk; scientific adviser I.G. Davydov // Minsk : BSUIR, 2018. (in Russian)
 
 -----
 [My Github]: https://github.com/biodranik?tab=repositories "My Github Projects"
