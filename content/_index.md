@@ -72,10 +72,13 @@ keywords: Alexander, Borsuk, VibroBox, MAPS.ME, MapsWithMe, Software, Engineer, 
 
 ### Functional Programming in Scala Specialization, Coursera
 
+- 2018 Functional Programming in Scala Capstone
 - 2018 Big Data Analysis with Scala and Spark
 - 2016 Parallel programming
 - 2016 Functional Program Design in Scala
 - 2016 Functional Programming Principles in Scala
+
+[Coursera certificates][Scala Specialization]
 
 ## Work Experience
 
@@ -372,6 +375,7 @@ Techs:
 4. Formation of informative features of shock processes using wavelet analysis of non-stationary vibration signals: the author's abstract. Diss. MSc in Engineering: 1-39 81 03 / A.V. Borsuk; scientific adviser I.G. Davydov // Minsk : BSUIR, 2018. (in Russian)
 
 -----
+[Scala Specialization]: https://www.coursera.org/account/accomplishments/specialization/WAUK848HQVK6 "Alexander Borsuk: Functional Programming in Scala Specialization (Coursera)"
 [My Github]: https://github.com/biodranik?tab=repositories "My Github Projects"
 [MAPS.ME]: https://maps.me/download "Offline Maps of the World"
 [VibroBox]: https://www.vibrobox.com/ "Prescriptive Diagnostics for Industrial Equipment"
