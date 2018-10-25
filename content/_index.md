@@ -1,12 +1,12 @@
 ---
 # title is taken from a global site config
-# title: Alexander Borsuk, MSc, co-founder of VibroBox
-description: "Hi! I'm an IT Engineer and researcher, co-founder of VibroBox: vibration-based diagnostics of industrial equipment for Prescriptive Maintenance, co-founder of MAPS.ME: offline iOS and Android maps for travelers."
+# title: Alexander Borsuk, MScEng, co-founder of VibroBox
+description: "Hi! I'm an IT Engineer and researcher, co-founder of VibroBox (vibration-based diagnostics of rotary equipment and Prescriptive Maintenance), co-founder of MAPS.ME (offline iOS and Android maps for travelers)."
 keywords: Alexander, Borsuk, VibroBox, MAPS.ME, MapsWithMe, Software, Engineer, C++, CTO, Minsk, Belarus
 ---
 # Alexander Borsuk, MSc, cofounder of VibroBox {{<printer>}}
 
-> *Hi! I'm an IT engineer and researcher from Belarus, co-founder of [VibroBox][] and [MAPS.ME][]. I like [open source][My Github], love to travel, want to be healthy and understand how everything works.*
+> *Hi! I'm an IT engineer and researcher from Belarus, co-founder of [VibroBox][] (prescriptive maintenance for machinery) and [MAPS.ME][] (offline mobile maps for [iOS][MAPS.ME iOS] and [Android][MAPS.ME Android]). I like [open source][My Github], love to travel, want to be healthy and understand how everything works.*
 
 ![Alexander Borsuk](images/alexander_borsuk_nyc_compressed.jpeg "Alexander Borsuk")
 
@@ -25,12 +25,12 @@ keywords: Alexander, Borsuk, VibroBox, MAPS.ME, MapsWithMe, Software, Engineer, 
 - Healthy lifestyle, green environment, eco food
 - Medical research and biohacking
 - Everything should be perfect and automated
-- Life-long Learner (to become perfect in every aspect)
+- Life-long Learner, to become perfect in every aspect
 
 ## I'm strong at:
 
 - C++11
-- Learning and using any new language
+- Learning and using new programming languages
 - Code performance and scalability
 - Software and hardware optimizations
 - Cross-platform and embedded solutions
@@ -47,7 +47,7 @@ keywords: Alexander, Borsuk, VibroBox, MAPS.ME, MapsWithMe, Software, Engineer, 
 - Extensive experience in C++11, C, Objective-C, Java, Qt, STL, WTL, WinAPI, WinSock, MFC, ATL, Bash, Assembler, HTML/XHTML, CSS, XML, XSLT, PHP
 - General knowledge and some experience with Kotlin, Scala, C#, COM, Perl, Python, Visual Basic, SQL, Pascal
 - Experience with Google AppEngine, AWS, Docker, Travis
-- Administrator and system developer experience with Windows 98/2000/XP/2003/Vista/2008/7, Debian/Ubuntu/CentOS Linux, Solaris, MacOS
+- Administrator and system developer experience with Windows 98/2000/XP/2003/Vista/2008/7/10, Debian/Ubuntu/CentOS Linux, Solaris, MacOS
 - System and application development experience with iOS, Android, Samsung Bada, PocketPC 2003, Windows Mobile 5 and 6, Symbian OS S60 3rd and 5th Edition platforms
 - Source Control Systems: Git[hub], Mercurial, CVS, SVN, Borland StarTeam, Visual SourceSafe
 - Project management and issue tracking systems: Trello, Redmine, Trac, Jira, eXplanner, FIT BugTrack, Borland Starteam
@@ -67,27 +67,34 @@ keywords: Alexander, Borsuk, VibroBox, MAPS.ME, MapsWithMe, Software, Engineer, 
 
 ### Belarusian State University of Informatics and Radioelectronics, Minsk, Belarus
 
-- _2016–2018_ **Master of Science in Technology**, faculty of Radioengineering and Electronics
+- _2016–2018_ **Master of Science in Engineering**, faculty of Radioengineering and Electronics. <br/>Master's thesis: *Formation of informative features of shock processes using wavelet analysis of non-stationary vibration signals*
 - _1999–2004_ **Software and Hardware Systems Engineer**, faculty of Computer Systems and Networks
 
 ### Functional Programming in Scala Specialization, Coursera
 
-- 2018 Functional Programming in Scala Capstone
-- 2018 Big Data Analysis with Scala and Spark
-- 2016 Parallel programming
-- 2016 Functional Program Design in Scala
-- 2016 Functional Programming Principles in Scala
+- _2018_ Functional Programming in Scala Capstone
+- _2018_ Big Data Analysis with Scala and Spark
+- _2016_ Parallel programming
+- _2016_ Functional Program Design in Scala
+- _2016_ Functional Programming Principles in Scala
 
 [Coursera certificates][Scala Specialization]
+
+### Other Education
+
+- _1997-1998_ x86 Assembler courses
+- _1995-1996_ BASIC courses using YAMAHA YIS-805
+- _1988–1999_ Graduated high school in Minsk with a golden medal
 
 ## Work Experience
 
 ### {{<daterange "2016" "now">}} Founding Investor of [VibroBox][]
 
-VibroBox is a vibration-based diagnostics service for a scalable [prescriptive maintenance](Smart Energy Summit news), *IIoT* and *Industry 4.0*. Our team of scientists, engineers and industry experts are focused on [digital signal processing][VibroBox Technology], wavelets, machine learning, and other algorithms to prevent failures of industrial equipment by providing timely and automated maintenance instructions.
+VibroBox is a vibration-based diagnostics service for a scalable [prescriptive maintenance](Smart Energy Summit news), *IIoT* and *Industry 4.0*. Our team of scientists, engineers and industry experts are focused on [digital signal processing][VibroBox Technology], wavelets, machine learning, and other algorithms to prevent failures of industrial equipment by providing timely and automated maintenance instructions. VibroBox works with a wide range of rotary equipment, including (but not limited to): pumps, turbines, compressors, generators, rotors, engines, bearings, gear boxes, rolling mills, wind farms, wheel pairs for cars and trains.
 
 My responsibilities:
 
+- IT infrastructure management
 - Strategy and technology advisor
 - Business development, negotiations, presentations
 - Financing and accounting
@@ -95,11 +102,11 @@ My responsibilities:
 
 Some engineering tasks I've done:
 
-- Planning a scalable service architecture
-- Hostings administration
-- iOS and Android apps to collect audio and accelerometer data
-- [Web site][VibroBox] development and support
-- Code reviews
+- Designed a scalable cloud service architecture
+- Set up and administered cloud server hosting (Ubuntu)
+- iOS and Android apps to collect audio and accelerometer data and send it into the cloud for automated processing
+- Developed and supported company's [website][VibroBox]
+- Established and performed team code reviews
 
 Techs:
 : Docker
@@ -292,14 +299,14 @@ Techs:
 
 ### {{<daterange "2003" "2004">}} Software Engineer and Team Leader at Spark IT
 
-We developed an Internet messaging app "Messenger2" ("M2") with ICQ, AIM, MSN, Yahoo and IRC
+Developed an Internet messaging app "Messenger2" ("M2") with ICQ, AIM, MSN, Yahoo and IRC
 support, chat encryption, file sharing, video and audio conferences for a customer from the UK.
 Trillian messenger was our closest competitor.
 
-- Built and managed a team of 5 developers.
-- Designed product's architecture and components.
+- Put together and managed a team of 5 developers.
+- Designed messenger architecture and modules.
 - Reverse-engineered ICQ and AIM protocols.
-- Implemented multiprotocol core layer, ICQ and AIM protocols support
+- Implemented multiprotocol core layer with ICQ and AIM protocols support
   libraries, UI and configuration dialogs.
 
 Techs:
@@ -322,12 +329,12 @@ Techs:
 : curl
 : RSS
 
-### {{<daterange "2004" "2014">}} Co-founder and coordinator of ByNets IRC network
+### {{<daterange "2004" "2009">}} Co-founder and coordinator of ByNets IRC network
 
 ByNets was the largest IRC network in Belarus which united many people from universities,
-hostels, companies and city districts.
+dormitories, companies and residential districts of Minsk.
 
-- I've founded and supported IRC network and grew its user base.
+- Co-founded IRC network and grew up user base from the start.
 - Created and supported main website using RunCMS and Drupal.
 - Configured and maintained several UnrealIRCd hub servers on Linux and Windows.
 
@@ -338,12 +345,13 @@ Techs:
 
 ### {{<daterange "2003" "2008">}} U6/X6 local network administrator in Minsk
 
-That time we have built one of the largest Ethernet networks in Minsk with 1500+
-users from different districts. We used long-range cables, 100Mbit switches
-and targeted radio links to connect users from many apartment houses.
+That time my friends and I have built one of the largest home Ethernet networks
+in Minsk with 1500+ users from different city districts. We used long-range cables,
+100Mbit switches and targeted radio links (range up to 3km) to connect users from
+many apartment buildings.
 
 - Designed and developed a local residential network for hundreds of home users.
-- Provided IP, media and news services for local network users.
+- Provided IP, media, news and forum services for local network users.
 - Maintained Debian Linux and Windows 2003 servers with different LAN
   services, including local websites and free hosting.
 - Designed and implemented routing, DNS and DHCP between subnetworks,
@@ -358,10 +366,11 @@ Techs:
 
 ### {{<daterange "2002" "2003">}} Belarusian State University of Informatics and Radioelectronics
 
-I was studying generators based on linear-feedback shift registers:
+R&D work with random number generators based on linear-feedback shift registers under a supervision of I.P. Kobyak, Ph.D.
 
-- designed and implemented a fast core algorithm to generate binary sequences
-- wrote GUI for statistics visualization
+- designed and implemented a fast algorithm in x86 assembler to generate binary sequences
+- x10 speed up optimization of existing code
+- designed and developed GUI for statistics visualization
 
 Techs:
 : Visual C++
