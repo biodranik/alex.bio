@@ -4,9 +4,9 @@
 description: "Hi! I'm an IT Engineer and researcher, co-founder of VibroBox (vibration-based diagnostics of rotary equipment and Prescriptive Maintenance), co-founder of MAPS.ME (offline iOS and Android maps for travelers)."
 keywords: Alexander, Borsuk, VibroBox, MAPS.ME, MapsWithMe, Software, Engineer, C++, CTO, Minsk, Belarus
 ---
-# Alexander Borsuk, MScEng, cofounder of VibroBox {{<printer>}}
+# Alexander Borsuk, MScEng<br/>Co-founder of VibroBox {{<printer>}}
 
-> *Hi! I'm an IT engineer and researcher from Belarus, co-founder of [VibroBox][] (prescriptive maintenance for machinery) and [MAPS.ME][] (offline mobile maps for [iOS][MAPS.ME iOS] and [Android][MAPS.ME Android]). I like [open source][My Github], love to travel, want to be healthy and understand how everything works.*
+> *Hi! I'm an IT engineer and researcher from Belarus, co-founder of [VibroBox][] (prescriptive maintenance for machinery) and [MAPS.ME][] (offline maps for [iOS][MAPS.ME iOS] and [Android][MAPS.ME Android]). I like [open source][My Github], love to travel, want to be healthy and understand how everything works.*
 
 ![Alexander Borsuk](images/alexander_borsuk_nyc_compressed.jpeg "Alexander Borsuk")
 
@@ -30,12 +30,12 @@ keywords: Alexander, Borsuk, VibroBox, MAPS.ME, MapsWithMe, Software, Engineer, 
 ## I'm strong at:
 
 - C++11
-- Learning and using new programming languages
 - Code performance and scalability
 - Software and hardware optimizations
 - Cross-platform and embedded solutions
 - Networking and cloud services
 - Code reviews
+- Learning and using new programming languages
 - Building and managing dev teams
 - Improving team efficiency
 - Product management, marketing, customer relations and support
@@ -44,8 +44,8 @@ keywords: Alexander, Borsuk, VibroBox, MAPS.ME, MapsWithMe, Software, Engineer, 
 
 ## Software skills
 
-- Extensive experience in C++11, C, Objective-C, Java, Qt, STL, WTL, WinAPI, WinSock, MFC, ATL, Bash, Assembler, HTML/XHTML, CSS, XML, XSLT, PHP
-- General knowledge and some experience with Kotlin, Scala, C#, COM, Perl, Python, Visual Basic, SQL, Pascal
+- Extensive experience in C++11, C, Objective-C, Java, Qt, STL, WTL, WinAPI, WinSock, MFC, ATL, Bash, Assembler, HTML5, CSS3, PHP
+- General knowledge and some experience with Kotlin, Scala, C#, COM, Perl, Python, Visual Basic, SQL, Pascal, XSLT
 - Experience with Google AppEngine, AWS, Docker, Travis
 - Administrator and system developer experience with Windows 98/2000/XP/2003/Vista/2008/7/10, Debian/Ubuntu/CentOS Linux, Solaris, MacOS
 - System and application development experience with iOS, Android, Samsung Bada, PocketPC 2003, Windows Mobile 5 and 6, Symbian OS S60 3rd and 5th Edition platforms
@@ -58,8 +58,8 @@ keywords: Alexander, Borsuk, VibroBox, MAPS.ME, MapsWithMe, Software, Engineer, 
 - Fluent English
 - Native Belarusian
 - Native Russian
-- Learning German
 - Basic Spanish
+- Learning German
 
 ## Education
 
@@ -67,8 +67,13 @@ keywords: Alexander, Borsuk, VibroBox, MAPS.ME, MapsWithMe, Software, Engineer, 
 
 ### Belarusian State University of Informatics and Radioelectronics, Minsk, Belarus
 
-- _2016–2018_ **Master of Science in Engineering**, faculty of Radioengineering and Electronics. <br/>Master's thesis: *Formation of informative features of shock processes using wavelet analysis of non-stationary vibration signals*
-- _1999–2004_ **Software and Hardware Systems Engineer**, faculty of Computer Systems and Networks
+- _2016–2018_ **Master of Science in Engineering**, faculty of Radioengineering and Electronics.
+  <br/>
+  Master's thesis: *Formation of informative features of shock processes using wavelet analysis of non-stationary vibration signals*
+
+- _1999–2004_ **Software and Hardware Systems Engineer**, faculty of Computer Systems and Networks.
+  <br/>
+  Bachelor's thesis: *Reliable file downloading for Palm OS*
 
 ### Functional Programming in Scala Specialization, Coursera
 
@@ -90,9 +95,11 @@ keywords: Alexander, Borsuk, VibroBox, MAPS.ME, MapsWithMe, Software, Engineer, 
 
 ### {{<daterange "2016" "now">}} Founding Investor of [VibroBox][]
 
-VibroBox is a vibration-based diagnostics service for a scalable [prescriptive maintenance](Smart Energy Summit news), *IIoT* and *Industry 4.0*. Our team of scientists, engineers and industry experts are focused on [digital signal processing][VibroBox Technology], wavelets, machine learning, and other algorithms to prevent failures of industrial equipment by providing timely and automated maintenance instructions. VibroBox works with a wide range of rotary equipment, including (but not limited to): pumps, turbines, compressors, generators, rotors, engines, bearings, gear boxes, rolling mills, wind farms, wheel pairs for cars and trains.
+VibroBox is a vibration-based diagnostics service for a scalable [prescriptive maintenance](Smart Energy Summit news), *IIoT* and *Industry 4.0*. Our team of scientists, engineers and industry experts are focused on [digital signal processing][VibroBox Technology], wavelets, machine learning, and other algorithms to prevent failures of industrial equipment by providing timely and automated maintenance instructions.
 
-My responsibilities:
+VibroBox works with a wide range of rotary equipment, including (but not limited to): pumps, turbines, compressors, generators, rotors, engines, bearings, gear boxes, rolling mills, wind farms, wheel pairs for cars and trains.
+
+My responsibilities in VibroBox:
 
 - IT infrastructure management
 - Strategy and technology advisor
@@ -149,19 +156,19 @@ Techs:
 After the [acquisition][] of MAPS.ME we have hired a new engineering team of 25 in Moscow and passed all our knowledge to them. I was in a "CTO" role at Maps department of [Mail.Ru Group](https://corp.mail.ru/en/):
 
 - Interviewed and trained new dev and QA team
-- Developed offline [map editor][] for MAPS.ME to upload map edits directly into the crowd-sourced [OpenStreetMap][] database
+- Developed offline [map editor][] for MAPS.ME to upload map edits directly into the crowd-sourced [OpenStreetMap][] database [[source code](https://github.com/mapsme/omim/tree/master/editor)]
 - [Open-sourced][OpenSource Press Release] MAPS.ME code to [GitHub][omim]
-- Developed and integrated open-source, scalable, cross-platform statistics engine [Alohalytics][] for iOS, Android, and C++ including cross-platform client code and backend data collection module.
+- Developed and integrated open-source, scalable, cross-platform statistics engine [Alohalytics][] for iOS, Android, and C++ including cross-platform client code and backend data collection module
 
 #### {{<daterange "2013" "2015">}} Co-Founder, CTO
 
 - Product management and releases delivery
 - Moved the code base from C++99 to C++11
 - Scaled maps data distribution cluster and HTTP delivery services to match growing user base
-- Ported Open Source Routing Machine ([OSRM](http://project-osrm.org/)) to iOS and Android to add offline navigation support
-- Gradle build system integration
-- New features development and bug fixing
-- Web sites deployment
+- Ported Open Source Routing Machine ([OSRM](http://project-osrm.org/)) to iOS and Android to add offline navigation support [[source code](https://github.com/mapsme/omim/tree/master/3party/osrm/osrm-backend)]
+- Gradle build system integration for Android
+- New product features development and bug fixing
+- Product web sites deployment and support
 
 #### {{<daterange "2012" "2013">}} Co-Founder, CEO
 
@@ -174,7 +181,7 @@ Probably the toughest period for MAPS.ME, when we grew up our team and user base
 - Developed and released 26 offline travel guides apps for iOS and Android ([GuideWithMe](http://guidewithme.com/ "Offline Travel Guides"))
 - Established development office in Minsk, Belarus
 - Business development, PR and marketing
-- New features development and bug fixing
+- New product features development and bug fixing
 - Perfected user support
 
 #### {{<daterange "2010" "2012">}} Co-Founder
@@ -396,6 +403,6 @@ Techs:
 [map editor]: https://venturebeat.com/2016/04/06/mapsme-openstreetmap-editing/ "VentureBeat: Edit OpenStreetMap with MAPS.ME"
 [OpenSource Press Release]: https://corp.mail.ru/en/press/releases/9422/ "Mail.Ru Press-Release: MAPS.ME Goes Open Source"
 [omim]: https://github.com/mapsme/omim "MAPS.ME Source Sode on GitHub"
-[Alohalytics]: https://github.com/biodranik/Alohalytics/ "C++, iOS and Android statistics engine"
+[Alohalytics]: https://github.com/mapsme/Alohalytics/tree/master/src "C++, iOS and Android statistics engine"
 [OpenStreetMap]: https://www.openstreetmap.org/ "Crowd-sourced map database of the World"
 [acquisition]: https://techcrunch.com/2014/11/13/mail-ru-buys-maps-me-to-integrate-crowdsourced-maps-into-its-my-com-app-portal/ "MAPS.ME acquisition by Mail.Ru Group"
