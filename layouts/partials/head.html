@@ -6,10 +6,10 @@
   <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" type="text/css" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
 
-  {{with .Site.Copyright -}}
-  <meta name="copyright" content="{{.}}">{{end -}}
+  {{with .Site.Copyright}}
+  <meta name="copyright" content="{{.}}" />{{end -}}
   {{with $.Param "description"}}
-  <meta name="description" content="{{.}}">{{end -}}
+  <meta name="description" content="{{.}}" />{{end -}}
   {{with $.Param "keywords"}}
   <meta name="keywords" content="{{delimit . " "}}" />{{end -}}
   <!-- Outputs meta tag with hugo version used for site generation. -->
@@ -17,10 +17,10 @@
 
   <!-- Do not index dev version and private pages -->
   {{if or .Params.private $.Site.Params.dev_mode -}}
-  <meta name="robots" content="noindex, nofollow, noarchive, nosnippet">
-  <meta name="referrer" content="same-origin">
+  <meta name="robots" content="noindex, nofollow, noarchive, nosnippet" />
+  <meta name="referrer" content="same-origin" />
   {{else -}}
-  <meta name="referrer" content="unsafe-url">
+  <meta name="referrer" content="unsafe-url" />
   {{end -}}
 
   <!-- TODO: Remove hardcode and put images into content pages. -->
