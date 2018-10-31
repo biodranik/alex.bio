@@ -6,5 +6,8 @@ disableKinds: ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", 
 googleAnalytics: UA-71329020-1
 copyright: © 2018 Alexander Borsuk, https://alex.bio/
 
+params:
+  author: Alexander Borsuk
+
 blackfriday:
   hrefTargetBlank: true

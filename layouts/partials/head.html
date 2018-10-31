@@ -6,6 +6,8 @@
   <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" type="text/css" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
 
+  {{with .Site.Params.Author -}}
+  <meta name="author" content="{{.}}" />{{end -}}
   {{with .Site.Copyright}}
   <meta name="copyright" content="{{.}}" />{{end -}}
   {{with $.Param "description"}}
