@@ -1,6 +1,6 @@
 ---
-# title is taken from a global site config
-# title: Alexander Borsuk, MScEng, co-founder of VibroBox
+# 70 chars are displayed by Google in search results.
+title: "Alexander Borsuk: Software Engineer, co-founder of VibroBox & MAPS.ME"
 description: "Hi! I'm an IT Engineer and researcher, co-founder of VibroBox (vibration-based diagnostics of rotary equipment and Prescriptive Maintenance), co-founder of MAPS.ME (offline iOS and Android maps for travelers)."
 keywords: Alexander, Borsuk, VibroBox, MAPS.ME, MapsWithMe, Software, Engineer, C++, CTO, Minsk, Belarus
 ---
@@ -118,11 +118,12 @@ Some engineering tasks I've done:
 Techs:
 : Docker
 : Hugo
-: PHP7
 : HTML5
 : CSS3
 : bash
 : Linux
+: TravisCI
+: PHP7
 
 ### {{<daterange "2010" "2016">}}  Cofounder, CEO, CTO of [MAPS.ME][]
 
@@ -145,7 +146,8 @@ Techs:
 : MacOS
 : Bada
 : [OpenStreetMap][]
-: clang/gcc
+: clang
+: gcc
 : python
 : bash
 : Golang
