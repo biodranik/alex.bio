@@ -25,15 +25,16 @@
   <meta name="referrer" content="unsafe-url" />
   {{end -}}
 
-  <!-- TODO: Remove hardcode and put images into content pages. -->
-  <meta property="og:image:height" content="1360" />
-  <meta property="og:image:width" content="907" />
+  {{$globalImage := "images/og-image.jpg"}}
+  {{$image := imageConfig (print "static/" $globalImage)}}
+  <meta property="og:image:height" content="{{$image.Height}}" />
+  <meta property="og:image:width" content="{{$image.Width}}" />
   <meta property="og:locale" content="en_US" />
   <meta property="og:title" content="{{if .Title}}{{.Title}}{{else}}{{.Site.Title}}{{end}}" />
   {{with $.Param "description" -}}
   <meta property="og:description" content="{{.}}" />{{end}}
-  <meta property="og:url" content="https://alex.bio/" />
-  <meta property="og:image" content="https://alex.bio/images/og-image.jpg" />
+  <meta property="og:url" content="{{.Site.BaseURL}}" />
+  <meta property="og:image" content="{{print .Site.BaseURL $globalImage}}" />
   <meta property="og:type" content="profile" />
   <meta property="profile:first_name" content="Alexander" />
   <meta property="profile:last_name" content="Borsuk" />
