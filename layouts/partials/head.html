@@ -42,4 +42,20 @@
   <meta property="fb:profile_id" content="1009088028" />
 
   {{partial "favicon" .}}
+
+  <!-- Social profile for Google Search:
+    https://developers.google.com/search/docs/data-types/social-profile -->
+  <script type="application/ld+json">
+    {
+      "@context" : "http://schema.org",
+      "@type" : "Person",
+      "name" : "Alexander Borsuk",
+      "url" : "{{.Site.BaseURL}}",
+      "sameAs" : [
+        "https://www.facebook.com/biodranik",
+        "https://github.com/biodranik/",
+        "https://www.linkedin.com/in/alexanderborsuk/"
+      ]
+    }
+    </script>
 </head>
