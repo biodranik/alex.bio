@@ -73,7 +73,7 @@ keywords: Alexander, Borsuk, VibroBox, MAPS.ME, MapsWithMe, Software, Engineer, 
 
 - _1999–2004_ **Software and Hardware Systems Engineer**, faculty of Computer Systems and Networks.
   <br/>
-  Bachelor's thesis: *Reliable file downloading for Palm OS*
+  Bachelor's thesis: *Reliable file downloading for Palm OS*, graduated with score 4.71 out of 5.0.
 
 ### Functional Programming in Scala Specialization, Coursera
 
@@ -95,9 +95,9 @@ keywords: Alexander, Borsuk, VibroBox, MAPS.ME, MapsWithMe, Software, Engineer, 
 
 ### {{<daterange "2016" "now">}} Founding Investor of [VibroBox][]
 
-VibroBox is a vibration-based diagnostics service for a scalable [prescriptive maintenance](Smart Energy Summit news), *IIoT* and *Industry 4.0*. Our team of scientists, engineers and industry experts are focused on [digital signal processing][VibroBox Technology], wavelets, machine learning, and other algorithms to prevent failures of industrial equipment by providing timely and automated maintenance instructions.
+VibroBox is a vibration-based diagnostics service for a scalable [prescriptive maintenance](Smart Energy Summit news), *IIoT* and *Industry 4.0*. Our team of scientists, engineers, and industry experts are focused on [digital signal processing][VibroBox Technology], wavelets, machine learning, and other algorithms to prevent failures of industrial equipment by providing timely and automated maintenance instructions.
 
-VibroBox works with a wide range of rotary equipment, including (but not limited to): pumps, turbines, compressors, generators, rotors, engines, bearings, gear boxes, rolling mills, wind farms, wheel pairs for cars and trains.
+VibroBox works with a wide range of rotary equipment, including (but not limited to): pumps, turbines, compressors, generators, rotors, engines, bearings, gearboxes, rolling mills, wind farms, wheel pairs for cars and trains.
 
 My responsibilities in VibroBox:
 
@@ -125,7 +125,7 @@ Techs:
 : TravisCI
 : PHP7
 
-### {{<daterange "2010" "2016">}}  Cofounder, CEO, CTO of [MAPS.ME][]
+### {{<daterange "2010" "2016">}} Cofounder, CEO, CTO of [MAPS.ME][]
 
 [MAPS.ME][] is an [open-source][omim] offline maps app for [iOS][MAPS.ME iOS] and [Android][MAPS.ME Android].
 A crowd-sourced OpenStreetMap data is used for walking and cycling directions, car navigation, discovering new places and local sightseeing. As of April 2018, MAPS.ME was installed by 100M users all over the world.
@@ -375,11 +375,11 @@ Techs:
 
 ### {{<daterange "2002" "2003">}} Belarusian State University of Informatics and Radioelectronics
 
-R&D work with random number generators based on linear-feedback shift registers under a supervision of I.P. Kobyak, Ph.D.
+R&D work with random number generators based on linear-feedback shift registers under the supervision of I.P. Kobyak, Ph.D.
 
-- designed and implemented a fast algorithm in x86 assembler to generate binary sequences
-- x10 speed up optimization of existing code
-- designed and developed GUI for statistics visualization
+- Designed and implemented a fast algorithm in x86 assembler to generate binary sequences
+- X10 speed up optimization of existing code
+- Designed and developed GUI for statistics visualization
 
 Techs:
 : Visual C++
