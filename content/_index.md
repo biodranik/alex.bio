@@ -124,6 +124,7 @@ Techs:
 : Linux
 : TravisCI
 : PHP7
+: Matlab
 
 ### {{<daterange "2010" "2016">}} Cofounder, CEO, CTO of [MAPS.ME][]
 
