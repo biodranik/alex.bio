@@ -158,10 +158,10 @@ Techs:
 
 After the [acquisition][] of MAPS.ME we have hired a new engineering team of 25 in Moscow and passed all our knowledge to them. I was in a "CTO" role at Maps department of [Mail.Ru Group](https://corp.mail.ru/en/):
 
-- Interviewed and trained new dev and QA team
+- Interviewed, trained and led new dev and QA team
 - Developed offline [map editor][] for MAPS.ME to upload map edits directly into the crowd-sourced [OpenStreetMap][] database [[source code](https://github.com/mapsme/omim/tree/master/editor)]
 - [Open-sourced][OpenSource Press Release] MAPS.ME code to [GitHub][omim]
-- Developed and integrated open-source, scalable, cross-platform statistics engine [Alohalytics][] for iOS, Android, and C++ including cross-platform client code and backend data collection module
+- Developed and integrated open-source, scalable, cross-platform statistics engine [Alohalytics][] for iOS, Android, and desktop (C++11), including client part and backend data collection
 
 #### {{<daterange "2013" "2015">}} Co-Founder, CTO
 
