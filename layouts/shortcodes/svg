@@ -1,10 +1,8 @@
 {{- $onlyFileName := replaceRE "(?U).*([^/]+).svg$" "$1" (.Get "icon") -}}
 {{- $noExt := strings.TrimSuffix ".svg" $onlyFileName -}}
 <figure class="{{$noExt}} svg">
-  {{with .Get "tel"}}<a href="tel:{{.}}" target="_blank">{{end}}
   {{with .Get "href"}}<a href="{{.}}" target="_blank">{{end}}
   {{readFile (print "content/" (.Get "icon")) | safeHTML}}
   {{with .Get "caption"}}<figcaption>{{.}}</figcaption>{{end}}
   {{with .Get "href"}}</a>{{end}}
-  {{with .Get "tel"}}</a>{{end}}
 </figure>
