@@ -19,6 +19,7 @@ keywords: Alexander, Borsuk, VibroBox, MAPS.ME, MapsWithMe, Software, Engineer, 
 {{<svg icon="cv/svg/skype.svg" href="https://join.skype.com/invite/F0idNdpCTCIk" caption="live:biodranik">}}
 {{<svg icon="cv/svg/telegram.svg" href="https://t.me/BioDranik" caption="@BioDranik">}}
 {{<svg icon="cv/svg/tw.svg" href="https://twitter.com/biodranik" caption="@biodranik">}}
+{{<svg icon="cv/svg/phone.svg" tel="+41762658571" caption="+41 762 658 571">}}
 
 ## Personal values and interests
 
