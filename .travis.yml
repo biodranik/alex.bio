@@ -5,8 +5,8 @@ env:
   global:
     - HUGO_RELEASE=0.54.0
 language: node_js # npm is needed to install postcss-cli
-node_js:
-  - "lts/*"
+node_js: "lts/*"
+cache: npm
 git:
   depth: 1
   submodules_depth: 1
@@ -38,7 +38,3 @@ after_deploy:
         --data '{"purge_everything":true}'
       done
     fi
-
-cache:
-  directories:
-    - node_modules
