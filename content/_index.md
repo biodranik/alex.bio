@@ -62,7 +62,7 @@ keywords: Alexander, Borsuk, VibroBox, MAPS.ME, MapsWithMe, Software, Engineer, 
 
 ## Education
 
-[List of publications](#publications)
+<span class="noprint">[List of publications](#publications)</span>
 
 ### Belarusian State University of Informatics and Radioelectronics, Minsk, Belarus
 
