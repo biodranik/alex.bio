@@ -2,7 +2,7 @@
 # 70 chars are displayed by Google in search results.
 title: "Alexander Borsuk: Software Engineer, co-founder of VibroBox & MAPS.ME"
 description: "Hi! I'm an IT Engineer and researcher, co-founder of VibroBox (vibration-based diagnostics of rotary equipment and Prescriptive Maintenance), co-founder of MAPS.ME (offline iOS and Android maps for travelers)."
-keywords: Alexander, Borsuk, VibroBox, MAPS.ME, MapsWithMe, Software, Engineer, C++, CTO, Minsk, Belarus
+keywords: Alexander, Borsuk, VibroBox, MAPS.ME, MapsWithMe, Software, Engineer, C++, CTO, Minsk, Belarus, Zurich, Switzerland
 ---
 # Alexander Borsuk, MScEng<br/>Co-founder of VibroBox {{<printer>}}
 
@@ -24,12 +24,12 @@ keywords: Alexander, Borsuk, VibroBox, MAPS.ME, MapsWithMe, Software, Engineer, 
 
 - Healthy lifestyle, green environment, eco food
 - Medical research and biohacking
+- Life-long Learner
 - Everything should be perfect and automated
-- Life-long Learner, to become perfect in every aspect
 
 ## I'm strong at:
 
-- C++11 and multi-threading
+- C++14 and multi-threading
 - Code performance and scalability
 - Software and hardware optimizations
 - Cross-platform and embedded solutions
@@ -43,14 +43,14 @@ keywords: Alexander, Borsuk, VibroBox, MAPS.ME, MapsWithMe, Software, Engineer, 
 
 ## Software skills
 
-- Extensive experience in C++11, C, Objective-C, Java, Qt, STL, WTL, WinAPI, WinSock, MFC, ATL, Bash, Assembler, HTML5, CSS3, PHP
-- General knowledge and some experience with Kotlin, Scala, C#, COM, Perl, Python, Visual Basic, SQL, Pascal, XSLT
+- Extensive experience in C++14, C11, Objective-C, Java, Qt, STL, WTL, WinAPI, WinSock, MFC, ATL, Bash, Assembler, HTML5, CSS3, PHP
+- General knowledge and some experience with Kotlin, Scala, Go, C#, Perl, Python, Visual Basic, SQL, Pascal, XSLT
 - Experience with Google AppEngine, AWS, Docker, Travis
 - Administrator and system developer experience with Windows 98/2000/XP/2003/Vista/2008/7/10, Debian/Ubuntu/CentOS Linux, Solaris, MacOS
-- System and application development experience with iOS, Android, Samsung Bada, PocketPC 2003, Windows Mobile 5 and 6, Symbian OS S60 3rd and 5th Edition platforms
-- Source Control Systems: Git[hub], Mercurial, CVS, SVN, Borland StarTeam, Visual SourceSafe
-- Project management and issue tracking systems: Trello, Redmine, Trac, Jira, eXplanner, FIT BugTrack, Borland Starteam
-- Good knowledge of computer hardware and networks, including HTTP and IP stack
+- System and application development experience with iOS, Android, Samsung Bada, PocketPC, Windows Mobile 5 and 6, Symbian OS
+- Source Control Systems: Git[hub], Bitbucket, Mercurial, CVS, SVN, Borland StarTeam, Visual SourceSafe
+- Project management and issue tracking systems: Trello, Redmine, Trac, Jira, eXplanner, FIT BugTrack, Borland Starteam, Confluence
+- Good knowledge of computer hardware and networks, including HTTP, CoAP and IP stack
 
 ## Speaking languages
 
@@ -91,6 +91,41 @@ keywords: Alexander, Borsuk, VibroBox, MAPS.ME, MapsWithMe, Software, Engineer, 
 - _1988–1999_ Graduated high school in Minsk with a golden medal
 
 ## Work Experience
+
+### {{<daterange "2019" "now">}} Software Engineer at [Qnective AG][] (Zurich, Switzerland)
+
+Qnective is a leading provider of sophisticated communication solutions and services, with deep expertise in wireless technologies, networking, infrastructure and highly-secure encryption mechanisms.
+
+I have:
+
+- worked on peer-to-peer opus voice communication over DTLS on Android
+- reviewed embedded C/C++ code implementing encrypted data communication for ESP32
+- switched from C++11 to C++17 support for a large project
+- upgraded OpenSSL and Qt to the most recent versions
+- fixed and improved cross-platform build system
+- actively participated in C/C++ code reviews
+
+Techs:
+: C++17
+: C11
+: Java
+: bash
+: Qt
+: OpenSSL
+: CoAP
+: Opus
+: Ubuntu
+: iOS
+: Android
+: ESP32
+: Docker
+: Bitbucket
+: Jira
+: Bamboo
+: Jenkins
+: GTest
+: Unity
+: Catch2
 
 ### {{<daterange "2016" "now">}} Founding Investor of [VibroBox][]
 
@@ -396,6 +431,7 @@ Techs:
 [Scala Specialization]: https://www.coursera.org/account/accomplishments/specialization/WAUK848HQVK6 "Alexander Borsuk: Functional Programming in Scala Specialization (Coursera)"
 [My Github]: https://github.com/biodranik?tab=repositories "My Github Projects"
 [MAPS.ME]: https://maps.me/download "Offline Maps of the World"
+[Qnective AG]: https://qnective.com/ "Secure communications company"
 [VibroBox]: https://www.vibrobox.com/ "Prescriptive Diagnostics for Industrial Equipment"
 [Igor]: https://www.vibrobox.com/team/igor-davydov/ "Igor Davydov, Ph.D. in digital signal processing and data science"
 [VibroBox Technology]: https://www.vibrobox.com/technology/ "Prescriptive Maintenance Technology"
