@@ -18,7 +18,7 @@
   <meta http-equiv="last-modified" content="{{.Lastmod.UTC.Format "Mon, 02 Jan 2006 15:04:05 MST"}}" />
   <!-- Last modified time in RFC8601 format: {{.Lastmod.UTC.Format "2006-01-02T15:04:05"}} -->
   <!-- Outputs meta tag with hugo version used for site generation. -->
-  {{.Hugo.Generator -}}
+  {{hugo.Generator -}}
 
   <!-- Do not index dev version and private pages -->
   {{if or .Params.private $.Site.Params.dev_mode -}}

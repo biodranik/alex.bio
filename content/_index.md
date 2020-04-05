@@ -1,10 +1,10 @@
 ---
 # 70 chars are displayed by Google in search results.
-title: "Alexander Borsuk: Software Engineer, co-founder of VibroBox & MAPS.ME"
-description: "Hi! I'm an IT Engineer and researcher, co-founder of VibroBox (vibration-based diagnostics of rotary equipment and Prescriptive Maintenance), co-founder of MAPS.ME (offline iOS and Android maps for travelers)."
-keywords: Alexander, Borsuk, VibroBox, MAPS.ME, MapsWithMe, Software, Engineer, C++, CTO, Minsk, Belarus, Zurich, Switzerland
+title: "Alexander Borsuk: Software Engineer, MScEng, co-founder of VibroBox & MAPS.ME"
+description: "Hi! I'm an IT Engineer and researcher, co-founder of VibroBox (Prescriptive Maintenance and vibration-based diagnostics of rotary equipment), co-founder of MAPS.ME (offline iOS and Android maps for travelers)."
+keywords: Alexander, Borsuk, VibroBox, MAPS.ME, MapsWithMe, Software, Engineer, C++, CTO, Minsk, Belarus, Zurich, Switzerland, MSc, MScEng, GoLang, Security, Communications
 ---
-# Alexander Borsuk, MScEng<br/>Co-founder of VibroBox {{<printer>}}
+# {{< param title >}} {{<printer>}}
 
 > *Hi! I'm an IT engineer and researcher from Belarus, co-founder of [VibroBox][] (prescriptive maintenance for machinery) and [MAPS.ME][] (offline maps for [iOS][MAPS.ME iOS] and [Android][MAPS.ME Android]). I like [open source][My Github], love to travel, want to be healthy and understand how everything works.*
 
@@ -22,18 +22,18 @@ keywords: Alexander, Borsuk, VibroBox, MAPS.ME, MapsWithMe, Software, Engineer, 
 
 ## Personal values and interests
 
-- Healthy lifestyle, green environment, eco food
 - Medical research and biohacking
+- Healthy lifestyle, green environment, eco food
 - Life-long Learner
 - Everything should be perfect and automated
 
 ## I'm strong at:
 
-- C++14 and multi-threading
+- C(11)/C++(17) and multi-threading
 - Code performance and scalability
 - Software and hardware optimizations
 - Cross-platform and embedded solutions
-- Networking and cloud services
+- Secure networking and cloud services
 - Code reviews and troubleshooting
 - Learning and using new programming languages
 - Building and managing dev teams
@@ -43,14 +43,15 @@ keywords: Alexander, Borsuk, VibroBox, MAPS.ME, MapsWithMe, Software, Engineer, 
 
 ## Software skills
 
-- Extensive experience in C++14, C11, Objective-C, Java, Qt, STL, WTL, WinAPI, WinSock, MFC, ATL, Bash, Assembler, HTML5, CSS3, PHP
-- General knowledge and some experience with Kotlin, Scala, Go, C#, Perl, Python, Visual Basic, SQL, Pascal, XSLT
+- Extensive experience in C++17, C11, Objective-C, Java, Qt, STL, WTL, WinAPI, WinSock, MFC, ATL, Bash, Assembler, HTML5, CSS3, PHP
+- Good knowledge and some experience with ESP32, OpenSSL, mbedTLS, Kotlin, Scala, Go, C#, Perl, Python, Visual Basic, SQL, Pascal, XSLT
 - Experience with Google AppEngine, AWS, Docker, Travis
 - Administrator and system developer experience with Windows 98/2000/XP/2003/Vista/2008/7/10, Debian/Ubuntu/CentOS Linux, Solaris, MacOS
 - System and application development experience with iOS, Android, Samsung Bada, PocketPC, Windows Mobile 5 and 6, Symbian OS
-- Source Control Systems: Git[hub], Bitbucket, Mercurial, CVS, SVN, Borland StarTeam, Visual SourceSafe
+- Source Control Systems: Git[hub], Gitlab, Bitbucket, Mercurial, CVS, SVN, Borland StarTeam, Visual SourceSafe
 - Project management and issue tracking systems: Trello, Redmine, Trac, Jira, eXplanner, FIT BugTrack, Borland Starteam, Confluence
-- Good knowledge of computer hardware and networks, including HTTP, CoAP and IP stack
+- Good knowledge of computer hardware and networks, including CoAP, HTTP and IP stack
+- Experience with secure communications and data encryption, including TLS, DTLS, symmetric and asymmetric ciphers, x509 certificates
 
 ## Speaking languages
 
@@ -92,22 +93,29 @@ keywords: Alexander, Borsuk, VibroBox, MAPS.ME, MapsWithMe, Software, Engineer, 
 
 ## Work Experience
 
-### {{<daterange "2019" "now">}} Software Engineer at [Qnective AG][] (Zurich, Switzerland)
+### {{<daterange "2019" "now">}} Software Engineer and Tech Lead at [Qnective AG][] (Zurich, Switzerland)
 
-Qnective is a leading provider of sophisticated communication solutions and services, with deep expertise in wireless technologies, networking, infrastructure and highly-secure encryption mechanisms.
+Qnective is a leading provider of sophisticated communication solutions and services, with deep expertise in wireless technologies, networking, IoT, infrastructure and highly-secure encryption mechanisms.
 
 I have:
 
-- worked on peer-to-peer opus voice communication over DTLS on Android
-- reviewed embedded C/C++ code implementing encrypted data communication for ESP32
-- switched from C++11 to C++17 support for a large project
-- upgraded OpenSSL and Qt to the most recent versions
-- fixed and improved cross-platform build system
-- actively participated in C/C++ code reviews
+- lead the team of 8 engineers and QA for secure embedded IoT project
+- implemented lightweight SD-card support for ESP32
+- developed and reviewed embedded C/C++ code for encrypted data communication (DTLS over CoAP) for ESP32
+- worked on peer-to-peer opus voice communication over DTLS/CoAP on iOS and Android
+- designed and developed a routing GoLang gateway for P2P E2EE voice and messaging
+- switched from C++11 to C++17 support for a large project (Qtalk)
+- migrated Qtalk codebase from OpenSSL 0.9.8 to 1.1.1
+- migrated Qtalk codebase from Qt from 5.9.2 to 5.13.1
+- fixed and improved cross-platform build system for Qtalk
+- performed extensive C/C++/Ruby/GoLang/python/Scala code reviews
 
 Techs:
 : C++17
 : C11
+: GoLang
+: DTLS
+: TLS
 : Java
 : bash
 : Qt
@@ -126,6 +134,9 @@ Techs:
 : GTest
 : Unity
 : Catch2
+: OpenSSL
+: mbedTLS
+: SARA R4
 
 ### {{<daterange "2016" "now">}} Founding Investor of [VibroBox][]
 
