@@ -29,7 +29,7 @@ keywords: Alexander, Borsuk, VibroBox, MAPS.ME, MapsWithMe, Software, Engineer, 
 
 ## I'm strong at:
 
-- C(11)/C++(17) and multi-threading
+- C[11]/C++[17] and multi-threading
 - Code performance and scalability
 - Software and hardware optimizations
 - Cross-platform and embedded solutions
@@ -58,7 +58,6 @@ keywords: Alexander, Borsuk, VibroBox, MAPS.ME, MapsWithMe, Software, Engineer, 
 - Fluent English
 - Native Belarusian
 - Native Russian
-- Basic Spanish
 - Learning German
 
 ## Education
@@ -104,10 +103,9 @@ I have:
 - developed and reviewed embedded C/C++ code for encrypted data communication (DTLS over CoAP) for ESP32
 - worked on peer-to-peer opus voice communication over DTLS/CoAP on iOS and Android
 - designed and developed a routing GoLang gateway for P2P E2EE voice and messaging
-- switched from C++11 to C++17 support for a large project (Qtalk)
-- migrated Qtalk codebase from OpenSSL 0.9.8 to 1.1.1
-- migrated Qtalk codebase from Qt from 5.9.2 to 5.13.1
-- fixed and improved cross-platform build system for Qtalk
+- switched large project codebase from C++11 to C++17
+- migrated codebase to the latest version of OpenSSL and Qt
+- improved cross-platform build system
 - performed extensive C/C++/Ruby/GoLang/python/Scala code reviews
 
 Techs:
@@ -122,6 +120,7 @@ Techs:
 : OpenSSL
 : CoAP
 : Opus
+: WebRTC
 : Ubuntu
 : iOS
 : Android
