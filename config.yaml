@@ -1,11 +1,11 @@
 baseURL: https://alex.bio/
 languageCode: en
 defaultContentLanguage: en
-title: "Alexander Borsuk: Software Engineer, MSc, and researcher, co-founder of VibroBox, cofounder of MAPS.ME"
+title: "Alexander Borsuk: Software Engineer, MScEng, researcher, co-founder of VibroBox, cofounder of MAPS.ME"
 disableKinds:
   ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
 googleAnalytics: UA-71329020-1
-copyright: © 2018 Alexander Borsuk, https://alex.bio/
+copyright: © 2020 Alexander Borsuk, https://alex.bio/
 # Updates .Page.Lastmod from git repo.
 enableGitInfo: true
 
