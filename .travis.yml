@@ -9,9 +9,8 @@ node_js: "lts/*"
 cache: npm
 git:
   depth: 1
-  submodules_depth: 1
 install:
-  - npm install postcss-cli autoprefixer
+  - npm install postcss postcss-cli autoprefixer
   - wget -q -O hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_RELEASE}/hugo_extended_${HUGO_RELEASE}_Linux-64bit.deb
   - sudo dpkg -i hugo.deb
 script:
