@@ -3,7 +3,7 @@ dist: xenial
 sudo: required
 env:
   global:
-    - HUGO_RELEASE=0.76.3
+    - HUGO_RELEASE=0.81.0
 language: node_js # npm is needed to install postcss-cli
 node_js: "lts/*"
 cache: npm
