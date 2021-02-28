@@ -163,7 +163,7 @@ dt {
 dd {
   margin: 0;
   padding: 0.1em;
-  vertical-align: middle;
+  // vertical-align: middle;
   background-color: white;
   border: 1px dotted red;
   display: inline-block;
@@ -175,12 +175,15 @@ a:any-link {
   color: inherit;
   text-decoration-skip-ink: none;
   @media not print {
-    @include prefix(text-decoration, underline dotted);
+    @include prefix(text-decoration, underline solid);
   }
   @media print {
     @include prefix(text-decoration, none);
   }
   cursor: pointer;
+}
+a:hover {
+  text-decoration: none;
 }
 
 blockquote {
