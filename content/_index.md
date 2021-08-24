@@ -1,12 +1,12 @@
 ---
 # Google displays 70 chars in search results.
-title: "Alexander Borsuk: Software Engineer, MScEng, co-founder of VibroBox & MAPS.ME"
-description: "Hi! I'm an IT Engineer and researcher, founding investor of VibroBox (Prescriptive Maintenance and vibration-based diagnostics of rotary equipment), co-founder of MAPS.ME (offline iOS and Android maps for travelers)."
-keywords: Alexander Borsuk, VibroBox, MAPS.ME, MapsWithMe, Software, Engineer, C++, CTO, Minsk, Belarus, Zurich, Switzerland, MSc, MScEng, GoLang, Security, Communications, JS, JavaScript
+title: "Alexander Borsuk: Software Engineer, MScEng, co-founder of Organic Maps, VibroBox & MAPS.ME"
+description: "Hi! I'm an IT Engineer and researcher, co-founder of Organic Maps and MAPS.ME (offline iOS and Android maps for travelers), founding investor of VibroBox (Prescriptive Maintenance and vibration-based diagnostics of rotary equipment)."
+keywords: Alexander Borsuk, Organic Maps, Organic, Maps, VibroBox, MAPS.ME, MapsWithMe, Software, Engineer, C++, CTO, Minsk, Belarus, Zurich, Switzerland, MSc, MScEng, GoLang, Security, Communications, JS, JavaScript
 ---
 # {{< param title >}} {{<printer>}}
 
-> *Hi! I'm an IT engineer and researcher from Belarus, founding investor of [VibroBox][] (prescriptive maintenance for machinery) and [MAPS.ME][] (offline maps for [iOS][MAPS.ME iOS] and [Android][MAPS.ME Android]). I have 18 years of experience in leading dev teams, building cross-platform and scalable software. I like [open source][My Github], love to travel, and want to understand how everything works.*
+> *Hi! I'm an IT engineer and researcher from Belarus, co-founder of [Organic Maps][] and [MAPS.ME][] (offline maps for [iOS][Organic Maps iOS] and [Android][Organic Maps Android]), and founding investor of [VibroBox][] (prescriptive maintenance for machinery). I have almost 20 years of experience in leading dev teams, building cross-platform and scalable software. I like [open source][My Github], love to travel, and eager to learn about health and the world around me.*
 
 ![Alexander Borsuk](images/alexander_borsuk_nyc_compressed.jpeg "Alexander Borsuk")
 
@@ -31,7 +31,7 @@ keywords: Alexander Borsuk, VibroBox, MAPS.ME, MapsWithMe, Software, Engineer, C
 
 ## I'm strong at:
 
-- Building, managing, and improving dev teams
+- Building, managing, leading and improving dev teams
 - C[11]/C++[17] and multi-threading
 - Cross-platform and embedded solutions
 - Secure networking and cloud services
@@ -440,14 +440,15 @@ Techs:
 -----
 [Scala Specialization]: https://www.coursera.org/account/accomplishments/specialization/WAUK848HQVK6 "Alexander Borsuk: Functional Programming in Scala Specialization (Coursera)"
 [My Github]: https://github.com/biodranik?tab=repositories "My Github Projects"
+[Organic Maps]: https://organicmaps.app/ "Privacy-focused offline maps"
 [MAPS.ME]: https://maps.me/ "Offline Maps of the World"
 [Qnective AG]: https://qnective.com/ "Secure communications company"
 [VibroBox]: https://www.vibrobox.com/ "Prescriptive Diagnostics for Industrial Equipment"
 [Igor]: https://www.vibrobox.com/team/igor-davydov/ "Igor Davydov, Ph.D. in digital signal processing and data science"
 [VibroBox Technology]: https://www.vibrobox.com/technology/ "Prescriptive Maintenance Technology"
 [Smart Energy Summit news]: https://www.vibrobox.com/news/2018/03/the-main-award-of-smart-energy-summit-2018-goes-to-vibrobox/#summary-of-vibrobox-ceo-igor-davydov-s-presentation "Prescriptive Diagnostics"
-[MAPS.ME iOS]: https://itunes.apple.com/app/id510623322 "MAPS.ME in the AppStore"
-[MAPS.ME Android]: https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro "MAPS.ME in the Google Play"
+[Organic Maps iOS]: https://apps.apple.com/app/organic-maps/id1567437057 "Organic Maps in the AppStore"
+[Organic Maps Android]: https://play.google.com/store/apps/details?id=app.organicmaps "Organic Maps in the Google Play"
 [map editor]: https://venturebeat.com/2016/04/06/mapsme-openstreetmap-editing/ "VentureBeat: Edit OpenStreetMap with MAPS.ME"
 [OpenSource Press Release]: https://corp.mail.ru/en/press/releases/9422/ "Mail.Ru Press-Release: MAPS.ME Goes Open Source"
 [omim]: https://github.com/mapsme/omim "MAPS.ME Source Sode on GitHub"
