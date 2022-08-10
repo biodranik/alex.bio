@@ -6,7 +6,7 @@ keywords: Alexander Borsuk, Organic Maps, Organic, Maps, VibroBox, MAPS.ME, Maps
 ---
 # {{< param title >}} {{<printer>}}
 
-> *Hi! I'm an IT engineer and researcher from Belarus, co-founder of [Organic Maps][] and [MAPS.ME][] (offline maps for [iOS][Organic Maps iOS] and [Android][Organic Maps Android]), and founding investor of [VibroBox][] (prescriptive maintenance for machinery). I have almost 20 years of experience in leading dev teams, building cross-platform and scalable software. I like [open source][My Github], love to travel, and eager to learn about health and the world around me.*
+> *Hi! I'm an IT engineer and researcher from Belarus, co-founder of [Organic Maps][] and [MAPS.ME][] (offline maps for [iOS][Organic Maps iOS] and [Android][Organic Maps Android]), and founding investor of [VibroBox][] (prescriptive maintenance for machinery). I have almost 20 years of experience in leading dev teams, building mobile, cross-platform and scalable software. I like [open source][My Github], love to travel, and eager to learn more about health and the world around me.*
 
 ![Alexander Borsuk](images/alexander_borsuk_nyc_compressed.jpeg "Alexander Borsuk")
 
@@ -24,7 +24,7 @@ keywords: Alexander Borsuk, Organic Maps, Organic, Maps, VibroBox, MAPS.ME, Maps
 
 - Medical research and biohacking
 - Parenting and education
-- Healthy lifestyle, green environment, eco food
+- Healthy lifestyle, food and environment
 - Life-long Learner
 - Everything should be perfect and automated
 - Natural Language Processing
@@ -44,13 +44,14 @@ keywords: Alexander Borsuk, Organic Maps, Organic, Maps, VibroBox, MAPS.ME, Maps
 
 ## Software skills
 
-- Extensive experience in C++17, C11, Objective-C, Java, JavaScript, Qt, STL, WTL, WinAPI, WinSock, MFC, ATL, Bash, Assembler, HTML5, CSS3, PHP
+- Extensive experience in C++17, C11, Objective-C, Swift, Java, JavaScript, Qt, STL, WTL, WinAPI, WinSock, MFC, ATL, Bash, Assembler, HTML5, CSS3, PHP
 - Good knowledge and some experience with WebRTC, ESP32, OpenSSL, mbedTLS, Kotlin, Scala, Go, C#, Perl, Python, Visual Basic, SQL, Pascal, XSLT
 - System and application development experience with iOS, Android, Samsung Bada, PocketPC, Windows Mobile 5 and 6, Symbian OS
-- Experience with Google AppEngine, AWS, IBM Cloud, Hetzner Cloud, Cloudflare, Docker, Janus
-- Administrator and system developer experience with Windows 98/2000/XP/2003/Vista/2008/7/10, Debian/Ubuntu/CentOS/Amazon Linux, Solaris, macOS
-- Source Control Systems: Git[hub], Gitlab, Bitbucket, Mercurial, CVS, SVN, Borland StarTeam, Visual SourceSafe
-- Project management and issue tracking systems: Notion, Trello, Redmine, Trac, Jira, eXplanner, FIT BugTrack, Borland Starteam, Confluence
+- Experience with Google AppEngine, AWS, IBM Cloud, Hetzner Cloud, Cloudflare, Docker, Janus Media Gateway
+- Administrator and system developer experience with Windows 98/2000/XP/2003/Vista/2008/7/10, Debian/Ubuntu/CentOS/Amazon Linux, Solaris, MacOS
+- Source Control Systems: Git[hub], Gerrit, Gitlab, Bitbucket, Mercurial, CVS, SVN, Borland StarTeam, Visual SourceSafe
+- CI: TeamCity, Jenkins, Github Runners, GitLab, TravisCI
+- Project management and issue tracking systems: YouTrack, Notion, Trello, Redmine, Trac, Jira, eXplanner, FIT BugTrack, Borland Starteam, Confluence
 - Good knowledge of computer hardware and networks, including CoAP, HTTP, and IP stack
 - Experience with secure communications and data encryption, including TLS, DTLS, symmetric and asymmetric ciphers, x509 certificates
 
@@ -89,11 +90,26 @@ keywords: Alexander Borsuk, Organic Maps, Organic, Maps, VibroBox, MAPS.ME, Maps
 
 - _1997-1998_ x86 Assembler courses
 - _1995-1996_ BASIC courses using YAMAHA YIS-805
-- _1988–1999_ Graduated high school in Minsk with a gold medal
+- _1988–1999_ Graduated high school in Minsk with a golden medal
 
 ## Work Experience
 
-### {{<daterange "2019" "now">}} Software Engineer and Tech Lead at [Qnective AG][] (Zurich, Switzerland)
+### {{<daterange "2022" "now">}} C++ Performance Engineer [Phenix Real Time Solutions, Inc.][] (Zurich, Switzerland)
+
+Phenix Real Time Solutions technology publishes and streams real time, synchronized video at scale with a less than 0.5 second delay, all over the World.
+
+Techs:
+: C++14
+: boost
+: bash
+: JavaScript
+: WebRTC
+: ffmpeg
+: YouTrack
+: Gerrit
+: TeamCity
+
+### {{<daterange "2019" "2022">}} Software Engineer and Tech Lead at [Qnective AG][] (Zurich, Switzerland)
 
 Qnective is a leading provider of sophisticated communication solutions and services, with deep expertise in wireless technologies, networking, IoT, infrastructure, and highly-secure encryption mechanisms.
 
@@ -108,10 +124,15 @@ I have:
 - migrated codebase to the latest version of OpenSSL and Qt
 - improved cross-platform build system
 - performed extensive C/C++/Ruby/GoLang/python/Scala code reviews
+- developed several features for iOS and Android apps
 
 Techs:
 : C++17
 : C11
+: Swift
+: iOS
+: Java
+: Android
 : GoLang
 : DTLS
 : TLS
@@ -442,6 +463,7 @@ Techs:
 [My Github]: https://github.com/biodranik?tab=repositories "My Github Projects"
 [Organic Maps]: https://organicmaps.app/ "Privacy-focused offline maps"
 [MAPS.ME]: https://maps.me/ "Offline Maps of the World"
+[Phenix Real Time Solutions, Inc.]: https://phenixrts.com/ "Real time video streaming"
 [Qnective AG]: https://qnective.com/ "Secure communications company"
 [VibroBox]: https://www.vibrobox.com/ "Prescriptive Diagnostics for Industrial Equipment"
 [Igor]: https://www.vibrobox.com/team/igor-davydov/ "Igor Davydov, Ph.D. in digital signal processing and data science"
