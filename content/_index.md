@@ -97,7 +97,7 @@ keywords: Alexander Borsuk, Organic Maps, Organic, Maps, VibroBox, MAPS.ME, Maps
 
 ### {{<daterange "2022" "now">}} C++ Performance Engineer [Phenix Real Time Solutions, Inc.][] (Zurich, Switzerland)
 
-Phenix Real Time Solutions technology publishes and streams real time, synchronized video at scale with a less than 0.5 second delay, all over the World.
+Phenix Real Time Solutions technology publishes and streams real-time, synchronized video at scale with less than 0.5-second delay, with a sub-second time to the first frame (TTFF), broadcasting it for millions all over the World.
 
 In PhenixRTS I have:
 
@@ -105,7 +105,7 @@ In PhenixRTS I have:
 - Built optimized ffmpeg from sources for Mac and Linux
 - Reviewed C++ code and shared the best code practices
 - Learned and participated in the unique dev team management approach called "Phenix Way"
-- Learned about the realtime and scalable video streaming and broadcasting
+- Learned about real-time and scalable video streaming and broadcasting
 
 Techs:
 : C++14
@@ -115,7 +115,7 @@ Techs:
 : zsh
 : JavaScript
 : WebRTC
-: Streaming
+: Live Video Streaming
 : Broadcasting
 : ffmpeg
 : YouTrack
@@ -132,10 +132,10 @@ Download and install Organic Maps from [App Store](https://apps.apple.com/app/or
 [FDroid](https://f-droid.org/en/packages/app.organicmaps/),
 or install APK directly [from GitHub](https://github.com/organicmaps/organicmaps/releases).
 
-I have co-founded Organic Maps together with Viktar Havaka and Roman Tsisyk in 2021. We forked
-our own project MAPS.ME (which was open-sourced in 2015), cleaned up all unnecessary features,
-including tracking and statistics collection, and focused on the speed and stability, to make
-it the most secure, and the fastest map app on the market.
+I co-founded Organic Maps together with Viktar Havaka and Roman Tsisyk in 2021. We forked
+our project MAPS.ME (which we created in 2011 and open-sourced in 2015), cleaned up all
+unnecessary features, including tracking and statistics collection, and focused on speed and
+stability, to make it the most secure, and fastest map app on the market.
 
 Now I'm supporting the community and the development of Organic Maps in my free time.
 
@@ -144,7 +144,7 @@ In Organic Maps I am:
 - Preparing and publishing new releases
 - Managing the product and its features
 - Fixing issues and implementing features
-- Scaling the CDN to download maps at scale
+- Scaling the CDN to download maps for millions of users
 - Maintaining the build system and CI on GitHub
 - Reviewing code including C++17, Java, Swift
 - Helping contributors on GitHub
@@ -159,6 +159,13 @@ Techs:
 : Cloudflare Workers
 : GitHub
 : FDroid
+: Google Play
+: Huawei AppGallery
+: AppStore
+: iOS
+: Android
+: Linux
+: Mac OS X
 
 ### {{<daterange "2019" "2022">}} Software Engineer and Tech Lead at [Qnective AG][] (Zurich, Switzerland)
 
@@ -212,7 +219,7 @@ Techs:
 
 ### {{<daterange "2016" "now">}} Founding Investor of [VibroBox][]
 
-VibroBox is a vibration-based diagnostics service for a scalable [prescriptive maintenance](Smart Energy Summit news), *IIoT* and *Industry 4.0*. Our team of scientists, engineers, and industry experts are focused on [digital signal processing][VibroBox Technology], wavelets, machine learning, and other algorithms to prevent failures of industrial equipment by providing timely and automated maintenance instructions.
+VibroBox is a vibration-based diagnostics service for scalable [prescriptive maintenance](Smart Energy Summit news), *IIoT*, and *Industry 4.0*. Our team of scientists, engineers, and industry experts are focused on [digital signal processing][VibroBox Technology], wavelets, machine learning, and other algorithms to prevent failures of industrial equipment by providing timely and automated maintenance instructions.
 
 VibroBox works with a wide range of rotary equipment, including (but not limited to): pumps, turbines, compressors, generators, rotors, engines, bearings, gearboxes, rolling mills, wind farms, wheel pairs for cars and trains.
 
@@ -228,7 +235,7 @@ Some engineering tasks I've done:
 
 - Designed a scalable cloud service architecture
 - Set up and administered cloud server hosting (Ubuntu)
-- iOS and Android apps to collect audio and accelerometer data and send it in to the cloud for automated processing
+- iOS and Android apps to collect audio and accelerometer data and send it into the cloud for automated processing
 - Developed and supported the company's [website][VibroBox]
 - Established and performed team code reviews
 
@@ -273,7 +280,7 @@ Techs:
 
 #### {{<daterange "2015" "2016">}} System Architect at Mail.Ru Group
 
-After the [acquisition][] of MAPS.ME, we have hired a new engineering team of 25 in Moscow and passed all our knowledge to them. I was in a "CTO" role at Maps department of [Mail.Ru Group](https://corp.mail.ru/en/):
+After the [acquisition][] of MAPS.ME, we have hired a new engineering team of 25 in Moscow and passed all our knowledge to them. I was in a "CTO" role at the Maps department of [Mail.Ru Group](https://corp.mail.ru/en/):
 
 - Interviewed, trained, and led new dev and QA team
 - Developed offline [map editor][] for MAPS.ME to upload map edits directly into the crowd-sourced [OpenStreetMap][] database [[source code](https://github.com/mapsme/omim/tree/master/editor)]
@@ -514,7 +521,7 @@ Techs:
 [My Github]: https://github.com/biodranik?tab=repositories "My Github Projects"
 [Organic Maps]: https://organicmaps.app/ "Privacy-focused offline maps"
 [MAPS.ME]: https://maps.me/ "Offline Maps of the World"
-[Phenix Real Time Solutions, Inc.]: https://phenixrts.com/ "Real time video streaming"
+[Phenix Real Time Solutions, Inc.]: https://phenixrts.com/ "Real-time video streaming"
 [Qnective AG]: https://qnective.com/ "Secure communications company"
 [VibroBox]: https://www.vibrobox.com/ "Prescriptive Diagnostics for Industrial Equipment"
 [Igor]: https://www.vibrobox.com/team/igor-davydov/ "Igor Davydov, Ph.D. in digital signal processing and data science"
