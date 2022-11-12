@@ -1,12 +1,12 @@
 ---
 # Google displays 70 chars in search results.
-title: "Alexander Borsuk: Software Engineer, MScEng, co-founder @ Organic Maps, VibroBox & MAPS.ME"
-description: "Hi! I'm an IT Engineer and researcher, co-founder of Organic Maps and MAPS.ME (offline iOS and Android maps for travelers), founding investor of VibroBox (Prescriptive Maintenance and vibration-based diagnostics of rotary equipment)."
-keywords: Alexander Borsuk, Organic Maps, Organic, Maps, VibroBox, MAPS.ME, MapsWithMe, Software, Engineer, C++, CTO, Minsk, Belarus, Zurich, Switzerland, MSc, MScEng, GoLang, Security, Communications, JS, JavaScript, WebRTC, Embedded
+title: "Alexander Borsuk: Software Engineer, MScEng, co-founder @ VibroBox, Organic Maps & MAPS.ME app"
+description: "Hi! I'm an IT Engineer and researcher, co-founder of Organic Maps and MAPS.ME apps (offline iOS/Android maps for travelers), founding investor of VibroBox (Prescriptive Maintenance and vibration-based diagnostics of rotary equipment)."
+keywords: Alexander Borsuk, Organic Maps, Organic, Maps, VibroBox, MAPS.ME, MapsWithMe, Software, Engineer, C++, CTO, Minsk, Belarus, Zurich, Switzerland, MSc, MScEng, GoLang, Security, Communications, JS, JavaScript, WebRTC, Embedded, CMake, C, python
 ---
 # {{< param title >}} {{<printer>}}
 
-> *Hi! I'm an IT engineer and researcher from Belarus, co-founder of [Organic Maps][] and [MAPS.ME][] (offline maps for [iOS][Organic Maps iOS] and [Android][Organic Maps Android]), and founding investor of [VibroBox][] (prescriptive maintenance for machinery). I have almost 20 years of experience in leading dev teams, building mobile, cross-platform and scalable software. I like [open source][My Github], love to travel, am eager to learn more about health and the World around me. And of course, I enjoy making everything better and more convenient for people.*
+> *Hi! I'm software engineer and researcher, co-founder of [Organic Maps][] and [MAPS.ME][] apps (offline maps for [iOS][Organic Maps iOS] and [Android][Organic Maps Android]), and founding investor of [VibroBox][] (prescriptive maintenance for machinery). Originally from Belarus, now I live and work in Switzerland. I have almost 20 years of experience in building and leading dev teams, building cross-platform and scalable software for mobiles, servers and desktops. I like [open source][My Github], love to travel, am eager to learn more about health and the World around me. And of course, I enjoy making everything better and more convenient for people.*
 
 ![Alexander Borsuk](images/alexander_borsuk_nyc_compressed.jpeg "Alexander Borsuk")
 
@@ -27,13 +27,15 @@ keywords: Alexander Borsuk, Organic Maps, Organic, Maps, VibroBox, MAPS.ME, Maps
 - Healthy lifestyle, food and environment
 - Life-long Learner
 - Everything should be perfect and automated
-- Natural Language Processing
+- Helping dev teams to grow, move faster, and improve the quality
+- Natural Language Processing (NLP)
 - Maps and traveling
+- Learning Rust
 
 ## I'm strong at:
 
 - Building, managing, leading and improving dev teams
-- C[11]/C++[17] and multi-threading
+- C/C++ and multi-threading
 - Cross-platform and embedded solutions
 - Secure networking and cloud services
 - Code performance and scalability
@@ -46,7 +48,7 @@ keywords: Alexander Borsuk, Organic Maps, Organic, Maps, VibroBox, MAPS.ME, Maps
 ## Software skills
 
 - Extensive experience in C++, C++11, C++14, C++17, C, C99, C11, Objective C/C++, Swift, Java, JavaScript, Qt, STL, WTL, WinAPI, WinSock, MFC, ATL, Bash, Assembler, HTML5, CSS3, PHP
-- Good knowledge and experience with WebRTC, ESP32, OpenSSL, mbedTLS, Kotlin, Scala, Go, C#, Perl, Python, Visual Basic, SQL, Pascal, XSLT
+- Good knowledge and experience with TypeScript, WebRTC, ESP32, OpenSSL, mbedTLS, Kotlin, Scala, Go, C#, Perl, Python, Visual Basic, SQL, Pascal, XSLT
 - System and application development experience with iOS, Android, Samsung Bada, PocketPC, Windows Mobile 5 and 6, Symbian OS
 - Experience with Google Cloud/AppEngine, AWS, IBM Cloud, Hetzner Cloud, Cloudflare, Docker, Janus Media Gateway
 - Administrator and system developer experience with Windows 98/2000/XP/2003/Vista/2008/7/10, Debian/Ubuntu/CentOS/Amazon Linux, Solaris, MacOS X
@@ -101,11 +103,12 @@ Phenix Real Time Solutions technology publishes and streams real-time, synchroni
 
 In PhenixRTS I have:
 
-- Accelerated the project build speed by a factor of 1.5x-4x to optimize dev and CI time
-- Built optimized ffmpeg from sources for Mac and Linux
-- Reviewed C++ code and shared the best code practices
-- Learned and participated in the unique dev team management approach called "Phenix Way"
-- Learned about real-time and scalable video streaming and broadcasting
+- accelerated the project build speed by a factor of 1.5x-4x to optimize dev and CI time
+- built optimized ffmpeg from sources for Mac and Linux
+- reviewed C++ code and shared the best code practices
+- found and backlogged a number of issues, including failing tests
+- learned and participated in the unique dev team management approach called "Phenix Way"
+- learned about real-time and scalable video streaming and broadcasting
 
 Techs:
 : C++14
@@ -118,13 +121,21 @@ Techs:
 : Live Video Streaming
 : Broadcasting
 : ffmpeg
+: Docker
 : YouTrack
 : Gerrit
 : TeamCity
+: Android NDK
+: GTest
+: BDD
+: TDD
 
-### {{<daterange "2021" "now">}} Co-Founder at [Organic Maps][]
+### {{<daterange "2021" "now">}} Co-Founder at [Organic Maps][] (remote, free-time hobby project)
 
-[Organic Maps][] is a [free](https://organicmaps.app/donate/) and privacy-focused Android and iOS offline maps app for travelers, tourists, drivers, hikers, and cyclists based on crowd-sourced [OpenStreetMap][] data.
+[Organic Maps][] is a free, [donation-based](https://organicmaps.app/donate/) and privacy-focused Android and iOS offline maps app for travelers, tourists, drivers, hikers, and cyclists based on crowd-sourced [OpenStreetMap][] data.
+
+Organic Maps is a fork of [MAPS.ME][] (MapsWithMe). [MAPS.ME][] was created by me and my friends in 2011 and [open-sourced in 2015][OpenSource Press Release] under Apache 2.0 license. In Organic Maps all unnecessary "features" like tracking and statistics collection were removed. The main focus is on speed,
+stability and up-to-date [OpenStreetMap][] maps data, to make it the most secure, fastest and battery-efficient map app on the market.
 
 Download and install Organic Maps from [App Store](https://apps.apple.com/app/organic-maps/id1567437057),
 [Google Play](https://play.google.com/store/apps/details?id=app.organicmaps),
@@ -132,23 +143,17 @@ Download and install Organic Maps from [App Store](https://apps.apple.com/app/or
 [FDroid](https://f-droid.org/en/packages/app.organicmaps/),
 or install APK directly [from GitHub](https://github.com/organicmaps/organicmaps/releases).
 
-I co-founded Organic Maps together with Viktar Havaka and Roman Tsisyk in 2021. We forked
-our project MAPS.ME (which we created in 2011 and open-sourced in 2015), cleaned up all
-unnecessary features, including tracking and statistics collection, and focused on speed and
-stability, to make it the most secure, and fastest map app on the market.
-
-Now I'm supporting the community and the development of Organic Maps in my free time.
-
 In Organic Maps I am:
 
-- Preparing and publishing new releases
-- Managing the product and its features
-- Fixing issues and implementing features
-- Scaling the CDN to download maps for millions of users
-- Maintaining the build system and CI on GitHub
-- Reviewing code including C++17, Java, Swift
-- Helping contributors on GitHub
-- Supporting users by email, in stores, messengers, and social networks
+- supporting the community and the development of Organic Maps in my free time
+- preparing and publishing new releases
+- managing the product and its features
+- fixing issues and implementing features
+- scaling the CDN to download maps for millions of users
+- maintaining the build system and CI on GitHub
+- reviewing code including C++17, Java, Swift
+- helping contributors on GitHub
+- supporting users by email, in stores, messengers, and social networks
 
 Techs:
 : C++17
@@ -156,7 +161,12 @@ Techs:
 : Java
 : Objective C/C++
 : JavaScript
+: TypeScript
+: python
+: CMake
 : Cloudflare Workers
+: Cloudflare Pages
+: Cloudflare Functions
 : GitHub
 : FDroid
 : Google Play
@@ -166,10 +176,51 @@ Techs:
 : Android
 : Linux
 : Mac OS X
+: protobuf
+: GTest
+: CI/CD
+
+### {{<daterange "2020" "2021">}} Video Backend & Frontend Engineer at [Zenia][] (remote, part-time side job)
+
+Zenia - Interactive Fitness & Yoga is the world's first virtual assistant app for
+[iOS](https://apps.apple.com/us/app/yoga-for-beginners-zenia-app/id1483602673) and
+[Android](https://play.google.com/store/apps/details?id=app.zenia) that uses AI to give
+real-time feedback on yoga practice.
+
+I was responsible to develop and support scalable live video lessons for yoga instructors
+with many students all over the world practicing using their mobile phones and desktop browsers.
+
+- designed and implemented scalable AWS video CDN for realtime live classes
+- configured and supported Janus Media Gateway backend with SFU topology
+- implemented backend video recordings and statistics collection
+- implemented JavaScript frontend to display and record audio and video
+- integrated WebRTC WebView video player for iOS and Android apps
+
+Techs:
+: WebRTC
+: Janus Media Gateway
+: Docker
+: JavaScript
+: TypeScript
+: HTML5
+: iOS
+: Android
+: python
+: nginx
+: AWS
+: iOS
+: Android
+: Tensorflow
+: React
 
 ### {{<daterange "2019" "2022">}} Software Engineer and Tech Lead at [Qnective AG][] (Zurich, Switzerland)
 
 Qnective is a leading provider of sophisticated communication solutions and services, with deep expertise in wireless technologies, networking, IoT, infrastructure, and highly-secure encryption mechanisms.
+
+Projects I've been working on:
+- Qtalk, secure messenger for enterprises and governments (iOS, Android and Windows)
+- Qnet, secure voice and messaging app for low-end Android devices
+- Wearable body sensors for sports and medical application (ESP32 embedded chip)
 
 I have:
 
@@ -183,6 +234,7 @@ I have:
 - improved cross-platform build system
 - performed extensive C/C++/Ruby/GoLang/python/Scala code reviews
 - developed several features for iOS and Android apps
+- interviewed candidates for job positions
 
 Techs:
 : C++17
@@ -211,15 +263,19 @@ Techs:
 : Bamboo
 : Jenkins
 : GTest
+: protobuf
 : Unity
 : Catch2
 : OpenSSL
 : mbedTLS
 : SARA R4
+: qmake
+: Kanban
+: Scrum
 
 ### {{<daterange "2016" "now">}} Founding Investor of [VibroBox][]
 
-VibroBox is a vibration-based diagnostics service for scalable [prescriptive maintenance](Smart Energy Summit news), *IIoT*, and *Industry 4.0*. Our team of scientists, engineers, and industry experts are focused on [digital signal processing][VibroBox Technology], wavelets, machine learning, and other algorithms to prevent failures of industrial equipment by providing timely and automated maintenance instructions.
+VibroBox is a vibration-based diagnostics service for scalable [prescriptive maintenance](Smart Energy Summit news), *IIoT*, and *Industry 4.0*. Our team of scientists, engineers, and industry experts is focused on [digital signal processing][VibroBox Technology], wavelets, machine learning, and other algorithms to prevent failures of industrial equipment by providing timely and automated maintenance instructions.
 
 VibroBox works with a wide range of rotary equipment, including (but not limited to): pumps, turbines, compressors, generators, rotors, engines, bearings, gearboxes, rolling mills, wind farms, wheel pairs for cars and trains.
 
@@ -275,12 +331,13 @@ Techs:
 : gcc
 : python
 : bash
+: protobuf
 : Golang
 : AppEngine
 
 #### {{<daterange "2015" "2016">}} System Architect at Mail.Ru Group
 
-After the [acquisition][] of MAPS.ME, we have hired a new engineering team of 25 in Moscow and passed all our knowledge to them. I was in a "CTO" role at the Maps department of [Mail.Ru Group](https://corp.mail.ru/en/):
+After the [acquisition][] of MAPS.ME, we have hired a new engineering team of 25 in Moscow and passed all our knowledge to them. I was in a CTO role at the Maps department of [Mail.Ru Group](https://corp.mail.ru/en/):
 
 - Interviewed, trained, and led new dev and QA team
 - Developed offline [map editor][] for MAPS.ME to upload map edits directly into the crowd-sourced [OpenStreetMap][] database [[source code](https://github.com/mapsme/omim/tree/master/editor)]
@@ -522,6 +579,7 @@ Techs:
 [Organic Maps]: https://organicmaps.app/ "Privacy-focused offline maps"
 [MAPS.ME]: https://maps.me/ "Offline Maps of the World"
 [Phenix Real Time Solutions, Inc.]: https://phenixrts.com/ "Real-time video streaming"
+[Zenia]: https://www.linkedin.com/company/zenia-ai-yoga-teacher/ "Zenia - Interactive Fitness & Yoga"
 [Qnective AG]: https://qnective.com/ "Secure communications company"
 [VibroBox]: https://www.vibrobox.com/ "Prescriptive Diagnostics for Industrial Equipment"
 [Igor]: https://www.vibrobox.com/team/igor-davydov/ "Igor Davydov, Ph.D. in digital signal processing and data science"
