@@ -1,0 +1,47 @@
+name: Deploy to GH Pages
+on:
+  workflow_dispatch: # Manual trigger
+  push:
+    branches:
+      - master
+
+permissions:
+  contents: write
+
+env:
+  HUGO_RELEASE: "0.81.0"
+
+jobs:
+  gh-deploy:
+    name: Deploy to Github Pages
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install build tools and dependencies
+        shell: bash
+        run: |
+          npm install -g postcss postcss-cli autoprefixer
+          wget -q -O hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_RELEASE}/hugo_extended_${HUGO_RELEASE}_Linux-64bit.deb
+          sudo dpkg -i hugo.deb
+
+      - name: Checkout sources
+        uses: actions/checkout@v3
+
+      - name: Build static site
+        shell: bash
+        run: |
+          hugo
+
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: public
+
+      - name: Clear Cloudflare Cache
+        run: |
+          # Clear CDN cache after production deployments.
+          if [ "$GITHUB_REF_NAME" = "master" ]; then
+            curl -X DELETE "https://api.cloudflare.com/client/v4/zones/$CLOUDFLARE_ZONE/purge_cache" \
+              -H "Authorization: Bearer 7h4plL3wBfUr1KYRzMXzbEInCHDNz0uSrGPwpC8k" \
+              -H "Content-Type: application/json" \
+              --data '{"purge_everything":true}'
+          fi
