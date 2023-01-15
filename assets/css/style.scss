@@ -110,6 +110,13 @@ figure {
     display: inline-block;
     margin: 0.3em;
   }
+
+  &.city, &.phone {
+    @media not print {
+      display: none;
+    }
+  }
+
   &.gmail svg {
     fill: #d14836;
   }

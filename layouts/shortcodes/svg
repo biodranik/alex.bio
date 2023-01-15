@@ -3,6 +3,6 @@
 <figure class="{{$noExt}} svg">
   {{with .Get "href"}}<a href="{{.}}" target="_blank">{{end}}
   {{readFile (print "content/" (.Get "icon")) | safeHTML}}
-  {{with .Get "caption"}}<figcaption>{{.}}</figcaption>{{end}}
+  {{with .Get "caption"}}<figcaption id="caption_{{$noExt}}">{{.}}</figcaption>{{end}}
   {{with .Get "href"}}</a>{{end}}
 </figure>

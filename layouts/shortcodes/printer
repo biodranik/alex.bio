@@ -1,3 +1,19 @@
 <div class="printer">
-  <a href="javascript:window.print()" title="Print this page">🖨</a>
+  <a href="javascript:onPrinter()" title="Print this page">🖨</a>
+  <script>
+    function onPrinter() {
+      var city = document.getElementById('caption_city');
+      if (city) {
+        city.innerText = 'Zürich, Switzerland';
+      }
+      var tel = document.getElementById('caption_phone');
+      if (tel) {
+        var num = "+" + "4179" + "4206" + "897";
+        tel.parentElement.href = "tel:" + num;
+        tel.innerText = num;
+      }
+
+      window.print();
+    }
+  </script>
 </span>
