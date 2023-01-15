@@ -1,5 +1,6 @@
 {{- $start := .Get 0 -}}
 {{- $end := .Get 1 -}}
 <span class="daterange">
-  <time datetime="{{$start}}">{{$start}}</time>–<time datetime="{{$end}}">{{$end}}</time>
+  {{/* Handle just a year and "now" specially */}}
+  <time datetime="{{$start}}">{{ if le (len $start) 4 }}{{ $start }}{{ else }}{{ dateFormat "Jan 2006" $start }}{{ end }}</time>–<time datetime="{{$end}}">{{ if le (len $end) 4 }}{{ $end }}{{ else }}{{ dateFormat "Jan 2006" $end }}{{ end }}</time>
 </span>

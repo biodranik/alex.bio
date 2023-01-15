@@ -97,39 +97,6 @@ keywords: Alexander Borsuk, Organic Maps, Organic, Maps, VibroBox, MAPS.ME, Maps
 
 ## Work Experience
 
-### {{<daterange "2022" "now">}} C++ Performance Engineer [Phenix Real Time Solutions, Inc.][] (Zurich, Switzerland)
-
-Phenix Real Time Solutions technology publishes and streams real-time, synchronized video at scale with less than 0.5-second delay, with a sub-second time to the first frame (TTFF), broadcasting it for millions all over the World.
-
-In PhenixRTS I have:
-
-- accelerated the project build speed by a factor of 1.5x-4x to optimize dev and CI time
-- built optimized ffmpeg from sources for Mac and Linux
-- reviewed C++ code and shared the best code practices
-- found and backlogged a number of issues, including failing tests
-- learned and participated in the unique dev team management approach called "Phenix Way"
-- learned about real-time and scalable video streaming and broadcasting
-
-Techs:
-: C++14
-: CMake
-: boost
-: bash
-: zsh
-: JavaScript
-: WebRTC
-: Live Video Streaming
-: Broadcasting
-: ffmpeg
-: Docker
-: YouTrack
-: Gerrit
-: TeamCity
-: Android NDK
-: GTest
-: BDD
-: TDD
-
 ### {{<daterange "2021" "now">}} Co-Founder at [Organic Maps][] (remote, free-time hobby project)
 
 [Organic Maps][] is a free, [donation-based](https://organicmaps.app/donate/) and privacy-focused Android and iOS offline maps app for travelers, tourists, drivers, hikers, and cyclists based on crowd-sourced [OpenStreetMap][] data.
@@ -179,6 +146,39 @@ Techs:
 : protobuf
 : GTest
 : CI/CD
+
+### {{<daterange "2022-05-01" "2022-12-31">}} C++ Performance Engineer [Phenix Real Time Solutions, Inc.][] (Zurich, Switzerland)
+
+Phenix Real Time Solutions technology publishes and streams real-time, synchronized video at scale with less than 0.5-second delay, with a sub-second time to the first frame (TTFF), broadcasting it for millions all over the World.
+
+In PhenixRTS I have:
+
+- accelerated the project build speed by a factor of 1.5x-4x to optimize dev and CI time
+- built optimized ffmpeg from sources for Mac and Linux
+- reviewed C++ code and shared the best code practices
+- found and backlogged a number of issues, including failing tests
+- learned and participated in the unique dev team management approach called "Phenix Way"
+- learned about real-time and scalable video streaming and broadcasting
+
+Techs:
+: C++14
+: CMake
+: boost
+: bash
+: zsh
+: JavaScript
+: WebRTC
+: Live Video Streaming
+: Broadcasting
+: ffmpeg
+: Docker
+: YouTrack
+: Gerrit
+: TeamCity
+: Android NDK
+: GTest
+: BDD
+: TDD
 
 ### {{<daterange "2020" "2021">}} Video Backend & Frontend Engineer at [Zenia][] (remote, part-time side job)
 
@@ -296,6 +296,8 @@ Some engineering tasks I've done:
 - Established and performed team code reviews
 
 Techs:
+: AWS Lambda
+: AWS SES
 : Docker
 : Hugo
 : HTML5
@@ -304,7 +306,10 @@ Techs:
 : Linux
 : TravisCI
 : PHP7
+: YII2
 : Matlab
+: openvpn
+: MariaDB
 
 ### {{<daterange "2010" "2016">}} Co-founder, CEO, CTO of [MAPS.ME][]
 
@@ -431,7 +436,7 @@ Techs:
 : XSLT
 : Pair Programming
 
-### {{<daterange "Jul 2007" "Aug 2007">}} Freelanced DVD Ripper/Player Station project
+### {{<daterange "2007-07-01" "2007-08-31">}} Freelanced DVD Ripper/Player Station project
 
 I have developed a Windows application for touch-screen devices to easily play and grab DVD content in a small team of two.
 In particular, I've created:
