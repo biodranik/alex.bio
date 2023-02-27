@@ -1,12 +1,14 @@
 ---
 # Google displays 70 chars in search results.
-title: "Alexander Borsuk: Software Engineer, MScEng, co-founder @ VibroBox, Organic Maps & MAPS.ME app"
-description: "Hi! I'm an IT Engineer and researcher, co-founder of Organic Maps and MAPS.ME apps (offline iOS/Android maps for travelers), founding investor of VibroBox (Prescriptive Maintenance and vibration-based diagnostics of rotary equipment)."
+title: "Alexander Borsuk: Software Engineer, MScEng, co-founder @ Organic Maps & VibroBox, creator of MAPS.ME app"
+description: "Hi! I'm a Software Engineer and researcher, co-founder of Organic Maps (offline iOS/Android maps for travelers), founding investor of VibroBox (Prescriptive Maintenance and vibration-based diagnostics of rotary equipment), creator of MAPS.ME app"
 keywords: Alexander Borsuk, Organic Maps, Organic, Maps, VibroBox, MAPS.ME, MapsWithMe, Software, Engineer, C++, CTO, Minsk, Belarus, Zurich, Switzerland, MSc, MScEng, GoLang, Security, Communications, JS, JavaScript, WebRTC, Embedded, CMake, C, python
 ---
 # {{< param title >}} {{<printer>}}
 
-> *Hi! I'm software engineer and researcher, co-founder of [Organic Maps][] and [MAPS.ME][] apps (offline maps for [iOS][Organic Maps iOS] and [Android][Organic Maps Android]), and founding investor of [VibroBox][] (prescriptive maintenance for machinery). Originally from Belarus, now I live and work in Switzerland. I have almost 20 years of experience in building and leading dev teams, building cross-platform and scalable software for mobiles, servers and desktops. I like [open source][My Github], love to travel, am eager to learn more about health and the World around me. And of course, I enjoy making everything better and more convenient for people.*
+> *Hi! I'm a software engineer and researcher, co-founder of [Organic Maps][] (offline maps for [iOS][Organic Maps iOS] and [Android][Organic Maps Android]) and founding investor of [VibroBox][] (prescriptive maintenance for machinery). I have also created [MapsWithMe (MAPS.ME)][MAPS.ME] app.*
+
+> *Originally from Belarus, now I live and work in Switzerland. I have almost 20 years of experience in leading dev teams, building cross-platform and scalable software for mobiles, servers and desktops. I like [open source][My Github], love to travel, and am eager to learn more about people and the World around me.*
 
 ![Alexander Borsuk](images/alexander_borsuk_nyc_compressed.jpeg "Alexander Borsuk")
 
@@ -34,18 +36,37 @@ keywords: Alexander Borsuk, Organic Maps, Organic, Maps, VibroBox, MAPS.ME, Maps
 - Maps and traveling
 - Learning Rust
 
-## I'm strong at:
-
-- Building, managing, leading and improving dev teams
+## My strengths
+### As a Software Engineer, I'm strong at:
 - C/C++ and multi-threading
-- Cross-platform and embedded solutions
+- Mobile, cross-platform, and embedded solutions
 - Secure networking and cloud services
 - Code performance and scalability
 - Software and hardware optimizations
 - Code reviews and troubleshooting
-- Learning and using any/new programming languages
-- Product management, marketing, customer relations, and support
-- Project management, task estimating, documenting, delivering
+- Learning new programming languages and frameworks
+- Writing documentation
+
+### As a Team Lead, I'm strong at:
+- Project management, task definition and estimating, delivering
+- Teaching and sharing the knowledge
+- Optimizing team's performance
+- Improving code quality
+- Reducing the amount of bugs and technical debt
+- Asking the right questions at the right time
+
+### As a Product Manager, I'm strong at:
+- Prioritizing and setting goals
+- Making users happy about the product
+- Getting quality feedback about the product
+- Customer relations and support
+
+### As a CTO/VP of Engineering, I'm strong at:
+- Optimizing engineering expenses
+- Covering technology-related risks
+- Building a strong engineering team and culture
+- Interviewing and hiring, scaling the team
+- Growing startups
 
 ## Software skills
 
