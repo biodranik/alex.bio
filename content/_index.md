@@ -71,7 +71,7 @@ keywords: Alexander Borsuk, Organic Maps, Organic, Maps, VibroBox, MAPS.ME, Maps
 ## Software skills
 
 - Extensive experience in C++, C++11, C++14, C++17, C, C99, C11, Objective C/C++, Swift, Java, JavaScript, Qt, STL, WTL, WinAPI, WinSock, MFC, ATL, Bash, Assembler, HTML5, CSS3, PHP
-- Good knowledge and experience with TypeScript, WebRTC, ESP32, OpenSSL, mbedTLS, Kotlin, Scala, Go, C#, Perl, Python, Visual Basic, SQL, Pascal, XSLT
+- Good knowledge and experience with TypeScript, WebRTC, ESP32, OpenSSL, mbedTLS, Kotlin, MATLAB, Simulink, Scala, Go, C#, Perl, Python, Visual Basic, SQL, Pascal, XSLT
 - System and application development experience with iOS, Android, Samsung Bada, PocketPC, Windows Mobile 5 and 6, Symbian OS
 - Experience with Google Cloud/AppEngine, AWS, IBM Cloud, Hetzner Cloud, Cloudflare, Docker, Janus Media Gateway
 - Administrator and system developer experience with Windows 98/2000/XP/2003/Vista/2008/7/10, Debian/Ubuntu/CentOS/Amazon Linux, Solaris, MacOS X
@@ -305,14 +305,17 @@ VibroBox works with a wide range of rotary equipment, including (but not limited
 My responsibilities in VibroBox:
 
 - IT infrastructure management
+- Pilot and production deployments
 - Strategy and technology advisor
 - Business development, negotiations, presentations
 - Financing and accounting
-- Translations of Scientific Russian into Common English
+- Translations of scientific language into Common English
 
 Some engineering tasks I've done:
 
 - Designed a scalable cloud service architecture
+- Developed REST API for the service
+- Set up and kept dev tools and environment up to date
 - Set up and administered cloud server hosting (Ubuntu)
 - iOS and Android apps to collect audio and accelerometer data and send it into the cloud for automated processing
 - Developed and supported the company's [website][VibroBox]
@@ -330,7 +333,7 @@ Techs:
 : TravisCI
 : PHP7
 : YII2
-: Matlab
+: MATLAB
 : openvpn
 : MariaDB
 
