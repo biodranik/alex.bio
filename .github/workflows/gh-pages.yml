@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 env:
-  HUGO_RELEASE: "0.81.0"
+  HUGO_RELEASE: "0.113.0"
 
 jobs:
   gh-deploy:
