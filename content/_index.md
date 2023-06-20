@@ -75,6 +75,7 @@ I've been working in different roles in different projects, here is my strengths
 
 - Extensive experience in C++, C++11, C++14, C++17, C, C99, C11, Objective C/C++, Swift, Java, Kotlin, JavaScript, Qt, STL, WTL, WinAPI, WinSock, MFC, ATL, Bash, Assembler, HTML5, CSS3, PHP
 - Good knowledge and experience with TypeScript, WebRTC, ESP32, OpenSSL, mbedTLS, MATLAB, Simulink, Scala, Go, C#, Perl, Python, Visual Basic, SQL, Pascal, XSLT
+- OpenStreetMap, Mapbox, Leaflet, geojson
 - System and application development experience with iOS, Android, Samsung Bada, PocketPC, Windows Mobile 5 and 6, Symbian OS
 - Experience with Google Cloud/AppEngine, AWS, IBM Cloud, Hetzner Cloud, Cloudflare, Docker, Janus Media Gateway
 - Administrator and system developer experience with Windows 98/2000/XP/2003/Vista/2008/7/10, Debian/Ubuntu/CentOS/Amazon Linux, Solaris, MacOS X
@@ -172,19 +173,6 @@ Techs:
 : protobuf
 : GTest
 : CI/CD
-
-
-### {{<daterange "2023-04-11" "2023-06-19">}} Helping AR startup
-
-Design and implementation of maps and and sensor data collection modules.
-
-Techs:
-: Android
-: Kotlin
-: C++20
-: Sensors
-: MapBox
-: OpenStreetMap
 
 
 ### {{<daterange "2022-05-01" "2022-12-31">}} C++ Performance Engineer [Phenix Real Time Solutions, Inc.][] (Zurich, Switzerland)
