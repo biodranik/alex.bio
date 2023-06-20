@@ -8,7 +8,7 @@ keywords: Alexander Borsuk, Organic Maps, Organic, Maps, VibroBox, MAPS.ME, Maps
 
 > *Hi! I'm a software engineer and researcher, co-founder of [Organic Maps][] (offline maps for [iOS][Organic Maps iOS] and [Android][Organic Maps Android]) and founding investor of [VibroBox][] (prescriptive maintenance for machinery). I have also created [MapsWithMe (MAPS.ME)][MAPS.ME] app.*
 
-> *Originally from Belarus, now I live and work in Switzerland. I have almost 20 years of experience in leading dev teams, building cross-platform and scalable software for mobiles, servers and desktops. I like [open source][My Github], love to travel, and am eager to learn more about people and the World around me.*
+> *Originally from Belarus, now I live and work in Switzerland. I have 20 years of experience in leading dev teams, building cross-platform and scalable software for mobiles, servers and desktops. I like [open source][My Github], love to travel, and am eager to learn more about people and the World around me.*
 
 ![Alexander Borsuk](images/alexander_borsuk_nyc_compressed.jpeg "Alexander Borsuk")
 
@@ -26,19 +26,22 @@ keywords: Alexander Borsuk, Organic Maps, Organic, Maps, VibroBox, MAPS.ME, Maps
 
 ## Personal values and interests
 
+- Everything should be perfect and automated
+- Helping dev teams to grow, move faster, and improve the quality
+- Maps and traveling
+- Learning Rust
+- Natural Language Processing (NLP)
 - Medical research and biohacking
 - Parenting and education
 - Healthy lifestyle, food and environment
 - Life-long Learner
-- Everything should be perfect and automated
-- Helping dev teams to grow, move faster, and improve the quality
-- Natural Language Processing (NLP)
-- Maps and traveling
-- Learning Rust
 
 ## My strengths
+
+I've been working in different roles in different projects, here is my strengths summary:
+
 ### As a Software Engineer, I'm strong at:
-- C/C++ and multi-threading
+- Modern C/C++ and multi-threading
 - Mobile, cross-platform, and embedded solutions
 - Secure networking and cloud services
 - Code performance and scalability
@@ -70,8 +73,8 @@ keywords: Alexander Borsuk, Organic Maps, Organic, Maps, VibroBox, MAPS.ME, Maps
 
 ## Software skills
 
-- Extensive experience in C++, C++11, C++14, C++17, C, C99, C11, Objective C/C++, Swift, Java, JavaScript, Qt, STL, WTL, WinAPI, WinSock, MFC, ATL, Bash, Assembler, HTML5, CSS3, PHP
-- Good knowledge and experience with TypeScript, WebRTC, ESP32, OpenSSL, mbedTLS, Kotlin, MATLAB, Simulink, Scala, Go, C#, Perl, Python, Visual Basic, SQL, Pascal, XSLT
+- Extensive experience in C++, C++11, C++14, C++17, C, C99, C11, Objective C/C++, Swift, Java, Kotlin, JavaScript, Qt, STL, WTL, WinAPI, WinSock, MFC, ATL, Bash, Assembler, HTML5, CSS3, PHP
+- Good knowledge and experience with TypeScript, WebRTC, ESP32, OpenSSL, mbedTLS, MATLAB, Simulink, Scala, Go, C#, Perl, Python, Visual Basic, SQL, Pascal, XSLT
 - System and application development experience with iOS, Android, Samsung Bada, PocketPC, Windows Mobile 5 and 6, Symbian OS
 - Experience with Google Cloud/AppEngine, AWS, IBM Cloud, Hetzner Cloud, Cloudflare, Docker, Janus Media Gateway
 - Administrator and system developer experience with Windows 98/2000/XP/2003/Vista/2008/7/10, Debian/Ubuntu/CentOS/Amazon Linux, Solaris, MacOS X
@@ -122,7 +125,7 @@ keywords: Alexander Borsuk, Organic Maps, Organic, Maps, VibroBox, MAPS.ME, Maps
 
 ### {{<daterange "2021" "now">}} Co-Founder at [Organic Maps][] (remote, free-time hobby project)
 
-[Organic Maps][] is a free, [donation-based](https://organicmaps.app/donate/) and privacy-focused Android and iOS offline maps app for travelers, tourists, drivers, hikers, and cyclists based on crowd-sourced [OpenStreetMap][] data.
+[Organic Maps][] is a free, open-source, [donation-based](https://organicmaps.app/donate/) and privacy-focused Android and iOS offline maps app for travelers, tourists, drivers, hikers, and cyclists based on crowd-sourced [OpenStreetMap][] data.
 
 Organic Maps is a fork of [MAPS.ME][] (MapsWithMe). [MAPS.ME][] was created by me and my friends in 2011 and [open-sourced in 2015][OpenSource Press Release] under Apache 2.0 license. In Organic Maps all unnecessary "features" like tracking and statistics collection were removed. The main focus is on speed,
 stability and up-to-date [OpenStreetMap][] maps data, to make it the most secure, fastest and battery-efficient map app on the market.
@@ -137,13 +140,13 @@ In Organic Maps I am:
 
 - supporting the community and the development of Organic Maps in my free time
 - preparing and publishing new releases
-- managing the product and its features
-- fixing issues and implementing features
+- managing the product roadmap and its features
+- fixing bugs and implementing new features
 - scaling the CDN to download maps for millions of users
-- maintaining the build system and CI on GitHub
-- reviewing code including C++17, Java, Swift
+- maintaining the build system and CI
+- reviewing C++17, Java, Swift, Objective C, Python, bash code
 - helping contributors on GitHub
-- supporting users by email, in stores, messengers, and social networks
+- supporting users by email, in app stores, messengers, and social networks
 
 Techs:
 : C++17
@@ -169,6 +172,20 @@ Techs:
 : protobuf
 : GTest
 : CI/CD
+
+
+### {{<daterange "2023-04-11" "2023-06-19">}} Helping AR startup
+
+Design and implementation of maps and and sensor data collection modules.
+
+Techs:
+: Android
+: Kotlin
+: C++20
+: Sensors
+: MapBox
+: OpenStreetMap
+
 
 ### {{<daterange "2022-05-01" "2022-12-31">}} C++ Performance Engineer [Phenix Real Time Solutions, Inc.][] (Zurich, Switzerland)
 
