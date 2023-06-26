@@ -1,7 +1,19 @@
 <div class="printer">
   <a href="javascript:onPrinter()" title="Print this page">🖨</a>
   <script>
-    function onPrinter() {
+    onload = (event) => {
+      // Expand all details tags when the page is loaded.
+      document.querySelectorAll('details').forEach((element) => {
+        element.setAttribute('open', '');
+      });
+    };
+
+    function onBeforePrint() {
+      // Collapse all details tags when the page is printed.
+      document.querySelectorAll('details').forEach((element) => {
+        element.removeAttribute("open");
+      });
+
       var city = document.getElementById('caption_city');
       if (city) {
         city.innerText = 'Zürich, Switzerland';
@@ -12,8 +24,14 @@
         tel.parentElement.href = "tel:" + num;
         tel.innerText = num;
       }
+    }
 
+    function onPrinter() {
+      onBeforePrint();
       window.print();
     }
+
+    // Set global on before print handler
+    onbeforeprint = onBeforePrint;
   </script>
 </span>

@@ -11,6 +11,10 @@ $visitedLinkColor: rgb(2, 49, 180);
   .noprint {
     display: none;
   }
+
+  // #personal-values-and-interests {
+  //   page-break-before: always;
+  // }
 }
 
 body {
@@ -30,6 +34,7 @@ body {
 
 h1 {
   text-align: center;
+  font-size: 1.8rem;
 }
 
 h2 {
@@ -43,6 +48,7 @@ h3 {
   padding-left: 1em;
   padding-top: 0.2em;
   padding-bottom: 0.2em;
+  margin-top: 2rem;
   @include prefix(border-radius, 0.3em);
   .daterange {
     margin-right: 1em;
@@ -234,4 +240,8 @@ blockquote {
   a:any-link {
     @include prefix(text-decoration, none);
   }
+}
+
+.subheader {
+  border-bottom: 1px dotted #111;
 }
