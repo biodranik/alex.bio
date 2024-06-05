@@ -70,7 +70,7 @@ I've been working in different roles in different projects, here is my strengths
 - Establishing and automating processes
 - Building a strong engineering team and culture
 - Interviewing and hiring, scaling the team
-- Growing startups
+- Growing startups from scratch
 
 ## Software skills
 
@@ -124,6 +124,43 @@ I've been working in different roles in different projects, here is my strengths
 
 
 ## Work Experience
+
+### {{<daterange "2023-08-01" "now">}} Mobile and C++ Performance Engineer [Phenix Real Time Solutions, Inc.][] (Zurich, Switzerland)
+
+Phenix Real Time Solutions technology publishes and streams real-time, synchronized video at scale with less than 0.5-second delay, with a sub-second time to the first frame (TTFF), broadcasting it for millions between continents.
+
+<details>
+<summary>
+Feature development and bugfixing of the C++ core engine (including optimization of the build toolchain) and mobile SDK for iOS and Android.
+</summary>
+
+</details>
+
+Techs:
+: C++14
+: iOS
+: Android
+: CMake
+: boost
+: bash
+: zsh
+: nodejs
+: JavaScript
+: WebRTC
+: Live Video Streaming
+: Broadcasting
+: ffmpeg
+: Docker
+: YouTrack
+: Gerrit
+: TeamCity
+: Android NDK
+: GTest
+: Google Cloud
+: BigQuery
+: BDD
+: TDD
+
 
 ### {{<daterange "2021" "now">}} Co-founder & maintainer at [Organic Maps][] (remote, free-time hobby project)
 
