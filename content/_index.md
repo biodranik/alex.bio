@@ -2,7 +2,7 @@
 # Google displays 70 chars in search results.
 title: "Alexander Borsuk: Software Engineer, MScEng"
 description: "Hi! I'm a Software Engineer and researcher, co-founder of Organic Maps (offline iOS/Android maps for travelers), founding investor of VibroBox (Prescriptive Maintenance and vibration-based diagnostics of rotary equipment), creator of MAPS.ME app"
-keywords: Alexander Borsuk, Organic Maps, Organic, Maps, VibroBox, MAPS.ME, MapsWithMe, Software, Engineer, C++, CTO, Minsk, Belarus, Zurich, Switzerland, MSc, MScEng, GoLang, Security, Communications, JS, JavaScript, WebRTC, Embedded, CMake, C, python
+keywords: Alexander Borsuk, Organic Maps, Organic, Maps, VibroBox, MAPS.ME, MapsWithMe, Software, Engineer, C++, C++17, C++20, CTO, Minsk, Belarus, Zurich, Switzerland, MSc, MScEng, GoLang, Security, Communications, JS, JavaScript, WebRTC, Embedded, CMake, C, python
 ---
 # {{< param title >}} {{<printer>}}
 
@@ -74,7 +74,7 @@ I've been working in different roles in different projects, here is my strengths
 
 ## Software skills
 
-- Extensive experience in C++, C++11, C++14, C++17, C, C99, C11, Objective C/C++, Swift, Java, Kotlin, JavaScript, Qt, STL, OpenStreetMap, Mapbox, Leaflet, geojson, computation geometry, hugo, zola, Bash, HTML5, CSS3, PHP, WTL, WinAPI, WinSock, MFC, ATL, Assembler
+- Extensive experience in C++, C++11, C++14, C++17, C++20, C, C99, C11, Objective C/C++, Swift, Java, Kotlin, JavaScript, Qt, STL, OpenStreetMap, Mapbox, Leaflet, geojson, computation geometry, hugo, zola, Bash, HTML5, CSS3, PHP, WTL, WinAPI, WinSock, MFC, ATL, Assembler
 - Good knowledge and experience with Boost, TypeScript, WebRTC, ESP32, OpenSSL, mbedTLS, MATLAB, Simulink, Scala, Go, C#, Perl, Python, Visual Basic, SQL, Pascal, XSLT
 - System and application development experience with iOS, Android, Samsung Bada, PocketPC, Windows Mobile 5 and 6, Symbian OS
 - Experience with Google Cloud/AppEngine, AWS, IBM Cloud, Hetzner Cloud, Cloudflare, Docker, Janus Media Gateway
@@ -192,7 +192,9 @@ In my free time I am contributing, maintaining and coordinating the product deve
 </details>
 
 Techs:
+: C++20
 : C++17
+: Rust
 : Swift
 : Java
 : Objective C/C++
