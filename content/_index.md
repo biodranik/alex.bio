@@ -8,7 +8,7 @@ keywords: Alexander Borsuk, Organic Maps, Organic, Maps, VibroBox, MAPS.ME, Maps
 
 > *Hi! I'm a software engineer and researcher, co-founder of [Organic Maps][] (offline maps for [iOS][Organic Maps iOS] and [Android][Organic Maps Android]), founding investor of [VibroBox][] (prescriptive maintenance for machinery), one of the creators of [MapsWithMe (MAPS.ME)][MAPS.ME] app.*
 
-> *Originally from Belarus, now I live and work in Switzerland. I have 20 years of experience in leading dev teams, building cross-platform and scalable software for mobiles, servers and desktops. I like [open source][My Github] and love to learn something new every day.*
+> *Originally from Belarus, now I live and work in Switzerland. I have more than two decades of experience in development, leading dev teams, building cross-platform and scalable software for mobiles, servers and desktops. I like [open source][My Github] and love to learn something new every day.*
 
 ![Alexander Borsuk](images/alexander_borsuk_nyc_compressed.jpeg "Alexander Borsuk")
 
@@ -125,13 +125,15 @@ I've been working in different roles in different projects, here is my strengths
 
 ## Work Experience
 
-### {{<daterange "2023-08-01" "now">}} Mobile and C++ Performance Engineer [Phenix Real Time Solutions, Inc.][] (Zurich, Switzerland)
+### {{<daterange "2023-08-01" "2024-07-31">}} Mobile and C++ Performance Engineer [Phenix Real Time Solutions, Inc.][] (Zurich, Switzerland)
 
 Phenix Real Time Solutions technology publishes and streams real-time, synchronized video at scale with less than 0.5-second delay, with a sub-second time to the first frame (TTFF), broadcasting it for millions between continents.
 
 <details>
 <summary>
-Feature development and bugfixing of the C++ core engine (including optimization of the build toolchain) and mobile SDK for iOS and Android.
+- Feature development, testing, and optimizations of C++ core engine and mobile SDK for iOS and Android
+- Triaging and bugfixing
+- Code reviews
 </summary>
 
 </details>
@@ -139,6 +141,7 @@ Feature development and bugfixing of the C++ core engine (including optimization
 Techs:
 : C++14
 : iOS
+: DRM
 : Android
 : CMake
 : boost
