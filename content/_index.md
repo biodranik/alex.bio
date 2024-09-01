@@ -131,11 +131,12 @@ Phenix Real Time Solutions technology publishes and streams real-time, synchroni
 
 <details>
 <summary>
+Improving and bugfixing iOS/Android SDKs and C++ core engine.
+</summary>
+
 - Feature development, testing, and optimizations of C++ core engine and mobile SDK for iOS and Android
 - Triaging and bugfixing
 - Code reviews
-</summary>
-
 </details>
 
 Techs:
