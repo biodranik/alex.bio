@@ -125,7 +125,7 @@ I've been working in different roles in different projects, here is my strengths
 
 ## Work Experience
 
-### {{<daterange "2023-08-01" "2024-07-31">}} Mobile and C++ Performance Engineer [Phenix Real Time Solutions, Inc.][] (Zurich, Switzerland)
+### {{<daterange "2023-08-01" "2024-07-31">}} C++ and Mobile Performance Engineer [Phenix Real Time Solutions, Inc.][] (Zurich, Switzerland)
 
 Phenix Real Time Solutions technology publishes and streams real-time, synchronized video at scale with less than 0.5-second delay, with a sub-second time to the first frame (TTFF), broadcasting it for millions between continents.
 
