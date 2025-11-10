@@ -29,8 +29,8 @@ keywords: Alexander Borsuk, Organic Maps, Organic, Maps, VibroBox, MAPS.ME, Maps
 
 - Everything should be automated if possible
 - Helping dev teams to grow, learn, and deliver while improving the quality
-- Open source, maps, and traveling
-- Learning Rust
+- Open source, robotics, maps, and traveling
+- Learning Rust, Nix, LLMs, and AI/ML
 - Natural language processing (NLP)
 - Medical research and biohacking
 - Parenting and education
@@ -49,6 +49,7 @@ I've been working in different roles in different projects, here is my strengths
 - Code reviews and troubleshooting
 - Tests, automation and CI/CD
 - Learning new programming languages and frameworks
+- Getting to the root of the problem
 - Writing documentation
 
 #### As a Team Lead:
@@ -74,12 +75,12 @@ I've been working in different roles in different projects, here is my strengths
 
 ## Software skills
 
-- Extensive experience in C++, C++11, C++14, C++17, C++20, C, C99, C11, Objective C/C++, Swift, Java, Kotlin, JavaScript, Qt, STL, OpenStreetMap, Mapbox, Leaflet, geojson, computation geometry, hugo, zola, Bash, HTML5, CSS3, PHP, WTL, WinAPI, WinSock, MFC, ATL, Assembler
-- Good knowledge and experience with Boost, TypeScript, WebRTC, ESP32, OpenSSL, mbedTLS, MATLAB, Simulink, Scala, Go, C#, Perl, Python, Visual Basic, SQL, Pascal, XSLT
-- System and application development experience with iOS, Android, Samsung Bada, PocketPC, Windows Mobile 5 and 6, Symbian OS
+- Extensive experience in C++, C++11, C++14, C++17, C++20, C++23, C, C99, C11, Objective C/C++, Swift, Java, Kotlin, JavaScript, Qt, STL, OpenStreetMap, Mapbox, Leaflet, GeoJSON, computation geometry, Hugo, Zola, Bash, HTML5, CSS3, PHP, WTL, WinAPI, WinSock, MFC, ATL, Assembler
+- Good knowledge and experience with Nix, Boost, TypeScript, WebRTC, ESP32, OpenSSL, mbedTLS, MATLAB, Simulink, Scala, Go, C#, Perl, Python, Visual Basic, SQL, Pascal, XSLT, CUDA
+- System and application development experience with ROS, ROS2, iOS, Android, Samsung Bada, PocketPC, Windows Mobile 5 and 6, Symbian OS
 - Experience with Google Cloud/AppEngine, AWS, IBM Cloud, Hetzner Cloud, Cloudflare, Docker, Janus Media Gateway
 - Administrator and system developer experience with Windows 98/2000/XP/2003/Vista/2008/7/10, Debian/Ubuntu/CentOS/Amazon Linux, Solaris, MacOS X
-- Source Control Systems: Git[hub], Gerrit, Gitlab, Bitbucket, Mercurial, CVS, SVN, Borland StarTeam, Visual SourceSafe
+- Source Control Systems: Git, GitHub, Gerrit, Gitlab, Bitbucket, Mercurial, CVS, SVN, Borland StarTeam, Visual SourceSafe
 - CI: TeamCity, Jenkins, Github Runners, GitLab, TravisCI
 - Project management and issue tracking systems: YouTrack, Notion, Trello, Redmine, Trac, Jira, eXplanner, FIT BugTrack, Borland Starteam, Confluence
 - Good knowledge of computer hardware and networks, including CoAP, HTTP, TCP, UDP, IP
@@ -88,8 +89,7 @@ I've been working in different roles in different projects, here is my strengths
 ## Speaking languages
 
 - Fluent English
-- Native Belarusian
-- Native Russian
+- Native Belarusian and Russian
 - Learning German
 
 ## Education
@@ -124,6 +124,41 @@ I've been working in different roles in different projects, here is my strengths
 
 
 ## Work Experience
+
+### {{<daterange "2024-10-22" "now">}} Software Engineer [Hexagon Robotics][] (Zurich, Switzerland)
+
+Hexagon Robotics is a Swiss company developing advanced robotic solutions for industrial applications, including autonomous humanoid robots (see [AEON](https://robotics.hexagon.com/product/)), integrated with AI and machine learning technologies to enhance automation and efficiency in manufacturing processes.
+
+<details>
+<summary>
+Make robots reliable and efficient
+</summary>
+
+- Performance optimizations, robustness and bugfixing of C++/ROS2 core engine
+- Feature development and testing
+- Integration with external hardware and SDKs
+- Build system improvements and support
+- Code reviews
+- Documentation and tooling
+</details>
+
+Techs:
+: C++23
+: Python
+: ROS
+: ROS2
+: Nix
+: CUDA
+: CMake
+: boost
+: bash
+: VSCode
+: Linux
+: Isaac Sim
+: Windows
+: MSVC
+
+
 
 ### {{<daterange "2023-08-01" "2024-07-31">}} C++ and Mobile Performance Engineer [Phenix Real Time Solutions, Inc.][] (Zurich, Switzerland)
 
@@ -166,7 +201,7 @@ Techs:
 : TDD
 
 
-### {{<daterange "2021" "now">}} Co-founder & maintainer at [Organic Maps][] (remote, free-time hobby project)
+### {{<daterange "2020" "now">}} Co-founder & maintainer at [Organic Maps][] (remote, free-time hobby project)
 
 [Organic Maps][] is a free, open-source, [donation-based](https://organicmaps.app/donate/) and privacy-focused Android and iOS offline maps app for travelers, tourists, drivers, hikers, and cyclists based on crowd-sourced [OpenStreetMap][] data.
 
@@ -731,6 +766,7 @@ Techs:
 [MAPS.ME]: https://maps.me/ "Offline Maps of the World"
 [MAPS.ME iOS]: https://apps.apple.com/us/app/maps-me-offline-maps-gps-nav/id510623322
 [MAPS.ME Android]: https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro
+[Hexagon Robotics]: https://robotics.hexagon.com/ "Hexagon Robotics AG"
 [Phenix Real Time Solutions, Inc.]: https://phenixrts.com/ "Real-time video streaming"
 [Zenia]: https://www.linkedin.com/company/zenia-ai-yoga-teacher/ "Zenia - Interactive Fitness & Yoga"
 [Qnective AG]: https://qnective.com/ "Secure communications company"
