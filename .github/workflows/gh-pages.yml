@@ -10,6 +10,7 @@ permissions:
 
 env:
   HUGO_RELEASE: "0.114.0"
+  CACHE_PURGE_CF_TOKEN: ${{ secrets.CACHE_PURGE_CF_TOKEN }}
 
 jobs:
   gh-deploy:
@@ -41,7 +42,7 @@ jobs:
           # Clear CDN cache after production deployments.
           if [ "$GITHUB_REF_NAME" = "master" ]; then
             curl -X DELETE "https://api.cloudflare.com/client/v4/zones/$CLOUDFLARE_ZONE/purge_cache" \
-              -H "Authorization: Bearer 7h4plL3wBfUr1KYRzMXzbEInCHDNz0uSrGPwpC8k" \
+              -H "Authorization: Bearer $CACHE_PURGE_CF_TOKEN" \
               -H "Content-Type: application/json" \
               --data '{"purge_everything":true}'
           fi
