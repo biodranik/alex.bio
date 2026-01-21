@@ -3,7 +3,7 @@
     "upgrade": "npx npm-check-updates -u && npm install"
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.20",
-    "postcss-cli": "^11.0.0"
+    "autoprefixer": "^10.4.23",
+    "postcss-cli": "^11.0.1"
   }
 }
