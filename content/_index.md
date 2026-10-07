@@ -27,7 +27,7 @@ keywords: Alexander Borsuk, Organic Maps, Organic, Maps, VibroBox, MAPS.ME, Maps
 
 ## Personal values and interests
 
-- Everything should be automated if possible
+- Everything should be simple and automated if possible
 - Helping dev teams to grow, learn, and deliver while improving the quality
 - Open source, robotics, maps, and traveling
 - Learning Rust, Nix, LLMs, and AI/ML
@@ -50,6 +50,7 @@ I've been working in different roles in different projects, here is my strengths
 - Tests, automation and CI/CD
 - Learning new programming languages and frameworks
 - Getting to the root of the problem
+- Conscious use of Claude, Codex, Copilot, Gemini to boost quality and productivity
 - Writing documentation
 
 #### As a Team Lead:
@@ -61,36 +62,37 @@ I've been working in different roles in different projects, here is my strengths
 
 #### As a Product Manager:
 - Prioritizing and setting goals
+- Product delivery and release notes
 - Making users happy about the product
-- Getting quality feedback about the product
+- Collecting and integrating users' feedback about the product
 - Customer relations and support
 
 #### As a CTO/VP of Engineering:
+- Building a strong engineering team and culture
 - Optimizing engineering expenses
 - Covering technology-related risks
 - Establishing and automating processes
-- Building a strong engineering team and culture
 - Interviewing and hiring, scaling the team
-- Growing startups from scratch
+- Growing from scratch
 
 ## Software skills
 
-- Extensive experience in C++, C++11, C++14, C++17, C++20, C++23, C, C99, C11, Objective C/C++, Swift, Java, Kotlin, JavaScript, Qt, STL, OpenStreetMap, Mapbox, Leaflet, GeoJSON, computation geometry, Hugo, Zola, Bash, HTML5, CSS3, PHP, WTL, WinAPI, WinSock, MFC, ATL, Assembler
-- Good knowledge and experience with Nix, Boost, TypeScript, WebRTC, ESP32, OpenSSL, mbedTLS, MATLAB, Simulink, Scala, Go, C#, Perl, Python, Visual Basic, SQL, Pascal, XSLT, CUDA
+- Extensive experience in C++, C++11, C++14, C++17, C++20, C++23, C, C99, C11, C17, C23, Objective C/C++, Swift, Java, Kotlin, JavaScript, Qt, STL, OpenStreetMap, Mapbox, Leaflet, GeoJSON, computation geometry, Hugo, Zola, Bash, HTML5, CSS3, PHP, WTL, WinAPI, WinSock, MFC, ATL, Assembler, Claude, Codex, Copilot, Gemini
+- Good knowledge and experience with Nix, Boost, TypeScript, WebRTC, ESP32, OpenSSL, mbedTLS, MATLAB, Simulink, Scala, Go, C#, Perl, Python, Visual Basic, SQL, Pascal, XSLT, CUDA, CycloneDDS, FastDDS
 - System and application development experience with ROS, ROS2, iOS, Android, Samsung Bada, PocketPC, Windows Mobile 5 and 6, Symbian OS
 - Experience with Google Cloud/AppEngine, AWS, IBM Cloud, Hetzner Cloud, Cloudflare, Docker, Janus Media Gateway
-- Administrator and system developer experience with Windows 98/2000/XP/2003/Vista/2008/7/10, Debian/Ubuntu/CentOS/Amazon Linux, Solaris, MacOS X
-- Source Control Systems: Git, GitHub, Gerrit, Gitlab, Bitbucket, Mercurial, CVS, SVN, Borland StarTeam, Visual SourceSafe
+- Administrator and system developer experience with Windows 98/2000/XP/2003/Vista/2008/7/10/11, Debian/Ubuntu/CentOS/Amazon Linux, Solaris, macOS
+- Source Control Systems: Git, GitHub, Gerrit, GitLab, Bitbucket, Mercurial, CVS, SVN, Borland StarTeam, Visual SourceSafe
 - CI: TeamCity, Jenkins, Github Runners, GitLab, TravisCI
 - Project management and issue tracking systems: YouTrack, Notion, Trello, Redmine, Trac, Jira, eXplanner, FIT BugTrack, Borland Starteam, Confluence
-- Good knowledge of computer hardware and networks, including CoAP, HTTP, TCP, UDP, IP
-- Experience with secure communications and data encryption, including TLS, DTLS, symmetric and asymmetric ciphers, x509 certificates
+- Good knowledge of computer hardware and networks, including CoAP, HTTP, TCP, UDP, IP, DNS
+- Experience with secure communications and data encryption, including TLS, DTLS, symmetric and asymmetric ciphers, x509 certificates, E2E encryption
 
 ## Speaking languages
 
 - Fluent English
 - Native Belarusian and Russian
-- Learning German
+- Learning German (A1)
 
 ## Education
 
@@ -134,6 +136,8 @@ Hexagon Robotics is a Swiss company developing advanced robotic solutions for in
 Make robots reliable and efficient
 </summary>
 
+- Fixed ROS2 communication issues
+- Robustified Imitation Learning pipeline
 - Performance optimizations, robustness and bugfixing of C++/ROS2 core engine
 - Feature development and testing
 - Integration with external hardware and SDKs
@@ -157,7 +161,9 @@ Techs:
 : Isaac Sim
 : Windows
 : MSVC
-
+: Claude
+: Codex
+: Copilot
 
 
 ### {{<daterange "2023-08-01" "2024-07-31">}} C++ and Mobile Performance Engineer [Phenix Real Time Solutions, Inc.][] (Zurich, Switzerland)
@@ -231,8 +237,7 @@ In my free time I am contributing, maintaining and coordinating the product deve
 </details>
 
 Techs:
-: C++20
-: C++17
+: C++23
 : Rust
 : Swift
 : Java
@@ -255,6 +260,8 @@ Techs:
 : protobuf
 : GTest
 : CI/CD
+: Claude
+: Codex
 
 
 ### {{<daterange "2022-05-01" "2022-12-31">}} C++ Performance Engineer [Phenix Real Time Solutions, Inc.][] (Zurich, Switzerland)
