@@ -1,14 +1,14 @@
 ---
 # Google displays 70 chars in search results.
 title: "Alexander Borsuk: Software Engineer, MScEng"
-description: "Hi! I'm a Software Engineer and researcher, co-founder of Organic Maps (offline iOS/Android maps for travelers), founding investor of VibroBox (Prescriptive Maintenance and vibration-based diagnostics of rotary equipment), creator of MAPS.ME app"
+description: "Hi! I'm a software engineer and researcher, a co-founder of Organic Maps (offline iOS/Android maps for travelers), a founding investor in VibroBox (prescriptive maintenance and vibration-based diagnostics of rotary equipment), and one of the creators of the MAPS.ME app."
 keywords: Alexander Borsuk, Organic Maps, Organic, Maps, VibroBox, MAPS.ME, MapsWithMe, Software, Engineer, C++, C++17, C++20, CTO, Minsk, Belarus, Zurich, Switzerland, MSc, MScEng, GoLang, Security, Communications, JS, JavaScript, WebRTC, Embedded, CMake, C, python
 ---
 # {{< param title >}} {{<printer>}}
 
-> *Hi! I'm a software engineer and researcher, co-founder of [Organic Maps][] (offline maps for [iOS][Organic Maps iOS] and [Android][Organic Maps Android]), founding investor of [VibroBox][] (prescriptive maintenance for machinery), one of the creators of [MapsWithMe (MAPS.ME)][MAPS.ME] app.*
+> *Hi! I'm a software engineer and researcher, a co-founder of [Organic Maps][] (offline maps for [iOS][Organic Maps iOS] and [Android][Organic Maps Android]), a founding investor in [VibroBox][] (prescriptive maintenance for machinery), and one of the creators of the [MapsWithMe (MAPS.ME)][MAPS.ME] app.*
 
-> *Originally from Belarus, now I live and work in Switzerland. I have more than two decades of experience in development, leading dev teams, building cross-platform and scalable software for mobiles, servers and desktops. I like [open source][My Github] and love to learn something new every day.*
+> *Originally from Belarus, I now live and work in Switzerland. I have more than two decades of experience leading development teams and building scalable, cross-platform software for mobile devices, servers, and desktops. I like [open source][My GitHub] and love to learn something new every day.*
 
 ![Alexander Borsuk](images/alexander_borsuk_nyc_compressed.jpeg "Alexander Borsuk")
 
@@ -24,83 +24,83 @@ keywords: Alexander Borsuk, Organic Maps, Organic, Maps, VibroBox, MAPS.ME, Maps
 ## Personal values and interests
 
 - Everything should be simple and automated if possible
-- Helping dev teams to grow, learn, and deliver while improving the quality
+- Helping engineering teams grow, learn, and deliver while improving quality
 - Open source, robotics, maps, and traveling
 - Learning Rust, Nix, LLMs, and AI/ML
 - Natural language processing (NLP)
 - Medical research and biohacking
 - Parenting and education
-- Healthy lifestyle, food and environment
+- Healthy lifestyle, healthy food, and healthy environment
 
 ## My strengths
 
-I've been working in different roles in different projects, here is my strengths summary:
+I've worked in a variety of roles across different projects. My strengths include:
 
 #### As a Software Engineer:
-- Modern C/C++ and multi-threading
+- Modern C/C++ and multithreading
 - Mobile, cross-platform, and embedded solutions
 - Secure networking and cloud services
 - Code performance and scalability
 - Software and hardware optimizations
 - Code reviews and troubleshooting
-- Tests, automation and CI/CD
+- Testing, automation, and CI/CD
 - Learning new programming languages and frameworks
 - Getting to the root of the problem
-- Conscious use of LLM agents (including Claude, Codex, Copilot, Gemini) to boost quality and productivity
+- Conscious use of LLM agents (including Claude, Codex, Copilot, and Gemini) to improve workflows, quality and productivity
 - Writing documentation
 
 #### As a Team Lead:
-- Project management, task definition and estimating, delivering
-- Teaching and sharing the knowledge
-- Optimizing team's performance
+- Project management, task definition and estimation, timely delivery
+- Teaching and sharing knowledge
+- Optimizing team performance and workflows
 - Improving code quality
-- Reducing the amount of bugs and technical debt
+- Reducing the number of bugs and technical debt
 
 #### As a Product Manager:
 - Prioritizing and setting goals
 - Product delivery and release notes
-- Making users happy about the product
-- Collecting and integrating users' feedback about the product
+- Making product users happy
+- Collecting and incorporating user feedback
 - Customer relations and support
 
 #### As a CTO/VP of Engineering:
 - Building a strong engineering team and culture
 - Optimizing engineering expenses
-- Covering technology-related risks
+- Mitigating technology-related risks
 - Establishing and automating processes
-- Interviewing and hiring, scaling the team
-- Growing from scratch
+- Interviewing, hiring, and scaling the team
+- Building from the ground up
 
 ## Software skills
 
-- Extensive experience in C++, C++11, C++14, C++17, C++20, C++23, C, C99, C11, C17, C23, Objective C/C++, Swift, Java, Kotlin, JavaScript, Qt, STL, OpenStreetMap, Mapbox, Leaflet, GeoJSON, computation geometry, Hugo, Zola, Bash, HTML5, CSS3, PHP, WTL, WinAPI, WinSock, MFC, ATL, Assembler, Claude, Codex, Copilot, Gemini
-- Good knowledge and experience with Nix, Boost, TypeScript, WebRTC, ESP32, OpenSSL, mbedTLS, MATLAB, Simulink, Scala, Go, C#, Perl, Python, Visual Basic, SQL, Pascal, XSLT, CUDA, CycloneDDS, FastDDS
-- System and application development experience with ROS, ROS2, iOS, Android, Samsung Bada, PocketPC, Windows Mobile 5 and 6, Symbian OS
-- Experience with Google Cloud/AppEngine, AWS, IBM Cloud, Hetzner Cloud, Cloudflare, Docker, Janus Media Gateway
-- Administrator and system developer experience with Windows 98/2000/XP/2003/Vista/2008/7/10/11, Debian/Ubuntu/CentOS/Amazon Linux, Solaris, macOS
-- Source Control Systems: Git, GitHub, Gerrit, GitLab, Bitbucket, Mercurial, CVS, SVN, Borland StarTeam, Visual SourceSafe
-- CI: TeamCity, Jenkins, Github Runners, GitLab, TravisCI
-- Project management and issue tracking systems: YouTrack, Notion, Trello, Redmine, Trac, Jira, eXplanner, FIT BugTrack, Borland Starteam, Confluence
+- Extensive experience with C++, C++11, C++14, C++17, C++20, C++23, C, C99, C11, C17, C23, Objective-C/Objective-C++, Swift, Java, Kotlin, JavaScript, Qt, STL, OpenStreetMap, Mapbox, Leaflet, GeoJSON, computational geometry, Hugo, Zola, Bash, HTML5, CSS3, PHP, WTL, WinAPI, WinSock, MFC, ATL, assembly language, Claude, Codex, Copilot, Gemini
+- Good knowledge of and experience with Nix, Boost, TypeScript, WebRTC, ESP32, OpenSSL, mbedTLS, MATLAB, Simulink, Scala, Go, C#, Perl, Python, Visual Basic, SQL, Pascal, XSLT, CUDA, CycloneDDS, FastDDS
+- Systems and application development experience with ROS, ROS2, iOS, Android, Samsung Bada, PocketPC, Windows Mobile 5 and 6, Symbian OS
+- Experience with Google Cloud/App Engine, AWS, IBM Cloud, Hetzner Cloud, Cloudflare, Docker, Janus Media Gateway
+- Systems administration and development experience with Windows 98/2000/XP/2003/Vista/2008/7/10/11, Debian/Ubuntu/CentOS/Amazon Linux, Solaris, macOS
+- Source control systems: Git, GitHub, Gerrit, GitLab, Bitbucket, Mercurial, CVS, SVN, Borland StarTeam, Visual SourceSafe
+- CI: TeamCity, Jenkins, GitHub runners, GitLab, Travis CI
+- Project management and issue tracking systems: YouTrack, Notion, Trello, Redmine, Trac, Jira, eXplanner, FIT BugTrack, Borland StarTeam, Confluence
 - Good knowledge of computer hardware and networks, including CoAP, HTTP, TCP, UDP, IP, DNS
-- Experience with secure communications and data encryption, including TLS, DTLS, symmetric and asymmetric ciphers, x509 certificates, E2E encryption
+- Experience with secure communications and data encryption, including TLS, DTLS, symmetric and asymmetric ciphers, X.509 certificates, and end-to-end encryption
 
-## Speaking languages
+## Languages
 
-- Fluent English
-- Native Belarusian and Russian
+- Fluent in English
+- Native speaker of Belarusian and Russian
 - Learning German (A1)
 
 ## Education
 
 ### Belarusian State University of Informatics and Radioelectronics, Minsk, Belarus
 
-- _2016–2018_ **Master of Science in Engineering**, faculty of Radioengineering and Electronics.
+- _2016–2018_ **Master of Science in Engineering**, Faculty of Radioengineering and Electronics.
   <br/>
   Master's thesis: *Formation of informative features of shock processes using wavelet analysis of non-stationary vibration signals*
 
 - _1999–2004_ **Software and Hardware Systems Engineer**, Faculty of Computer Systems and Networks.
   <br/>
-  Bachelor's thesis: *Reliable file downloading for Palm OS*, graduated with a score of 4.71 out of 5.0.
+  Bachelor's thesis: *Reliable file downloading for Palm OS*. Graduated with a score of 4.71 out of 5.0.
 
 <span class="noprint">[List of publications](#publications)</span>
 
@@ -108,33 +108,33 @@ I've been working in different roles in different projects, here is my strengths
 
 - _2018_ Functional Programming in Scala Capstone
 - _2018_ Big Data Analysis with Scala and Spark
-- _2016_ Parallel programming
+- _2016_ Parallel Programming
 - _2016_ Functional Program Design in Scala
 - _2016_ Functional Programming Principles in Scala
 
 [Coursera certificates][Scala Specialization]
 
-### Other Education
+### Other education
 
-- _1997-1998_ x86 Assembler courses
-- _1995-1996_ BASIC courses using YAMAHA YIS-805
-- _1988–1999_ Graduated high school in Minsk with a golden medal
+- _1997–1998_ x86 assembly language courses
+- _1995–1996_ BASIC courses using the YAMAHA YIS-805
+- _1988–1999_ Graduated from high school in Minsk with a gold medal
 
 
-## Work Experience
+## Work experience
 
-### {{<daterange "2024-10-22" "now">}} Staff Software Engineer [Hexagon Robotics][] (Zurich, Switzerland)
+### {{<daterange "2024-10-22" "now">}} Staff Software Engineer at [Hexagon Robotics][] (Zurich, Switzerland)
 
-Hexagon Robotics is a Swiss company developing advanced robotic solutions for industrial applications, including autonomous humanoid robots (see [AEON](https://robotics.hexagon.com/product/)), integrated with AI and machine learning technologies to enhance automation and efficiency in manufacturing processes.
+Hexagon Robotics is a Swiss company developing advanced robotic solutions, including autonomous humanoid robots (see [AEON](https://robotics.hexagon.com/product/)), for industrial applications. Its solutions integrate AI and machine learning technologies to enhance automation and efficiency in manufacturing processes.
 
 <details>
 <summary>
-Make robots reliable and efficient as a part of Mission Team
+Making robots reliable and efficient as part of the Mission Team
 </summary>
 
-- Fixed ROS2 communication issues and promoted ROS-less migration
-- Robustified Imitation Learning pipeline (Python, media processing and inference on Jetson)
-- Performance optimizations, robustness and bugfixing of Python/C++/ROS2 core engine
+- Fixed ROS2 communication issues and promoted migration away from ROS
+- Improved the robustness of the imitation learning pipeline (Python, media processing, and inference on Jetson)
+- Performance optimization, robustness improvements, and bug fixes for the Python/C++/ROS2 core engine
 - Feature development and testing
 - Integration with external hardware and SDKs
 - Build system improvements and support
@@ -142,15 +142,15 @@ Make robots reliable and efficient as a part of Mission Team
 - Documentation and tooling
 </details>
 
-Techs:
+Technologies:
 : C++23
 : Python
 : ROS2
 : Nix
 : CUDA
 : CMake
-: boost
-: bash
+: Boost
+: Bash
 : VSCode
 : Linux
 : Isaac Sim
@@ -163,35 +163,35 @@ Techs:
 : BehaviorTree.CPP
 
 
-### {{<daterange "2023-08-01" "2024-07-31">}} C++ and Mobile Performance Engineer [Phenix Real Time Solutions, Inc.][] (Zurich, Switzerland)
+### {{<daterange "2023-08-01" "2024-07-31">}} C++ and Mobile Performance Engineer at [Phenix Real Time Solutions, Inc.][] (Zurich, Switzerland)
 
-Phenix Real Time Solutions technology publishes and streams real-time, synchronized video at scale with less than 0.5-second delay, with a sub-second time to the first frame (TTFF), broadcasting it for millions between continents.
+Phenix Real Time Solutions' technology publishes and streams synchronized, real-time video at scale with a delay of less than 0.5 seconds and a time to first frame (TTFF) of less than a second, broadcasting to millions of viewers across continents.
 
 <details>
 <summary>
-Improving and bugfixing iOS/Android SDKs and C++ core engine.
+Improving and fixing bugs in the iOS/Android SDKs and C++ core engine.
 </summary>
 
-- Feature development, testing, and optimizations of C++ core engine and mobile SDK for iOS and Android
+- Feature development, testing, and optimization of the C++ core engine and mobile SDKs for iOS and Android
 - Triaging and bugfixing
 - Code reviews
 </details>
 
-Techs:
+Technologies:
 : C++14
 : iOS
 : DRM
 : Android
 : CMake
-: boost
-: bash
+: Boost
+: Bash
 : zsh
-: nodejs
+: Node.js
 : JavaScript
 : WebRTC
 : Live Video Streaming
 : Broadcasting
-: ffmpeg
+: FFmpeg
 : Docker
 : YouTrack
 : Gerrit
@@ -204,41 +204,41 @@ Techs:
 : TDD
 
 
-### {{<daterange "2020" "now">}} Co-founder & maintainer at [Organic Maps][] (remote, free-time hobby project)
+### {{<daterange "2020" "now">}} Co-founder and maintainer of [Organic Maps][] (remote, free-time hobby project)
 
-[Organic Maps][] is a free, open-source, [donation-based](https://organicmaps.app/donate/) and privacy-focused Android and iOS offline maps app for travelers, tourists, drivers, hikers, and cyclists based on crowd-sourced [OpenStreetMap][] data.
+[Organic Maps][] is a free, open-source, [donation-based](https://organicmaps.app/donate/), and privacy-focused offline maps app for Android and iOS. It is based on crowdsourced [OpenStreetMap][] data and is designed for travelers, tourists, drivers, hikers, and cyclists.
 
-Organic Maps is a fork of [MAPS.ME][] (MapsWithMe). [MAPS.ME][] was created by me and my friends in 2011 and [open-sourced in 2015][OpenSource Press Release] under Apache 2.0 license. In Organic Maps all unnecessary "features" like tracking and statistics collection were removed. The main focus is on speed,
-stability and up-to-date [OpenStreetMap][] maps data, to make it the most secure, fastest and battery-efficient offline maps app.
+Organic Maps is a fork of [MAPS.ME][] (MapsWithMe). My friends and I created [MAPS.ME][] in 2011, and it was [open-sourced in 2015][OpenSource Press Release] under the Apache 2.0 license. All unnecessary "features," such as tracking and statistics collection, were removed from Organic Maps. The main focus is on speed,
+stability, and up-to-date [OpenStreetMap][] data, with the goal of making it the most secure, fastest, and most battery-efficient offline maps app.
 
-Download and install Organic Maps from [App Store](https://apps.apple.com/app/organic-maps/id1567437057),
+Download and install Organic Maps from the [App Store](https://apps.apple.com/app/organic-maps/id1567437057),
 [Google Play](https://play.google.com/store/apps/details?id=app.organicmaps),
 [Huawei AppGallery](https://appgallery.huawei.com/#/app/C104325611),
-[FDroid](https://f-droid.org/en/packages/app.organicmaps/),
-or install APK directly [from GitHub](https://github.com/organicmaps/organicmaps/releases).
+or [F-Droid](https://f-droid.org/en/packages/app.organicmaps/).
+You can also install the APK directly [from GitHub](https://github.com/organicmaps/organicmaps/releases).
 
 <details>
 <summary>
-In my free time I am contributing, maintaining and coordinating the product development of Organic Maps.
+In my free time, I contribute to Organic Maps, maintain the app, and coordinate its development.
 </summary>
 
-- supporting the community and the development of Organic Maps
-- preparing and publishing new releases
-- managing the product roadmap and its features
-- fixing bugs and implementing new features
-- scaling the CDN to download maps for millions of users
-- maintaining the build system and CI
-- reviewing C++17, Java, Swift, Objective C, Python, bash code
-- helping contributors on GitHub
-- supporting users by email, in app stores, messengers, and social networks
+- Supporting the community and the development of Organic Maps
+- Preparing and publishing new releases
+- Managing the product roadmap and its features
+- Fixing bugs and implementing new features
+- Scaling the CDN to deliver map downloads to millions of users
+- Maintaining the build system and CI
+- Reviewing C++23, Java, Swift, Objective-C, Python, Rust, TypeScript and Bash code
+- Helping contributors on GitHub
+- Supporting users by email, in app stores, through messaging apps, and on social networks
 </details>
 
-Techs:
+Technologies:
 : C++23
 : Rust
 : Swift
 : Java
-: Objective C/C++
+: Objective-C/Objective-C++
 : OpenStreetMap (OSM)
 : JavaScript
 : TypeScript
@@ -246,10 +246,10 @@ Techs:
 : CMake
 : Cloudflare Workers/Pages/Functions
 : GitHub
-: FDroid
+: F-Droid
 : Google Play
 : Huawei AppGallery
-: AppStore
+: App Store
 : iOS
 : Android
 : Linux
@@ -259,36 +259,37 @@ Techs:
 : CI/CD
 : Claude
 : Codex
+: Automated code reviews
 
 
-### {{<daterange "2022-05-01" "2022-12-31">}} C++ Performance Engineer [Phenix Real Time Solutions, Inc.][] (Zurich, Switzerland)
+### {{<daterange "2022-05-01" "2022-12-31">}} C++ Performance Engineer at [Phenix Real Time Solutions, Inc.][] (Zurich, Switzerland)
 
-Phenix Real Time Solutions technology publishes and streams real-time, synchronized video at scale with less than 0.5-second delay, with a sub-second time to the first frame (TTFF), broadcasting it for millions between continents.
+Phenix Real Time Solutions' technology publishes and streams synchronized, real-time video at scale with a delay of less than 0.5 seconds and a time to first frame (TTFF) of less than a second, broadcasting to millions of viewers across continents.
 
 <details>
 <summary>
-Development and bugfixing of the C++ core engine, including optimization of the build toolchain.
+Development and bug fixes for the C++ core engine, including optimization of the build toolchain.
 </summary>
 
-- accelerated the project build speed by a factor of 1.5x-4x to optimize dev and CI time
-- built optimized ffmpeg from sources for Mac and Linux
-- reviewed C++ code and shared the best code practices
-- found and backlogged a number of issues, including failing tests
-- learned and participated in the unique dev team management approach called "Phenix Way"
-- learned about real-time and scalable video streaming and broadcasting
+- Reduced project build times by a factor of 1.5–4 to save development and CI time
+- Built an optimized version of FFmpeg from source for macOS and Linux
+- Reviewed C++ code and shared coding best practices
+- Identified and added a number of issues to the backlog, including failing tests
+- Learned about and participated in the unique development team management approach called the "Phenix Way"
+- Learned about scalable, real-time video streaming and broadcasting
 </details>
 
-Techs:
+Technologies:
 : C++14
 : CMake
-: boost
-: bash
+: Boost
+: Bash
 : zsh
 : JavaScript
 : WebRTC
 : Live Video Streaming
 : Broadcasting
-: ffmpeg
+: FFmpeg
 : Docker
 : YouTrack
 : Gerrit
@@ -300,7 +301,7 @@ Techs:
 : BDD
 : TDD
 
-### {{<daterange "2020" "2021">}} Video Backend & Frontend Engineer at [Zenia][] (remote, part-time project)
+### {{<daterange "2020" "2021">}} Video Backend and Frontend Engineer at [Zenia][] (remote, part-time project)
 
 _Zenia - Interactive Fitness & Yoga_ is the world's first virtual assistant app for
 [iOS](https://apps.apple.com/us/app/yoga-for-beginners-zenia-app/id1483602673) and
@@ -312,15 +313,15 @@ real-time feedback on yoga practice.
 Implemented scalable live video lessons on desktops and mobile phones for yoga instructors and their students.
 </summary>
 
-- designed and implemented scalable AWS video CDN for realtime live classes
-- configured and supported Janus Media Gateway backend with SFU topology
-- implemented backend video recordings and statistics collection
-- implemented JavaScript frontend to display and record audio and video
-- integrated WebRTC WebView video player for iOS and Android apps
-- supported TensorFlow.js for real time pose detection from the video stream
+- Designed and implemented a scalable AWS video CDN for real-time live classes
+- Configured and supported the Janus Media Gateway backend with an SFU topology
+- Implemented backend video recording and statistics collection
+- Implemented a JavaScript frontend to display and record audio and video
+- Integrated a WebRTC WebView video player into iOS and Android apps
+- Supported TensorFlow.js for real-time pose detection in the video stream
 </details>
 
-Techs:
+Technologies:
 : WebRTC
 : Janus Media Gateway
 : Docker
@@ -329,54 +330,54 @@ Techs:
 : HTML5
 : iOS
 : Android
-: python
+: Python
 : nginx
 : AWS
 : iOS
 : Android
-: Tensorflow
+: TensorFlow
 : React
 
 ### {{<daterange "2019" "2022">}} Software Engineer and Tech Lead at [Qnective AG][] (Zurich, Switzerland)
 
-Qnective is a leading provider of sophisticated communication solutions and services, with deep expertise in wireless technologies, networking, IoT, infrastructure, and highly-secure encryption mechanisms.
+Qnective is a leading provider of sophisticated communication solutions and services, with deep expertise in wireless technologies, networking, IoT, infrastructure, and highly secure encryption mechanisms.
 
 <details>
 <summary>
-Projects I've been working on:
+Projects I worked on:
 
-- Qtalk, secure messenger for enterprises and governments (iOS, Android and Windows)
-- Qnet, secure voice and messaging app for low-end Android devices
-- Wearable body sensors for sports and medical application (ESP32 embedded chip)
+- Qtalk, a secure messenger for enterprises and governments (iOS, Android, and Windows)
+- Qnet, a secure voice and messaging app for low-end Android devices
+- Wearable body sensors for sports and medical applications (ESP32 embedded chip)
 </summary>
 
-I have:
+Work highlights:
 
-- lead the team of 8 engineers and QA for a secure embedded IoT project
-- implemented lightweight SD-card support for ESP32
-- developed and reviewed embedded C/C++ code for encrypted data communication (DTLS over CoAP) for ESP32
-- worked on peer-to-peer opus voice communication over DTLS/CoAP on iOS and Android
-- designed and developed a routing GoLang gateway for P2P E2EE voice and messaging
-- switched large project codebase from C++11 to C++17
-- migrated codebase to the latest version of OpenSSL and Qt
-- improved cross-platform build system
-- performed extensive C/C++/Ruby/GoLang/python/Scala code reviews
-- developed several features for iOS and Android apps
-- interviewed candidates for job positions
+- Led the team of 8 engineers and QA staff for a secure embedded IoT project
+- Implemented lightweight SD card support for the ESP32
+- Developed and reviewed embedded C/C++ code for encrypted data communication (DTLS over CoAP) on the ESP32
+- Worked on peer-to-peer Opus voice communication over DTLS/CoAP on iOS and Android
+- Designed and developed a Go routing gateway for peer-to-peer, end-to-end encrypted voice and messaging
+- Migrated a large project codebase from C++11 to C++17
+- Migrated the codebase to the latest versions of OpenSSL and Qt
+- Improved the cross-platform build system
+- Performed extensive C/C++/Ruby/Go/Python/Scala code reviews
+- Developed several features for iOS and Android apps
+- Interviewed job candidates
 </details>
 
-Techs:
+Technologies:
 : C++17
 : C11
 : Swift
 : iOS
 : Java
 : Android
-: GoLang
+: Go
 : DTLS
 : TLS
 : Java
-: bash
+: Bash
 : Qt
 : OpenSSL
 : CoAP
@@ -402,133 +403,133 @@ Techs:
 : Kanban
 : Scrum
 
-### {{<daterange "2016" "now">}} Founding Investor of [VibroBox][]
+### {{<daterange "2016" "now">}} Founding Investor in [VibroBox][]
 
 VibroBox is a vibration-based diagnostics service for scalable [prescriptive maintenance][Smart Energy Summit news], *IIoT*, and *Industry 4.0*. The team of scientists, engineers, and industry experts is focused on [digital signal processing][VibroBox Technology], wavelets, machine learning, and other algorithms to prevent failures of industrial equipment by providing timely and automated maintenance instructions.
 
 <details>
 <summary>
-VibroBox works with a wide range of rotary equipment, including (but not limited to): pumps, turbines, compressors, generators, rotors, engines, bearings, gearboxes, rolling mills, wind farms, wheel pairs for cars and trains.
+VibroBox works with a wide range of rotary equipment, including pumps, turbines, compressors, generators, rotors, engines, bearings, gearboxes, rolling mills, wind farms, and wheel pairs for cars and trains.
 </summary>
 
-My responsibilities in VibroBox:
+My responsibilities at VibroBox:
 
 - IT infrastructure management
 - Pilot and production deployments
-- Strategy and technology advisor
-- Business development, negotiations, presentations
+- Strategy and technology advice
+- Business development, negotiations, and presentations
 - Financing and accounting
-- Translations of scientific language into Common English
+- Translating scientific language into plain English
 
-Some engineering tasks I've done:
+Engineering highlights:
 
 - Designed a scalable cloud service architecture
-- Developed REST API for the service
-- Set up and kept dev tools and environment up to date
+- Developed a REST API for the service
+- Set up and kept development tools and environments up to date
 - Set up and administered cloud server hosting (Ubuntu)
 - Developed iOS and Android apps to collect audio and accelerometer data
 - Developed and supported the company's [website][VibroBox]
-- Established and performed team code reviews
+- Established and conducted team code reviews
 </details>
 
-Techs:
+Technologies:
 : AWS Lambda
 : AWS SES
 : Docker
 : Hugo
 : HTML5
 : CSS3
-: bash
+: Bash
 : Linux
-: TravisCI
+: Travis CI
 : PHP7
 : YII2
 : OpenAPI
 : MATLAB
 : Simulink
-: openvpn
+: OpenVPN
 : MariaDB
 
-### {{<daterange "2010" "2016">}} Co-founder, CEO, CTO of [MAPS.ME][]
+### {{<daterange "2010" "2016">}} Co-founder, CEO, and CTO of [MAPS.ME][]
 
 [MAPS.ME][] is an [open-source][omim] offline maps app for [iOS][MAPS.ME iOS] and [Android][MAPS.ME Android].
-A crowd-sourced [OpenStreetMap][] data is used for walking and cycling directions, car navigation, discovering new places and local sightseeing. As of April 2018, MAPS.ME was installed by 100M users all over the world.
+Crowdsourced [OpenStreetMap][] data is used for walking and cycling directions, car navigation, discovering new places, and local sightseeing. As of April 2018, MAPS.ME had been installed by 100 million users worldwide.
 
-I worked in many roles and got extensive experience in engineering, team and technical leading, product and project management, business development, user support, marketing, public presentations, hiring and interviewing, teaching, etc.
+I worked in many roles and gained extensive experience in engineering, team and technical leadership, product and project management, business development, user support, marketing, public speaking, hiring and interviewing, and teaching.
 
-Techs:
+Technologies:
 : C++11
 : Boost
 : Qt
-: ObjectiveC
+: Objective-C
 : Java
 : C
 : iOS
 : Android
 : Linux
 : Windows
-: MacOS
+: macOS
 : Bada
 : [OpenStreetMap][]
 : OSRM
 : clang
 : gcc
 : Python
-: bash
+: Bash
 : protobuf
-: Golang
-: AppEngine
+: Go
+: App Engine
 
 <details>
 <summary class="subheader">
-<strong>{{<daterange "2015" "2016">}} System Architect/VP of Engineering at MAPS.ME in Mail.Ru Group</strong>
+<strong>{{<daterange "2015" "2016">}} System Architect/VP of Engineering at MAPS.ME (Mail.Ru Group)</strong>
 </summary>
 
-After the [acquisition][] of MAPS.ME, we hired a new engineering team of 25 in Moscow and passed all our knowledge to them. I was in a VP of Engineering role at the Maps department of [Mail.Ru Group](https://corp.mail.ru/en/):
+After the [acquisition][] of MAPS.ME, we hired a new engineering team of 25 people in Moscow and transferred all our knowledge to them. I served as VP of Engineering in the Maps department at [Mail.Ru Group](https://corp.mail.ru/en/):
 
-- Transitioned app, code, technology and knowledge to a new owner (Mail.Ru)
-- Interviewed, trained, and led new dev and QA team
-- [Open-sourced][OpenSource Press Release] MAPS.ME code to [GitHub][omim]
-- Developed offline [map editor][] for MAPS.ME to upload map edits directly into the crowd-sourced [OpenStreetMap][] database [[source code](https://github.com/mapsme/omim/tree/master/editor)]
-- Developed and integrated open-source, scalable, cross-platform statistics engine [Alohalytics][] for iOS, Android, and desktop (C++11), including client part and backend data collection
-- Promoted MAPS.ME on developer conferences
+- Transferred the app, code, technology, and knowledge to the new owner (Mail.Ru)
+- Interviewed, trained, and led the new development and QA team
+- [Open-sourced][OpenSource Press Release] the MAPS.ME code on [GitHub][omim]
+- Developed an offline [map editor][] for MAPS.ME to upload map edits directly to the crowdsourced [OpenStreetMap][] database [[source code](https://github.com/mapsme/omim/tree/master/editor)]
+- Developed and integrated [Alohalytics][], an open-source, scalable, cross-platform statistics engine for iOS, Android, and desktop platforms (C++11), including client-side components and backend data collection
+- Promoted MAPS.ME at developer conferences
 </details>
 
 <br/>
 
 <details>
 <summary class="subheader">
-<strong>{{<daterange "2013" "2015">}} Co-Founder, CTO</strong>
+<strong>{{<daterange "2013" "2015">}} Co-founder, CTO</strong>
 </summary>
 
-Further growing of the startup till the acquisition.
+I continued to grow the startup until its acquisition.
 
-- Product management and releases delivery
+- Product management and release delivery
 - Moved the codebase from C++99 to C++11
-- Scaled maps data distribution cluster and HTTP delivery services to match growing user base
+- Scaled the map data distribution cluster and HTTP delivery services to match the growing user base
 - Ported Open Source Routing Machine ([OSRM](http://project-osrm.org/)) to iOS and Android to add offline navigation support [[source code](https://github.com/mapsme/omim/tree/master/3party/osrm/osrm-backend)]
-- Gradle build system integration for Android
-- New product features development (including Navigation) and bug fixing
-- Product web sites deployment and support
+- Integrated the Gradle build system for Android
+- New product feature development (including navigation) and bug fixes
+- Deployment and support of product websites
 </details>
 
 <br/>
 
 <details>
 <summary class="subheader">
-<strong>{{<daterange "2012" "2013">}} Co-Founder, CEO</strong>
+<strong>{{<daterange "2012" "2013">}} Co-founder, CEO</strong>
 </summary>
 
-The most challenging period for MAPS.ME, when we grew our team and number of app user while trying to sell a paid app in AppStore and Google Play.
+The most challenging period for MAPS.ME was when we grew our team and user base while trying to sell a paid app in the App Store and on Google Play.
 
-- Product management and releases delivery
-- Increased worldwide userbase from 120K to 2.5M
-- Break-even revenue generation by selling a paid version of MAPS.ME (MapsWithMe)
-- Built dev and marketing teams (13 people)
-- Developed and released 26 offline travel guides apps for iOS and Android ([GuideWithMe](http://guidewithme.com/ "Offline Travel Guides"))
+- Product management and release delivery
+- Increased the worldwide user base from 120,000 to 2.5 million
+- Reached the break-even point with a paid version of MAPS.ME (MapsWithMe)
+- Built development and marketing teams (13 people)
+- Developed and released 26 offline travel guide apps for iOS and Android ([GuideWithMe](http://guidewithme.com/ "Offline Travel Guides"))
 - Established a development office in Minsk
 - Business development, PR, and marketing
-- New product features development and bug fixing
+- New product feature development and bug fixes
 - Perfected user support
 </details>
 
@@ -536,55 +537,55 @@ The most challenging period for MAPS.ME, when we grew our team and number of app
 
 <details>
 <summary class="subheader">
-<strong>{{<daterange "2010" "2012">}} Co-Founder</strong>
+<strong>{{<daterange "2010" "2012">}} Co-founder</strong>
 </summary>
 
-At that time, I led our small team of 3 in Minsk, responsible for a cross-platform build environment, code reviews, iOS, and Android. The most notable tasks included:
+At that time, I led our small team of 3 in Minsk and was responsible for a cross-platform build environment, code reviews, iOS, and Android. The most notable tasks included:
 
 - Server-side [OpenStreetMap][] data processing pipeline
-- High load client/server maps distribution via HTTP
-- Fast Unicode normalization algorithm for multilanguage offline search
+- High-load client/server map distribution via HTTP
+- Fast Unicode normalization algorithm for multilingual offline search
 - Native UI for iOS and Android, Qt UI for easier development on macOS, Windows, and Linux
-- Compiled/ported core code to iOS, Android, Bada, Mac OS X, MinGW, Linux, Windows XP/Vista/7
+- Compilation and porting of core code for iOS, Android, Bada, Mac OS X, MinGW, Linux, and Windows XP/Vista/7
 </details>
 
 ### {{<daterange "2008" "2010">}} CTO at BLRSoft
 
-BLRSoft, the R&D subsidiary of [Abaxia](https://www.crunchbase.com/organization/abaxia), developed Launcher software and firmware for Vodafone, Orange, and other EU network operators. BLRSoft was acqui-hired by HTC in 2010 and renamed to HTC BLR.
+BLRSoft, the R&D subsidiary of [Abaxia](https://www.crunchbase.com/organization/abaxia), developed Launcher software and firmware for Vodafone, Orange, and other EU network operators. BLRSoft was acqui-hired by HTC in 2010 and renamed HTC BLR.
 
 <details>
 <summary>
-I worked in many roles, including Senior Software Engineer, Team and Technical Leader, Project Manager, Technical Director, while working on mobile software for Symbian and Windows Mobile.
+I held several roles, including Senior Software Engineer, Team and Technical Lead, Project Manager, and Technical Director, while developing mobile software for Symbian and Windows Mobile.
 </summary>
 
-Some tasks that I've done:
+Work highlights:
 
-- Implemented Symbian devices data text indexing and search functionality.
-- Universal Content Provider project for Symbian and Windows Mobile.
-- Implemented and maintained Symbian data providers with access to the device's contacts, messages, calendar, bookmarks, network connections.
-- Ported library for different Symbian platforms (3.1, 3.2, 5.0, N97) and maintained Windows Mobile compatibility.
-- Developed Symbian "homescreens" for European network operators.
-- Managed projects tasks, built and organized local developer/QA teams, including testing with different prototype devices.
-- Designed projects architecture for several Symbian platforms.
-- Developed some core components, including UI, networking, calendar events, contacts database, missed calls, messages, e-mails, status pane.
+- Implemented text indexing and search functionality for data on Symbian devices.
+- Worked on the Universal Content Provider project for Symbian and Windows Mobile.
+- Implemented and maintained Symbian data providers with access to device contacts, messages, calendars, bookmarks, and network connections.
+- Ported a library to different Symbian platforms (3.1, 3.2, 5.0, N97) and maintained Windows Mobile compatibility.
+- Developed Symbian "home screens" for European network operators.
+- Managed project tasks, built and organized local development and QA teams, and supported testing on different prototype devices.
+- Designed project architectures for several Symbian platforms.
+- Developed core components, including the UI, networking, calendar events, contacts database, missed calls, messages, email, and status pane.
 - Ported projects to Symbian 3.1, 3.2, and 5.0 (touch) devices.
 - Wrote technical and architectural specifications.
-- Integrated best practices from Agile/Scrum/Extreme programming.
-- CardBrowser library for Symbian (microSD card auto-launch menu).
-- Planned timeline and designed architecture and components.
-- Implemented different UI and core library parts, including interactive controls, animation engine, ini-parser, images loading and caching mechanism.
-- Supported mobile cross-platform GUI library for Windows Mobile and Symbian.
+- Integrated best practices from Agile, Scrum, and Extreme Programming.
+- Worked on the CardBrowser library for Symbian (microSD card auto-launch menu).
+- Planned timelines and designed architectures and components.
+- Implemented various parts of the UI and core library, including interactive controls, an animation engine, an INI parser, and an image loading and caching mechanism.
+- Supported a cross-platform mobile GUI library for Windows Mobile and Symbian.
 - Investigated and reviewed existing code and architecture.
-- Migrated codebase from C to C++ and from SVN to Mercurial.
+- Migrated the codebase from C to C++ and from SVN to Mercurial.
 - Developed and maintained different system components, including messaging, networking, and UI.
 - Supported and administered internal company infrastructure.
-- Hired and interviewed new developers and QA.
-- Ubuntu/Debian administration: virtual servers, backup, mail, network, wiki, LDAP, Mercurial, etc.
-- Managed projects' documentation on TRAC and internal wiki.
-- Implemented cross-platform python auto-build system.
+- Interviewed and hired new developers and QA staff.
+- Ubuntu/Debian administration: virtual servers, backups, mail, networking, wiki, LDAP, Mercurial, etc.
+- Managed project documentation in Trac and the internal wiki.
+- Implemented a cross-platform Python build automation system.
 </details>
 
-Techs:
+Technologies:
 : C++
 : C
 : Symbian
@@ -592,23 +593,23 @@ Techs:
 
 ### {{<daterange "2007" "2008">}} Senior Software Engineer at InfoTechnology
 
-InfoTechnology was a Belarussian division of a San-Francisco-based [XIM](https://ximxim.com/) company.
+InfoTechnology was a Belarusian division of [XIM](https://ximxim.com/), a company based in San Francisco.
 
 <details>
 <summary>
-I developed a music and hum/singing voice recognition app for Symbian devices called <a href="https://www.midomi.com/">"Midomi"</a> for <a href="https://www.soundhound.com/">SoundHound Inc.</a>
+I developed a music, humming, and singing recognition app for Symbian devices called <a href="https://www.midomi.com/">Midomi</a> for <a href="https://www.soundhound.com/">SoundHound Inc.</a>
 </summary>
 
-Some tasks that I've done:
+Work highlights:
 
-- Got extensive dev experience with Symbian OS system environment and development tools.
-- Designed and implemented GUI for Midomi, along with HTTP-based advertisement and HTTP player.
-- Openwave C++ firmware for low-end mobile phones.
-- Developed XSL transformations to convert internal XML documentation (which is also the source for C++ headers) into XML DITA format.
-- Automated QA processes with supporting Perl scripts, including URL grabber, Purify log analyzer, HTML reports generator.
+- Gained extensive development experience with the Symbian OS system environment and development tools.
+- Designed and implemented the GUI for Midomi, along with HTTP-based advertising and an HTTP player.
+- Worked on Openwave C++ firmware for low-end mobile phones.
+- Developed XSL transformations to convert internal XML documentation (which is also the source for C++ headers) into DITA XML format.
+- Automated QA processes with supporting Perl scripts, including a URL grabber, a Purify log analyzer, and an HTML report generator.
 </details>
 
-Techs:
+Technologies:
 : C++
 : Symbian
 : Solaris
@@ -619,44 +620,44 @@ Techs:
 
 <details>
 <summary>
-Development of DVD Ripper/Player Station project, a Windows application for touch-screen devices to easily play and grab DVD content.
+Development of the DVD Ripper/Player Station project, a Windows application that allows users to play and rip DVD content easily on touchscreen devices.
 </summary>
 
-In particular, together with another developer, I have impemented:
+Together with another developer, I implemented:
 
 - GUI
-- Movies library
-- Video files and DVD Playback with DirectShow
-- Second monitor/projector support
-- MultiDVD drives support
+- Movie library
+- Video file and DVD playback with DirectShow
+- Support for a second monitor or projector
+- Support for multiple DVD drives
 </details>
 
-Techs:
+Technologies:
 : Visual C++
 : DVD
 : AVI
 : WinAPI
-: ffmpeg
+: FFmpeg
 : DirectShow
 
 ### {{<daterange "2006" "2007">}} Software Engineer and Team Lead at Belsoft-Borlas Group
 
 <details>
 <summary>
-Development and support of "Smart IP", a transparent TCP/UDP network optimizer/switcher for desktop and mobile platforms, for the US-based customer.
+Development and support of "Smart IP," a transparent TCP/UDP network optimizer and switcher for desktop and mobile platforms, for a US-based customer.
 </summary>
 
-Some tasks that I have done:
+Work highlights:
 
-- Redesigned Windows Mobile client GUI and ported it to WM5.0.
-- Integrated automatic Code Signing pipeline for Windows Mobile 5.0, including developer certificates at the development stage and VeriSign certificates for production based on Microsoft Mobile2Market program.
+- Redesigned the Windows Mobile client GUI and ported it to WM5.0.
+- Integrated an automatic code signing pipeline for Windows Mobile 5.0, including developer certificates at the development stage and VeriSign certificates for production, based on the Microsoft Mobile2Market program.
 - Developed and maintained software installation packages for different Windows platforms.
-- Ported existing client/server code for Windows Vista and Windows Server 2008, including LSP and NDIS network drivers.
-- Implemented log files analyzer and statistics generator.
-- Created a dozen of Functional Specifications and Design documents for different software components.
+- Ported existing client/server code to Windows Vista and Windows Server 2008, including LSP and NDIS network drivers.
+- Implemented a log file analyzer and statistics generator.
+- Created a dozen functional specifications and design documents for different software components.
 </details>
 
-Techs:
+Technologies:
 : Visual C++
 : Windows Mobile
 : WinNT
@@ -665,28 +666,28 @@ Techs:
 
 ### {{<daterange "2004" "2006">}} Software Engineer at [Credo Dialogue](http://www.credo-dialogue.com/)
 
-Credo Dialogue is a scientific & industrial company developing CAD-systems combined into a single technological chain of information processing (topographical and geotechnical surveys, engineering design, terrain modeling, etc.).
+Credo Dialogue is a scientific and industrial company developing CAD systems that form an integrated workflow for information processing (topographical and geotechnical surveys, engineering design, terrain modeling, etc.).
 
 <details>
 <summary>
-I worked on Topoplan and Genplan CAD software, 3D terrain/buildings modeling and editing, computational geometry algorithms, and project documentation.
+I worked on Topoplan and Genplan CAD software, 3D terrain and building modeling and editing, computational geometry algorithms, and project documentation.
 </summary>
 
 Here I met my future MAPS.ME co-founders
 <a href="https://www.linkedin.com/in/melnichek/">Yury Melnichek</a> and <a href="https://www.linkedin.com/in/viktar-havaka-308a2352/">Viktar Havaka</a>.
 
-Some tasks that I have done:
+Work highlights:
 
-- Designed and implemented several software modules to manipulate geometrical primitives
-  (to create/edit 3D points on the terrain, to align circles with splines,
-  to create/edit parabolas, etc.)
-- Implemented several complicated UI dialogs.
+- Designed and implemented several software modules to manipulate geometric primitives
+  (creating and editing 3D points on the terrain, aligning circles with splines,
+  creating and editing parabolas, etc.).
+- Implemented several complex UI dialogs.
 - Organized and maintained internal project documentation, including
-  web site, automatic code documentation system with DoxyGen.
-- Got a strong C++99 and STL experience with algorithms and big data sets.
+  a website and an automated code documentation system using Doxygen.
+- Gained extensive experience with C++99, STL algorithms, and large data sets.
 </details>
 
-Techs:
+Technologies:
 : Visual C++
 : STL
 : IncrediBuild
@@ -695,11 +696,11 @@ Techs:
 
 ### {{<daterange "2003" "2004">}} Software Engineer and Team Lead at Spark IT
 
-I organized and managed a team of 5 engineers to develop an Internet messaging app "Messenger2" ("M2"),
-similar to Trillan messenger with ICQ, AIM, MSN, Yahoo, and IRC protocols support, chat encryption, file sharing,
-video and audio conferences for a customer from the UK.
+I organized and managed a team of 5 engineers to develop "Messenger2" ("M2") for a customer in the UK.
+This internet messaging app, similar to Trillian, supported the ICQ, AIM, MSN, Yahoo, and IRC protocols,
+chat encryption, file sharing, and video and audio conferencing.
 
-Techs:
+Technologies:
 : C++
 : TCP/UDP sockets
 : STL
@@ -710,12 +711,12 @@ Techs:
 
 ## Hobby projects
 
-### {{<daterange "2007" "2008">}} Crossplatform IRC news feeds publisher bot
+### {{<daterange "2007" "2008">}} Cross-platform IRC news feed publishing bot
 
-I have designed and implemented a configurable IRC bot for Windows and
-Linux for RSS/Atom/XML parsing with full range character encodings support. It was alive until 2016.
+I designed and implemented a configurable IRC bot for Windows and
+Linux that parsed RSS, Atom, and XML feeds with support for a full range of character encodings. It remained active until 2016.
 
-Techs:
+Technologies:
 : C++
 : Linux
 : Windows
@@ -724,12 +725,12 @@ Techs:
 : RSS
 : XML
 
-### {{<daterange "2004" "2009">}} Co-founder and coordinator of ByNets IRC network
+### {{<daterange "2004" "2009">}} Co-founder and coordinator of the ByNets IRC network
 
-[ByNets][ByNets] was the largest IRC network in Belarus which united thousands of people from universities,
-dormitories, companies, and residential districts of Minsk.
+[ByNets][ByNets] was the largest IRC network in Belarus, connecting thousands of people from universities,
+dormitories, companies, and residential districts in Minsk.
 
-Techs:
+Technologies:
 : IRC
 : UnrealIRCd
 : Linux
@@ -737,35 +738,35 @@ Techs:
 
 ### {{<daterange "2003" "2008">}} Home network administrator
 
-I have built, administered and maintained Ethernet network in Minsk with 300+ users in
-my neighborhood (with total 1500+ users from nearby neighborhoods).
+I built, administered, and maintained an Ethernet network in Minsk with more than 300 users in
+my neighborhood (and more than 1,500 users in total, including nearby neighborhoods).
 
-Techs:
+Technologies:
 : Debian Linux
 : Windows Server
 : DNS
 : DHCP
-: bash
+: Bash
 : Perl
 
 ### {{<daterange "2002" "2003">}} Belarusian State University of Informatics and Radioelectronics
 
-Optimization (10x speed up) and statistics visualisation for random number generators based on linear feedback shift registers.
+Optimization (10× speedup) and statistical visualization of random number generators based on linear feedback shift registers.
 
-Techs:
+Technologies:
 : Visual C++
 : Assembler
 
 ## Publications
 
-1. Algorithms for refinement of the shaft rotational speed for solving the problems of vibration diagnostics of rotary equipment / Y. Aslamov, I. Davydov, A. Borsuk, A. Aslamov // *First World Congress on Condition Monitoring*, London, 13-16 June 2017, Session 6E: Vibration condition monitoring methods and technologies / The British Institute of Non-Destructive Testing.
-2. Sparse wavelet decomposition of signals for solving vibration diagnostics problems / Y. Aslamov, I. Davydov, A. Borsuk, A. Aslamov // *First World Congress on Condition Monitoring*, London, 13-16 June 2017, Session 7E: Vibration condition monitoring methods and technologies / The British Institute of Non-Destructive Testing.
-3. Sparse wavelet decomposition in problems of vibration-based diagnostics of rotary equipment / Y.P. Aslamov, A.P. Aslamov, I.G. Davydov, A.V. Borsuk // *Doklady BGUIR*[BSUIR reports], 2017, no. 8 (110), pp. 91-98. (in Russian)
+1. Algorithms for refinement of the shaft rotational speed for solving the problems of vibration diagnostics of rotary equipment / Y. Aslamov, I. Davydov, A. Borsuk, A. Aslamov // *First World Congress on Condition Monitoring*, London, 13–16 June 2017, Session 6E: Vibration condition monitoring methods and technologies / The British Institute of Non-Destructive Testing.
+2. Sparse wavelet decomposition of signals for solving vibration diagnostics problems / Y. Aslamov, I. Davydov, A. Borsuk, A. Aslamov // *First World Congress on Condition Monitoring*, London, 13–16 June 2017, Session 7E: Vibration condition monitoring methods and technologies / The British Institute of Non-Destructive Testing.
+3. Sparse wavelet decomposition in problems of vibration-based diagnostics of rotary equipment / Y.P. Aslamov, A.P. Aslamov, I.G. Davydov, A.V. Borsuk // *Doklady BGUIR* [BSUIR reports], 2017, no. 8 (110), pp. 91–98. (in Russian)
 4. Formation of informative features of shock processes using wavelet analysis of non-stationary vibration signals: the author's abstract. Diss. MSc in Engineering: 1-39 81 03 / A.V. Borsuk; scientific adviser I.G. Davydov // Minsk: BSUIR, 2018. (in Russian)
 
 -----
 [Scala Specialization]: https://www.coursera.org/account/accomplishments/specialization/WAUK848HQVK6 "Alexander Borsuk: Functional Programming in Scala Specialization (Coursera)"
-[My Github]: https://github.com/biodranik?tab=repositories "My Github Projects"
+[My GitHub]: https://github.com/biodranik?tab=repositories "My GitHub Projects"
 [Organic Maps]: https://organicmaps.app/ "Privacy-focused offline maps"
 [MAPS.ME]: https://maps.me/ "Offline Maps of the World"
 [MAPS.ME iOS]: https://apps.apple.com/us/app/maps-me-offline-maps-gps-nav/id510623322
@@ -778,12 +779,12 @@ Techs:
 [Igor]: https://www.vibrobox.com/team/igor-davydov/ "Igor Davydov, Ph.D. in digital signal processing and data science"
 [VibroBox Technology]: https://www.vibrobox.com/technology/ "Prescriptive Maintenance Technology"
 [Smart Energy Summit news]: https://www.vibrobox.com/news/2018/03/the-main-award-of-smart-energy-summit-2018-goes-to-vibrobox/#summary-of-vibrobox-ceo-igor-davydov-s-presentation "Prescriptive Diagnostics"
-[Organic Maps iOS]: https://apps.apple.com/app/organic-maps/id1567437057 "Organic Maps in the AppStore"
-[Organic Maps Android]: https://play.google.com/store/apps/details?id=app.organicmaps "Organic Maps in the Google Play"
+[Organic Maps iOS]: https://apps.apple.com/app/organic-maps/id1567437057 "Organic Maps on the App Store"
+[Organic Maps Android]: https://play.google.com/store/apps/details?id=app.organicmaps "Organic Maps on Google Play"
 [map editor]: https://venturebeat.com/2016/04/06/mapsme-openstreetmap-editing/ "VentureBeat: Edit OpenStreetMap with MAPS.ME"
-[OpenSource Press Release]: https://corp.mail.ru/en/press/releases/9422/ "Mail.Ru Press-Release: MAPS.ME Goes Open Source"
-[omim]: https://github.com/mapsme/omim "MAPS.ME Source Sode on GitHub"
+[OpenSource Press Release]: https://corp.mail.ru/en/press/releases/9422/ "Mail.Ru Press Release: MAPS.ME Goes Open Source"
+[omim]: https://github.com/mapsme/omim "MAPS.ME Source Code on GitHub"
 [Alohalytics]: https://github.com/mapsme/Alohalytics/tree/master/src "C++, iOS and Android statistics engine"
-[OpenStreetMap]: https://www.openstreetmap.org/ "Crowd-sourced map database of the World"
+[OpenStreetMap]: https://www.openstreetmap.org/ "Crowdsourced map database of the world"
 [acquisition]: https://techcrunch.com/2014/11/13/mail-ru-buys-maps-me-to-integrate-crowdsourced-maps-into-its-my-com-app-portal/ "MAPS.ME acquisition by Mail.Ru Group"
 [ByNets]: https://bynets.org/ "Belarusian IRC network"
