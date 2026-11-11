@@ -2,13 +2,13 @@
 # Google displays 70 chars in search results.
 title: "Alexander Borsuk: Software Engineer, MScEng"
 description: "Hi! I'm a software engineer and researcher, a co-founder of Organic Maps (offline iOS/Android maps for travelers), a founding investor in VibroBox (prescriptive maintenance and vibration-based diagnostics of rotary equipment), and one of the creators of the MAPS.ME app."
-keywords: Alexander Borsuk, Organic Maps, Organic, Maps, VibroBox, MAPS.ME, MapsWithMe, Software, Engineer, C++, C++17, C++20, CTO, Minsk, Belarus, Zurich, Switzerland, MSc, MScEng, GoLang, Security, Communications, JS, JavaScript, WebRTC, Embedded, CMake, C, python
+keywords: Alexander Borsuk, Organic Maps, Organic, Maps, VibroBox, MAPS.ME, MapsWithMe, Software, Engineer, C++, C++11, C++17, C++20, C++23, CTO, Zurich, Switzerland, MSc, MScEng, GoLang, Rust, Security, Communications, Networking, JS, JavaScript, WebRTC, Embedded, CMake, C, Python
 ---
 # {{< param title >}} {{<printer>}}
 
 > *Hi! I'm a software engineer and researcher, a co-founder of [Organic Maps][] (offline maps for [iOS][Organic Maps iOS] and [Android][Organic Maps Android]), a founding investor in [VibroBox][] (prescriptive maintenance for machinery), and one of the creators of the [MapsWithMe (MAPS.ME)][MAPS.ME] app.*
 
-> *Originally from Belarus, I now live and work in Switzerland. I have more than two decades of experience leading development teams and building scalable, cross-platform software for mobile devices, servers, and desktops. I like [open source][My GitHub] and love to learn something new every day.*
+> *Originally from Belarus, I now live and work in Switzerland. I have more than two decades of experience leading development teams and building scalable, cross-platform software for embeded and mobile devices, robots, servers, and desktops. I like [open source][My GitHub] and love to learn something new every day.*
 
 ![Alexander Borsuk](images/alexander_borsuk_nyc_compressed.jpeg "Alexander Borsuk")
 
@@ -40,14 +40,14 @@ I've worked in a variety of roles across different projects. My strengths includ
 - Modern C/C++ and multithreading
 - Mobile, cross-platform, and embedded solutions
 - Secure networking and cloud services
-- Code performance and scalability
+- Low latency, code performance and scalability
 - Software and hardware optimizations
 - Code reviews and troubleshooting
 - Testing, automation, and CI/CD
 - Learning new programming languages and frameworks
 - Getting to the root of the problem
 - Conscious use of LLM agents (including Claude, Codex, Copilot, and Gemini) to improve workflows, quality and productivity
-- Writing documentation
+- Keeping documentation up to date
 
 #### As a Team Lead:
 - Project management, task definition and estimation, timely delivery
@@ -74,12 +74,12 @@ I've worked in a variety of roles across different projects. My strengths includ
 ## Software skills
 
 - Extensive experience with C++, C++11, C++14, C++17, C++20, C++23, C, C99, C11, C17, C23, Objective-C/Objective-C++, Swift, Java, Kotlin, JavaScript, Qt, STL, OpenStreetMap, Mapbox, Leaflet, GeoJSON, computational geometry, Hugo, Zola, Bash, HTML5, CSS3, PHP, WTL, WinAPI, WinSock, MFC, ATL, assembly language, Claude, Codex, Copilot, Gemini
-- Good knowledge of and experience with Nix, Boost, TypeScript, WebRTC, ESP32, OpenSSL, mbedTLS, MATLAB, Simulink, Scala, Go, C#, Perl, Python, Visual Basic, SQL, Pascal, XSLT, CUDA, CycloneDDS, FastDDS
-- Systems and application development experience with ROS, ROS2, iOS, Android, Samsung Bada, PocketPC, Windows Mobile 5 and 6, Symbian OS
+- Good knowledge of and experience with Nix, Boost, TypeScript, WebRTC, ESP32, OpenSSL, mbedTLS, MATLAB, Simulink, Scala, Go, Rust, C#, Perl, Python, Visual Basic, SQL, Pascal, XSLT, CUDA, CycloneDDS, FastDDS
+- Systems and application development experience with Linux, ROS, ROS2, iOS, Android, Samsung Bada, PocketPC, Windows Mobile 5 and 6, Symbian OS
 - Experience with Google Cloud/App Engine, AWS, IBM Cloud, Hetzner Cloud, Cloudflare, Docker, Janus Media Gateway
 - Systems administration and development experience with Windows 98/2000/XP/2003/Vista/2008/7/10/11, Debian/Ubuntu/CentOS/Amazon Linux, Solaris, macOS
 - Source control systems: Git, GitHub, Gerrit, GitLab, Bitbucket, Mercurial, CVS, SVN, Borland StarTeam, Visual SourceSafe
-- CI: TeamCity, Jenkins, GitHub runners, GitLab, Travis CI
+- CI/CD: TeamCity, Jenkins, GitHub runners, GitLab, Travis CI
 - Project management and issue tracking systems: YouTrack, Notion, Trello, Redmine, Trac, Jira, eXplanner, FIT BugTrack, Borland StarTeam, Confluence
 - Good knowledge of computer hardware and networks, including CoAP, HTTP, TCP, UDP, IP, DNS
 - Experience with secure communications and data encryption, including TLS, DTLS, symmetric and asymmetric ciphers, X.509 certificates, and end-to-end encryption
@@ -129,21 +129,22 @@ Hexagon Robotics is a Swiss company developing advanced robotic solutions, inclu
 
 <details>
 <summary>
-Making robots reliable and efficient as part of the Mission Team
+Making humanoid robots reliable and efficient as part of the Mission Team.
 </summary>
 
 - Fixed ROS2 communication issues and promoted migration away from ROS
-- Improved the robustness of the imitation learning pipeline (Python, media processing, and inference on Jetson)
+- Improved the robustness of the Imitation Learning (IL) pipeline (Python, real time media processing, inference on Jetson, porting to C++20)
 - Performance optimization, robustness improvements, and bug fixes for the Python/C++/ROS2 core engine
+- Integration with external hardware and SDKs, including data collection and control for robot's Absolute Scanner AS1 and Absolute Tracker AT960
 - Feature development and testing
-- Integration with external hardware and SDKs
-- Build system improvements and support
+- Build system, CI/CD improvements and support
 - Code reviews
 - Documentation and tooling
+- Shared best practices (inlcuding LLM) and knowledge with the team and helped onboard new team members
 </details>
 
 Technologies:
-: C++23
+: C++20
 : Python
 : ROS2
 : Nix
@@ -163,18 +164,23 @@ Technologies:
 : BehaviorTree.CPP
 
 
-### {{<daterange "2023-08-01" "2024-07-31">}} C++ and Mobile Performance Engineer at [Phenix Real Time Solutions, Inc.][] (Zurich, Switzerland)
+### {{<daterange "2022-05-01" "2024-07-31">}} C++ and Mobile Performance Engineer at [Phenix Real Time Solutions, Inc.][] (Zurich, Switzerland)
 
 Phenix Real Time Solutions' technology publishes and streams synchronized, real-time video at scale with a delay of less than 0.5 seconds and a time to first frame (TTFF) of less than a second, broadcasting to millions of viewers across continents.
 
 <details>
 <summary>
-Improving and fixing bugs in the iOS/Android SDKs and C++ core engine.
+Development and bug fixes for the low latency C++ core engine in the cloud, including optimization of the build toolchain, improving and fixing bugs in the iOS/Android SDKs.
 </summary>
 
-- Feature development, testing, and optimization of the C++ core engine and mobile SDKs for iOS and Android
-- Triaging and bugfixing
-- Code reviews
+- Reduced project build times by a factor of 1.5–4 to save development and CI time
+- Built an optimized version of FFmpeg from source for macOS and Linux
+- Code reviews and sharing best coding practices
+- Triaging and bug fixing
+- Learned about and participated in the unique development team management approach called the "Phenix Way"
+- Hands-on experience with scalable, real-time video streaming and broadcasting
+- Feature development, testing, and low latency optimization of the C++ core engine and mobile SDKs for iOS and Android
+- Due to company's financial issues, I was not working in Phenix in January-July 2023
 </details>
 
 Technologies:
@@ -219,15 +225,16 @@ You can also install the APK directly [from GitHub](https://github.com/organicma
 
 <details>
 <summary>
-In my free time, I contribute to Organic Maps, maintain the app, and coordinate its development.
+In my free time, I contribute to Organic Maps, maintain the app, and coordinate its development. Here I learn and experiment with new technologies, and learn from the community.
 </summary>
 
+- Maintaining and improving the Organic Maps codebase
+- Optimizing workflows and processes for more efficient development, including CI/CD, LLM agents, and code reviews
 - Supporting the community and the development of Organic Maps
 - Preparing and publishing new releases
 - Managing the product roadmap and its features
 - Fixing bugs and implementing new features
 - Scaling the CDN to deliver map downloads to millions of users
-- Maintaining the build system and CI
 - Reviewing C++23, Java, Swift, Objective-C, Python, Rust, TypeScript and Bash code
 - Helping contributors on GitHub
 - Supporting users by email, in app stores, through messaging apps, and on social networks
@@ -261,45 +268,6 @@ Technologies:
 : Codex
 : Automated code reviews
 
-
-### {{<daterange "2022-05-01" "2022-12-31">}} C++ Performance Engineer at [Phenix Real Time Solutions, Inc.][] (Zurich, Switzerland)
-
-Phenix Real Time Solutions' technology publishes and streams synchronized, real-time video at scale with a delay of less than 0.5 seconds and a time to first frame (TTFF) of less than a second, broadcasting to millions of viewers across continents.
-
-<details>
-<summary>
-Development and bug fixes for the C++ core engine, including optimization of the build toolchain.
-</summary>
-
-- Reduced project build times by a factor of 1.5–4 to save development and CI time
-- Built an optimized version of FFmpeg from source for macOS and Linux
-- Reviewed C++ code and shared coding best practices
-- Identified and added a number of issues to the backlog, including failing tests
-- Learned about and participated in the unique development team management approach called the "Phenix Way"
-- Learned about scalable, real-time video streaming and broadcasting
-</details>
-
-Technologies:
-: C++14
-: CMake
-: Boost
-: Bash
-: zsh
-: JavaScript
-: WebRTC
-: Live Video Streaming
-: Broadcasting
-: FFmpeg
-: Docker
-: YouTrack
-: Gerrit
-: TeamCity
-: Android NDK
-: GTest
-: Google Cloud
-: BigQuery
-: BDD
-: TDD
 
 ### {{<daterange "2020" "2021">}} Video Backend and Frontend Engineer at [Zenia][] (remote, part-time project)
 
