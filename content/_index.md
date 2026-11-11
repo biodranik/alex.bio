@@ -20,6 +20,7 @@ keywords: Alexander Borsuk, Organic Maps, Organic, Maps, VibroBox, MAPS.ME, Maps
 {{<svg icon="cv/svg/linkedin.svg" href="https://www.linkedin.com/in/alexanderborsuk/" caption="linkedin.com/in/alexanderborsuk">}}
 {{<svg icon="cv/svg/github.svg" href="https://github.com/biodranik/" caption="github.com/biodranik">}}
 {{<svg icon="cv/svg/fb.svg" href="https://www.facebook.com/biodranik" caption="fb.me/biodranik">}}
+{{<svg icon="cv/svg/tw.svg" href="https://twitter.com/biodranik" caption="@biodranik">}}
 
 ## Personal values and interests
 
