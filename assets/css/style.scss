@@ -59,6 +59,42 @@ h4 {
   border-bottom: 1px dotted $textColor;
 }
 
+summary {
+  @media not print {
+    cursor: pointer;
+    box-sizing: border-box;
+    min-height: 44px;
+    padding-block: 0.65rem;
+
+    &:focus-visible {
+      outline: 2px solid #006385;
+      outline-offset: 3px;
+    }
+  }
+
+  @media print {
+    display: block;
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+  }
+}
+
+.details-hint {
+  color: #006385;
+  font-size: 0.875em;
+}
+
+.hide-details,
+details[open] > summary .show-details {
+  display: none;
+}
+
+details[open] > summary .hide-details {
+  display: inline;
+}
+
 .daterange {
   float: right;
   margin-left: 0.5em;

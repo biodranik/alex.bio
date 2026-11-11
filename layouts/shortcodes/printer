@@ -1,17 +1,19 @@
-<div class="printer">
+<span class="printer">
   <a href="javascript:onPrinter()" title="Print this page">🖨</a>
   <script>
-    onload = (event) => {
-      // Expand all details tags when the page is loaded.
-      document.querySelectorAll('details').forEach((element) => {
-        element.setAttribute('open', '');
-      });
-    };
+    let savedDetails = null;
 
     function onBeforePrint() {
-      // Collapse all details tags when the page is printed.
-      document.querySelectorAll('details').forEach((element) => {
-        element.removeAttribute("open");
+      // Preserve the reader's choices, even if beforeprint fires again.
+      if (savedDetails === null) {
+        savedDetails = Array.from(
+          document.querySelectorAll('details'),
+          (element) => [element, element.open]
+        );
+      }
+
+      savedDetails.forEach(([element]) => {
+        element.open = true;
       });
 
       var city = document.getElementById('caption_city');
@@ -26,12 +28,20 @@
       }
     }
 
+    function onAfterPrint() {
+      if (savedDetails === null) return;
+
+      savedDetails.forEach(([element, wasOpen]) => {
+        element.open = wasOpen;
+      });
+      savedDetails = null;
+    }
+
     function onPrinter() {
-      onBeforePrint();
       window.print();
     }
 
-    // Set global on before print handler
-    onbeforeprint = onBeforePrint;
+    window.addEventListener('beforeprint', onBeforePrint);
+    window.addEventListener('afterprint', onAfterPrint);
   </script>
 </span>

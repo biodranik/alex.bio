@@ -130,6 +130,10 @@ Hexagon Robotics is a Swiss company developing advanced robotic solutions, inclu
 <details>
 <summary>
 Making humanoid robots reliable and efficient as part of the Mission Team.
+  <span class="details-hint noprint">
+    <span class="show-details">Show details</span>
+    <span class="hide-details">Hide details</span>
+  </span>
 </summary>
 
 - Fixed ROS2 communication issues and promoted migration away from ROS
@@ -171,6 +175,10 @@ Phenix Real Time Solutions' technology publishes and streams synchronized, real-
 <details>
 <summary>
 Development and bug fixes for the low latency C++ core engine in the cloud, including optimization of the build toolchain, improving and fixing bugs in the iOS/Android SDKs.
+  <span class="details-hint noprint">
+    <span class="show-details">Show details</span>
+    <span class="hide-details">Hide details</span>
+  </span>
 </summary>
 
 - Reduced project build times by a factor of 1.5–4 to save development and CI time
@@ -226,6 +234,10 @@ You can also install the APK directly [from GitHub](https://github.com/organicma
 <details>
 <summary>
 In my free time, I contribute to Organic Maps, maintain the app, and coordinate its development. Here I learn and experiment with new technologies, and learn from the community.
+  <span class="details-hint noprint">
+    <span class="show-details">Show details</span>
+    <span class="hide-details">Hide details</span>
+  </span>
 </summary>
 
 - Maintaining and improving the Organic Maps codebase
@@ -279,6 +291,10 @@ real-time feedback on yoga practice.
 <details>
 <summary>
 Implemented scalable live video lessons on desktops and mobile phones for yoga instructors and their students.
+  <span class="details-hint noprint">
+    <span class="show-details">Show details</span>
+    <span class="hide-details">Hide details</span>
+  </span>
 </summary>
 
 - Designed and implemented a scalable AWS video CDN for real-time live classes
@@ -313,6 +329,10 @@ Qnective is a leading provider of sophisticated communication solutions and serv
 <details>
 <summary>
 Projects I worked on:
+  <span class="details-hint noprint">
+    <span class="show-details">Show details</span>
+    <span class="hide-details">Hide details</span>
+  </span>
 
 - Qtalk, a secure messenger for enterprises and governments (iOS, Android, and Windows)
 - Qnet, a secure voice and messaging app for low-end Android devices
@@ -378,6 +398,10 @@ VibroBox is a vibration-based diagnostics service for scalable [prescriptive mai
 <details>
 <summary>
 VibroBox works with a wide range of rotary equipment, including pumps, turbines, compressors, generators, rotors, engines, bearings, gearboxes, rolling mills, wind farms, and wheel pairs for cars and trains.
+  <span class="details-hint noprint">
+    <span class="show-details">Show details</span>
+    <span class="hide-details">Hide details</span>
+  </span>
 </summary>
 
 My responsibilities at VibroBox:
@@ -451,6 +475,10 @@ Technologies:
 <details>
 <summary class="subheader">
 <strong>{{<daterange "2015" "2016">}} System Architect/VP of Engineering at MAPS.ME (Mail.Ru Group)</strong>
+  <span class="details-hint noprint">
+    <span class="show-details">Show details</span>
+    <span class="hide-details">Hide details</span>
+  </span>
 </summary>
 
 After the [acquisition][] of MAPS.ME, we hired a new engineering team of 25 people in Moscow and transferred all our knowledge to them. I served as VP of Engineering in the Maps department at [Mail.Ru Group](https://corp.mail.ru/en/):
@@ -468,6 +496,10 @@ After the [acquisition][] of MAPS.ME, we hired a new engineering team of 25 peop
 <details>
 <summary class="subheader">
 <strong>{{<daterange "2013" "2015">}} Co-founder, CTO</strong>
+  <span class="details-hint noprint">
+    <span class="show-details">Show details</span>
+    <span class="hide-details">Hide details</span>
+  </span>
 </summary>
 
 I continued to grow the startup until its acquisition.
@@ -486,6 +518,10 @@ I continued to grow the startup until its acquisition.
 <details>
 <summary class="subheader">
 <strong>{{<daterange "2012" "2013">}} Co-founder, CEO</strong>
+  <span class="details-hint noprint">
+    <span class="show-details">Show details</span>
+    <span class="hide-details">Hide details</span>
+  </span>
 </summary>
 
 The most challenging period for MAPS.ME was when we grew our team and user base while trying to sell a paid app in the App Store and on Google Play.
@@ -506,6 +542,10 @@ The most challenging period for MAPS.ME was when we grew our team and user base 
 <details>
 <summary class="subheader">
 <strong>{{<daterange "2010" "2012">}} Co-founder</strong>
+  <span class="details-hint noprint">
+    <span class="show-details">Show details</span>
+    <span class="hide-details">Hide details</span>
+  </span>
 </summary>
 
 At that time, I led our small team of 3 in Minsk and was responsible for a cross-platform build environment, code reviews, iOS, and Android. The most notable tasks included:
@@ -524,6 +564,10 @@ BLRSoft, the R&D subsidiary of [Abaxia](https://www.crunchbase.com/organization/
 <details>
 <summary>
 I held several roles, including Senior Software Engineer, Team and Technical Lead, Project Manager, and Technical Director, while developing mobile software for Symbian and Windows Mobile.
+  <span class="details-hint noprint">
+    <span class="show-details">Show details</span>
+    <span class="hide-details">Hide details</span>
+  </span>
 </summary>
 
 Work highlights:
@@ -566,6 +610,10 @@ InfoTechnology was a Belarusian division of [XIM](https://ximxim.com/), a compan
 <details>
 <summary>
 I developed a music, humming, and singing recognition app for Symbian devices called <a href="https://www.midomi.com/">Midomi</a> for <a href="https://www.soundhound.com/">SoundHound Inc.</a>
+  <span class="details-hint noprint">
+    <span class="show-details">Show details</span>
+    <span class="hide-details">Hide details</span>
+  </span>
 </summary>
 
 Work highlights:
@@ -589,6 +637,10 @@ Technologies:
 <details>
 <summary>
 Development of the DVD Ripper/Player Station project, a Windows application that allows users to play and rip DVD content easily on touchscreen devices.
+  <span class="details-hint noprint">
+    <span class="show-details">Show details</span>
+    <span class="hide-details">Hide details</span>
+  </span>
 </summary>
 
 Together with another developer, I implemented:
@@ -613,6 +665,10 @@ Technologies:
 <details>
 <summary>
 Development and support of "Smart IP," a transparent TCP/UDP network optimizer and switcher for desktop and mobile platforms, for a US-based customer.
+  <span class="details-hint noprint">
+    <span class="show-details">Show details</span>
+    <span class="hide-details">Hide details</span>
+  </span>
 </summary>
 
 Work highlights:
@@ -639,6 +695,10 @@ Credo Dialogue is a scientific and industrial company developing CAD systems tha
 <details>
 <summary>
 I worked on Topoplan and Genplan CAD software, 3D terrain and building modeling and editing, computational geometry algorithms, and project documentation.
+  <span class="details-hint noprint">
+    <span class="show-details">Show details</span>
+    <span class="hide-details">Hide details</span>
+  </span>
 </summary>
 
 Here I met my future MAPS.ME co-founders
