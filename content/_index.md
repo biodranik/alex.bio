@@ -139,22 +139,26 @@ Making humanoid robots reliable and efficient as part of the Mission Team.
 </summary>
 
 - Fixed ROS2 communication issues and promoted migration away from ROS
-- Improved the robustness of the Imitation Learning (IL) pipeline (Python, real time media processing, inference on Jetson, porting to C++20)
+- Improved the robustness of the Imitation Learning (IL) and Teleoperation (Teleop) pipelines (Python, real time media processing, inference on Jetson, porting to C++20)
 - Performance optimization, robustness improvements, and bug fixes for the Python/C++/ROS2 core engine
 - Integration with external hardware and SDKs, including data collection and control for robot's Absolute Scanner AS1 and Absolute Tracker AT960
 - Feature development and testing
+- Testing on robot, hardware-in-the-loop (HIL) and simulation in Isaac Sim
 - Build system, CI/CD improvements and support
-- Code reviews
+- Manual and automated code reviews
 - Documentation and tooling
-- Shared best practices (inlcuding LLM) and knowledge with the team and helped onboard new team members
+- Shared best SWE practices and knowledge with the team and helped onboard new team members
+- Tooling, LLM and agent harness setup and documentation
 </details>
 
 Technologies:
 : C++20
 : Python
 : ROS2
+: CycloneDDS
 : Nix
 : CUDA
+: NVidia Jetson Orin and Thor
 : CMake
 : Boost
 : Bash
@@ -168,6 +172,7 @@ Technologies:
 : Codex
 : Copilot
 : BehaviorTree.CPP
+: AEON
 
 
 ### {{<daterange "2022-05-01" "2024-07-31">}} C++ and Mobile Performance Engineer at [Phenix Real Time Solutions, Inc.][] (Zurich, Switzerland)
